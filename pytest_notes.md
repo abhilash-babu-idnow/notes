@@ -7,9 +7,10 @@
 
 ## Installing Plugins
 
-> Plugins are installed using **pip**
-> Examples:
-> pip install pytest-cov
-> pip install pytest-cov==2.4.0
+> Plugins are installed using **pip**  
+>
+> Examples:  
+> pip install pytest-cov  
+> pip install pytest-cov==2.4.0  
 
 
