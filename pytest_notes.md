@@ -47,6 +47,64 @@ Normal Python **assert** statement is used to communicate test failure.
 > assert \<expression\>
 > If the expression evaluates to **False** then the test would fail.
 
+# Chapter 3 - Fixtures
+
+> Fixtures are functions that are run by **pytest** before and after the actual test function.
+
+Use cases:
+* To get the data for the testfunction
+* Preparing the system for the test. Like setting up the database etc.
+* To get the data ready for multiple tests.
+
+Simple fixture
+
+```python
+import pytest
+
+@pytest.fixture()
+def some_data():
+    return 42
+
+def test_some_data(some_data):
+    assert some_data == 42
+```
+
+@pytest.fixture decorator includes the fixture name in the parameter list of a test function. Fixture will then be called before and optionally after the test function. Fixture can execute some functionality and return some data to the test function.
+
+**pytest** will look for the fixture first the test function file and if it is not found then it will look in **conftest.py**. So in order to share fixtures across test functions it has to be provided in conftest.py and doesnt have to be imported in the test function files.
+
+Example showing setup and tear down using pytest fixtures
+
+```python
+import pytest
+
+@pytest.fixture()
+def test_fixture():
+    # Setup related logic
+
+    yield # here the test function will get called
+
+    # Tear down related logic which will be called when the test function is completed.
+
+```
+
+### Tracing fixture execution
+
+### Using fixture for test data
+
+### Using fixture for multiple fixtures
+
+### Fixture scope
+
+### **usefixture** keyword
+
+### **autouse** keyword
+
+### Renaming fixtures
+
+### Parameterizing fixtures
+
+
 # Chapter 5 - Plugins
 
 ## Finding Plugins
