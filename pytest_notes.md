@@ -167,7 +167,7 @@ class TestSomething():
 
 ### **autouse** keyword
 > We can use autouse=True to get a fixture to run all the time.
-```
+```python
 import pytest
 
 @pytest.fixture(autouse=True):
@@ -197,8 +197,39 @@ def test_demo(demo):
 > pytest command line option --fixtures lists all the fixtures available for test, including the renamed ones.
 
 ### Parameterizing fixtures
+> With Parameterized fixtures each test function that uses the fixture will be called as many times as the number of items in the parameter. 
 
+Parameterization of the fixtures is done using the builtin fixture **request**. The list of parameter values should be set to *params* and the fixture should return *param* field of *request* builtin fixture.
 
+Example
+
+```python
+import pytest
+
+data = [2, 4, 5, 6]
+
+@pytest.fixture(params = data)
+def data_fixture(request):
+    """
+    parameterized fixture
+    """
+    return request.param
+
+def test_even(data_fixture):
+    assert data_fixture % 2 == 0
+
+```
+
+If along with the *params* argument an *ids* argument is provided which should be a function that provides **id** for each invocation of the fixture or a list of ids. So when pytest is invoked in verbose mode one can see what parameter is passed from the fixture to the test function.
+
+```python
+def id_func(item):
+    return f"Calling with data: {item}"
+
+@pytest.fixture(params=data, ids=id_func)
+def test_even(data_fixture):
+    assert data_fixture % 2 == 0
+```
 
 # Chapter 5 - Plugins
 
