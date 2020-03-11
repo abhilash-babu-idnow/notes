@@ -247,3 +247,73 @@ def test_even(data_fixture):
 > pip install pytest-cov==2.4.0
 
 
+## Writing your own plugins
+
+* Fixtures that can be shared across projects can be packaged into a plugin.
+* Hooks which will alter the way pytest behaves can also be packaged into a plugin.
+
+The hook function **pytest_report_teststatus()** changes the test status
+
+```python
+import pytest
+
+def pytest_report_teststatus(report):
+    if report.when == 'call':
+        if report.failed and pytest.config.getoption('nice'):
+            return (report.outcome, 'O', 'OPPORTUNITY for improvement')
+```
+
+> The above hook function will set the status of test on fail as 'O' instead of 'F' and in verbose will show 'OPPORTUNITY for improvement', if pytest is called with the option --nice.
+
+### Installable plugin.
+
+
+# Chapter 6 - Configuration
+
+* pytest.ini - primary configuration file
+* conftest.py - local plugin to allow hook functions and fixtures.
+* __init__.py - when put in test sub directories, this file allows you to have identical test file names in multiple test directories. (think of namespace.)
+
+What can you do?
+
+* Change the default command line options. 
+
+```ini
+[pytest]
+addopts = -rsxX -l --tb=short --strict
+```
+
+* Registering Markers to Avoid Marker Typos
+
+* Requiring a minimum pytest version
+```ini
+[pytest]
+minversion = 3.0
+```
+
+* Stopping pytest from looking in the wrong places.
+Specify the folders that has to be skipped for finding test cases as shown below
+```ini
+norecursedirs = .* dist build
+```
+
+* Specifying the test directory locations. 
+Specify the test directory with *testpaths*. Folders relative to the root path will be then searched for test files. 
+```ini
+testpaths = tests
+``` 
+
+* Changing Test Discovery Rules.
+One can specify the pattern for python classes, python files, and python functions using the params *python_classes*, *python_files* and *python_functions* respectively
+
+For example, the below setting will make pytest to consider the functions whose name start with *check_* also as test functions. 
+
+```
+python_functions = test_* check_*
+```
+
+* Disallowing XPASS
+Setting *xfail_strict=true* will report the tests that are marked with *@pytest.mark.xfail* as an error.
+
+* Allowing Filename collisions
+Having **__init__.py** files in each sub directory of tests will then allow samefile names for the test modules. i.e. folder1/test_foo.py and folder2/test_foo.py will work if there is __init__.py file in both folder1 and folder2
