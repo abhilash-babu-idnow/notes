@@ -197,7 +197,7 @@ def test_demo(demo):
 > pytest command line option --fixtures lists all the fixtures available for test, including the renamed ones.
 
 ### Parameterizing fixtures
-> With Parameterized fixtures each test function that uses the fixture will be called as many times as the number of items in the parameter. 
+> With Parameterized fixtures each test function that uses the fixture will be called as many times as the number of items in the parameter.
 
 Parameterization of the fixtures is done using the builtin fixture **request**. The list of parameter values should be set to *params* and the fixture should return *param* field of *request* builtin fixture.
 
@@ -230,6 +230,14 @@ def id_func(item):
 def test_even(data_fixture):
     assert data_fixture % 2 == 0
 ```
+
+# Chapter 4 - Builtin Fixtures
+
+## tmpdir and tmpdir_factory
+
+* Used to create temporary file and system directory before the test runs and to delete them after the test is finished.
+
+> tmpdir has function scopte and tmpdir_factory has session scope.    
 
 # Chapter 5 - Plugins
 
