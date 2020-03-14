@@ -47,6 +47,70 @@ Normal Python **assert** statement is used to communicate test failure.
 > assert \<expression\>
 > If the expression evaluates to **False** then the test would fail.
 
+In verbose mode, pytest will also show where exactly the assertion failed. 
+
+### Expecting Exceptions
+```python
+import pytest
+
+def test_with_exception():
+    """ somefunc should raise TypeError """
+    with pytest.raises(TypeError):
+        somefunct()
+```
+pytest will report failure if somefunc doesn't raise the TypeError.
+We can also check the execption message.
+
+```python
+import pytest
+
+def test_exception_msg():
+    """ test the exception message """
+    with pytest.raises(ValueError) as excinfo:
+        somefunc()
+    exception_msg = excinfo.value.args[0]
+    assert exception_msg == "expected exception message"
+```    
+
+### Marking test functions
+A test can have more than one marker.
+A marker can be on multiple tests.
+
+### Skipping test functions
+There are three builtin markers to skip the tests: *skip*, *skipif* an *xfail*.
+
+You can skip a test by setting the marker like this
+```python
+import pytest
+
+@pytest.mark.skip(reason="some reason")
+def test_skipped_test():
+    """ some test that needs to be skipped
+```
+
+You can also do conditional skipping of the tests like this.
+In the code below *somecondition* is any valid Python expression.
+```python
+import pytest
+
+@pytest.mark.skipif(somecondition, reason="somecondition is not satisfied")
+def test_skip_cond_test():
+    """ some test that will be skipped based on some condition """
+```
+> In order to see the reason for skipping, use the command line option -rs.
+
+### Marking tests as expecting to fail.
+
+### Running a subset of tests.
+
+* Single Directory - use directory as the paramter to pytest
+* Single Test file/module - use file with relative path as paramter to pytest
+* Single Test fucnction - use file with relative path followed by :: and function name 
+* Single Test class - use file with relative path followed by :: and class name
+* Single Test method of a test class - use file with relative path followed by ::, classname, :: and test method name.
+* Set of Tests based on test name - use the command line option -k, for example -k _raises will run all the functions with _raises in their name
+* 
+
 # Chapter 3 - Fixtures
 
 > Fixtures are functions that are run by **pytest** before and after the actual test function.
@@ -292,6 +356,15 @@ addopts = -rsxX -l --tb=short --strict
 ```
 
 * Registering Markers to Avoid Marker Typos
+Registering markers in the ini file and combining with the command line option --strict=true, we can avoid misspelled markers. pytest will throw an error if it finds an unregistered marker.
+```ini
+[pytest]
+markers =
+    smoke: Run the smoke test functions
+    get: Run the get test functions
+```
+
+The registered markers can be listed with the command `pytest --markers`
 
 * Requiring a minimum pytest version
 ```ini
@@ -302,12 +375,14 @@ minversion = 3.0
 * Stopping pytest from looking in the wrong places.
 Specify the folders that has to be skipped for finding test cases as shown below
 ```ini
+[pytest]
 norecursedirs = .* dist build
 ```
 
 * Specifying the test directory locations.
 Specify the test directory with *testpaths*. Folders relative to the root path will be then searched for test files.
 ```ini
+[pytest]
 testpaths = tests
 ```
 
@@ -317,6 +392,7 @@ One can specify the pattern for python classes, python files, and python functio
 For example, the below setting will make pytest to consider the functions whose name start with *check_* also as test functions.
 
 ```
+[pytest]
 python_functions = test_* check_*
 ```
 
