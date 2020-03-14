@@ -237,7 +237,7 @@ def test_even(data_fixture):
 
 * Used to create temporary file and system directory before the test runs and to delete them after the test is finished.
 
-> tmpdir has function scopte and tmpdir_factory has session scope.    
+> tmpdir has function scopte and tmpdir_factory has session scope.
 
 # Chapter 5 - Plugins
 
@@ -284,7 +284,7 @@ def pytest_report_teststatus(report):
 
 What can you do?
 
-* Change the default command line options. 
+* Change the default command line options.
 
 ```ini
 [pytest]
@@ -305,16 +305,16 @@ Specify the folders that has to be skipped for finding test cases as shown below
 norecursedirs = .* dist build
 ```
 
-* Specifying the test directory locations. 
-Specify the test directory with *testpaths*. Folders relative to the root path will be then searched for test files. 
+* Specifying the test directory locations.
+Specify the test directory with *testpaths*. Folders relative to the root path will be then searched for test files.
 ```ini
 testpaths = tests
-``` 
+```
 
 * Changing Test Discovery Rules.
 One can specify the pattern for python classes, python files, and python functions using the params *python_classes*, *python_files* and *python_functions* respectively
 
-For example, the below setting will make pytest to consider the functions whose name start with *check_* also as test functions. 
+For example, the below setting will make pytest to consider the functions whose name start with *check_* also as test functions.
 
 ```
 python_functions = test_* check_*
@@ -325,3 +325,9 @@ Setting *xfail_strict=true* will report the tests that are marked with *@pytest.
 
 * Allowing Filename collisions
 Having **__init__.py** files in each sub directory of tests will then allow samefile names for the test modules. i.e. folder1/test_foo.py and folder2/test_foo.py will work if there is __init__.py file in both folder1 and folder2
+
+# Chapter 7 - Using pytest with other tools
+
+* Command line option --pdb will open a pdb debugging session at the point of failure.
+* Code coverage can be determined using the plugin *pytest-cov* for *coverage.py*
+* mock package is shipped as part of the python standard library as unittest-mock. The plugin *pytest-mock* can be used.
