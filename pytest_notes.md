@@ -25,7 +25,16 @@ Some of the other useful command lind flags are
     > pytest -k "asdict or defaults" --collect-only
     > The above command will trigger and stats program.
 
-*
+* -m : use mark expression to choose the tests with marks
+* -x : exit on first failure
+* -s : no capture
+* --lf : rerun only the tests that failed last time
+* --ff : run all tests but run the last failed first
+* -v : verbose
+* -q : quiet
+* --tb=auto/long/short/line/native/no : traceback
+* --collect-only : only collect the test. Don't run them
+
 
 # Chapter 2 - Writing Test Functions
 Goals :
@@ -47,7 +56,7 @@ Normal Python **assert** statement is used to communicate test failure.
 > assert \<expression\>
 > If the expression evaluates to **False** then the test would fail.
 
-In verbose mode, pytest will also show where exactly the assertion failed. 
+In verbose mode, pytest will also show where exactly the assertion failed.
 
 ### Expecting Exceptions
 ```python
@@ -70,7 +79,7 @@ def test_exception_msg():
         somefunc()
     exception_msg = excinfo.value.args[0]
     assert exception_msg == "expected exception message"
-```    
+```
 
 ### Marking test functions
 A test can have more than one marker.
@@ -105,11 +114,11 @@ def test_skip_cond_test():
 
 * Single Directory - use directory as the paramter to pytest
 * Single Test file/module - use file with relative path as paramter to pytest
-* Single Test fucnction - use file with relative path followed by :: and function name 
+* Single Test fucnction - use file with relative path followed by :: and function name
 * Single Test class - use file with relative path followed by :: and class name
 * Single Test method of a test class - use file with relative path followed by ::, classname, :: and test method name.
 * Set of Tests based on test name - use the command line option -k, for example -k _raises will run all the functions with _raises in their name
-* 
+*
 
 # Chapter 3 - Fixtures
 
