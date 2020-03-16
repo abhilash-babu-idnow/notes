@@ -416,3 +416,12 @@ Having **__init__.py** files in each sub directory of tests will then allow same
 * Command line option --pdb will open a pdb debugging session at the point of failure.
 * Code coverage can be determined using the plugin *pytest-cov* for *coverage.py*
 * mock package is shipped as part of the python standard library as unittest-mock. The plugin *pytest-mock* can be used.
+* tox is a command line tool that allows you to run complete suite of tests in multiple environments. All the configuration needed for tox will gointo the file tox.ini
+* Jenkins CI - automating your automated tests. following plugins might be useful
+  ** build-name-setter - sets the display name of the build
+  ** Test Results Analyzer Plugin - shows the history of test execution results in a tabular or graphical format.
+* unittest -
+    ** pytest markers can be  used on unittest test cases
+    ** beware of the setup and teardown function of test cases that are shared between pytest and unittest.
+    ** cannot use parameterized fixtures with unittest.
+
