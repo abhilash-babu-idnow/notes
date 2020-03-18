@@ -116,7 +116,7 @@ def test_skip_cond_test():
 * Single Test file/module - use file with relative path as paramter to pytest
 * Single Test class - use file with relative path followed by :: and class name
 * Single Test method of a test class - use file with relative path followed by ::, classname, :: and test method name.
-* Set of Tests based on test name - use the command line option -k, for example -k _raises will run all the functions with _raises in their name
+* Set of Tests based on test name - use the command line option -k, for example '-k raises' will run all the functions with raises in their name
 
 # Chapter 3 - Fixtures
 
@@ -344,7 +344,26 @@ def pytest_report_teststatus(report):
 > The above hook function will set the status of test on fail as 'O' instead of 'F' and in verbose will show 'OPPORTUNITY for improvement', if pytest is called with the option --nice.
 
 ### Installable plugin.
+Example building a plugin with command line option --nice: 
+Create the following folder structure
+pytest.nice
+|-- LICENCE
+|-- README.rst
+|-- pytest_nice.py
+|-- setup.py
+|-- tests
+    |-- conftest.py
+    |-- test_nice.py
 
+pytest_nice.py:
+
+```python
+import pytest
+
+def pytest_addoption(parser):
+    group = parser.getgroup('nice')
+    group.addoption("--nice", action = "store_true")
+```
 
 # Chapter 6 - Configuration
 
