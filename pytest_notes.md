@@ -566,6 +566,16 @@ Having **__init__.py** files in each sub directory of tests will then allow same
 # Chapter 7 - Using pytest with other tools
 
 * Command line option --pdb will open a pdb debugging session at the point of failure.
+  * p/print expr: Prints the value of exp.
+  * q/quit: Quits the debugging session.
+  * pp expr: Pretty prints the value of expr.
+  * l/list: Lists the point of failure and five lines of code above and below.
+  * l/list begin,end: Lists specific line numbers.
+  * a/args: Prints the arguments of the current function with their values. (This is helpful when in a test helper function.)
+  * u/up: Moves up one level in the stack trace.
+  * d/down: Moves down one level in the stack trace.
+
+
 * Code coverage can be determined using the plugin *pytest-cov* for *coverage.py*
 * mock package is shipped as part of the python standard library as unittest-mock. The plugin *pytest-mock* can be used.
 * tox is a command line tool that allows you to run complete suite of tests in multiple environments. All the configuration needed for tox will gointo the file tox.ini
