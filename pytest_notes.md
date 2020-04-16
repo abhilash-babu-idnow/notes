@@ -25,7 +25,16 @@ Some of the other useful command lind flags are
     > pytest -k "asdict or defaults" --collect-only
     > The above command will trigger and stats program.
 
-*
+* -m : use mark expression to choose the tests with marks
+* -x : exit on first failure
+* -s : no capture
+* --lf : rerun only the tests that failed last time
+* --ff : run all tests but run the last failed first
+* -v : verbose
+* -q : quiet
+* --tb=auto/long/short/line/native/no : traceback
+* --collect-only : only collect the test. Don't run them
+
 
 # Chapter 2 - Writing Test Functions
 Goals :
@@ -47,7 +56,7 @@ Normal Python **assert** statement is used to communicate test failure.
 > assert \<expression\>
 > If the expression evaluates to **False** then the test would fail.
 
-In verbose mode, pytest will also show where exactly the assertion failed. 
+In verbose mode, pytest will also show where exactly the assertion failed.
 
 ### Expecting Exceptions
 ```python
@@ -70,7 +79,7 @@ def test_exception_msg():
         somefunc()
     exception_msg = excinfo.value.args[0]
     assert exception_msg == "expected exception message"
-```    
+```
 
 ### Marking test functions
 A test can have more than one marker.
@@ -105,11 +114,11 @@ def test_skip_cond_test():
 
 * Single Directory - use directory as the paramter to pytest
 * Single Test file/module - use file with relative path as paramter to pytest
-* Single Test fucnction - use file with relative path followed by :: and function name 
+* Single Test fucnction - use file with relative path followed by :: and function name
 * Single Test class - use file with relative path followed by :: and class name
 * Single Test method of a test class - use file with relative path followed by ::, classname, :: and test method name.
 * Set of Tests based on test name - use the command line option -k, for example -k _raises will run all the functions with _raises in their name
-* 
+*
 
 # Chapter 3 - Fixtures
 
@@ -261,7 +270,7 @@ def test_demo(demo):
 > pytest command line option --fixtures lists all the fixtures available for test, including the renamed ones.
 
 ### Parameterizing fixtures
-> With Parameterized fixtures each test function that uses the fixture will be called as many times as the number of items in the parameter. 
+> With Parameterized fixtures each test function that uses the fixture will be called as many times as the number of items in the parameter.
 
 Parameterization of the fixtures is done using the builtin fixture **request**. The list of parameter values should be set to *params* and the fixture should return *param* field of *request* builtin fixture.
 
@@ -294,6 +303,14 @@ def id_func(item):
 def test_even(data_fixture):
     assert data_fixture % 2 == 0
 ```
+
+# Chapter 4 - Builtin Fixtures
+
+## tmpdir and tmpdir_factory
+
+* Used to create temporary file and system directory before the test runs and to delete them after the test is finished.
+
+> tmpdir has function scopte and tmpdir_factory has session scope.
 
 # Chapter 5 - Plugins
 
@@ -340,7 +357,7 @@ def pytest_report_teststatus(report):
 
 What can you do?
 
-* Change the default command line options. 
+* Change the default command line options.
 
 ```ini
 [pytest]
@@ -371,17 +388,17 @@ Specify the folders that has to be skipped for finding test cases as shown below
 norecursedirs = .* dist build
 ```
 
-* Specifying the test directory locations. 
-Specify the test directory with *testpaths*. Folders relative to the root path will be then searched for test files. 
+* Specifying the test directory locations.
+Specify the test directory with *testpaths*. Folders relative to the root path will be then searched for test files.
 ```ini
 [pytest]
 testpaths = tests
-``` 
+```
 
 * Changing Test Discovery Rules.
 One can specify the pattern for python classes, python files, and python functions using the params *python_classes*, *python_files* and *python_functions* respectively
 
-For example, the below setting will make pytest to consider the functions whose name start with *check_* also as test functions. 
+For example, the below setting will make pytest to consider the functions whose name start with *check_* also as test functions.
 
 ```
 [pytest]
@@ -394,20 +411,27 @@ Setting *xfail_strict=true* will report the tests that are marked with *@pytest.
 * Allowing Filename collisions
 Having **__init__.py** files in each sub directory of tests will then allow samefile names for the test modules. i.e. folder1/test_foo.py and folder2/test_foo.py will work if there is __init__.py file in both folder1 and folder2
 
-# Chapter 7 - Using pytest with Other tools
+# Chapter 7 - Using pytest with other tools
 
-## pdb
+* Command line option --pdb will open a pdb debugging session at the point of failure.
+  * p/print expr: Prints the value of exp.
+  * q/quit: Quits the debugging session.
+  * pp expr: Pretty prints the value of expr.
+  * l/list: Lists the point of failure and five lines of code above and below.
+  * l/list begin,end: Lists specific line numbers.
+  * a/args: Prints the arguments of the current function with their values. (This is helpful when in a test helper function.)
+  * u/up: Moves up one level in the stack trace.
+  * d/down: Moves down one level in the stack trace.
 
-> "--pdb: Starts an interactive debugging session at the point of failure."
 
-* p/print expr: Prints the value of exp.
-* q/quit: Quits the debugging session.
-* pp expr: Pretty prints the value of expr.
-* l/list: Lists the point of failure and five lines of code above and below.
-* l/list begin,end: Lists specific line numbers.
-* a/args: Prints the arguments of the current function with their values. (This is helpful when in a test helper function.)
-* u/up: Moves up one level in the stack trace.
-* d/down: Moves down one level in the stack trace.
-
-## coverage.py
+* Code coverage can be determined using the plugin *pytest-cov* for *coverage.py*
+* mock package is shipped as part of the python standard library as unittest-mock. The plugin *pytest-mock* can be used.
+* tox is a command line tool that allows you to run complete suite of tests in multiple environments. All the configuration needed for tox will gointo the file tox.ini
+* Jenkins CI - automating your automated tests. following plugins might be useful
+  ** build-name-setter - sets the display name of the build
+  ** Test Results Analyzer Plugin - shows the history of test execution results in a tabular or graphical format.
+* unittest -
+    ** pytest markers can be  used on unittest test cases
+    ** beware of the setup and teardown function of test cases that are shared between pytest and unittest.
+    ** cannot use parameterized fixtures with unittest.
 
