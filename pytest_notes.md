@@ -393,3 +393,21 @@ Setting *xfail_strict=true* will report the tests that are marked with *@pytest.
 
 * Allowing Filename collisions
 Having **__init__.py** files in each sub directory of tests will then allow samefile names for the test modules. i.e. folder1/test_foo.py and folder2/test_foo.py will work if there is __init__.py file in both folder1 and folder2
+
+# Chapter 7 - Using pytest with Other tools
+
+## pdb
+
+> "--pdb: Starts an interactive debugging session at the point of failure."
+
+* p/print expr: Prints the value of exp.
+* q/quit: Quits the debugging session.
+* pp expr: Pretty prints the value of expr.
+* l/list: Lists the point of failure and five lines of code above and below.
+* l/list begin,end: Lists specific line numbers.
+* a/args: Prints the arguments of the current function with their values. (This is helpful when in a test helper function.)
+* u/up: Moves up one level in the stack trace.
+* d/down: Moves down one level in the stack trace.
+
+## coverage.py
+
