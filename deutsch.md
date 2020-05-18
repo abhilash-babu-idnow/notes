@@ -12,3 +12,11 @@
 * Einzelheiten ; details <br> Bitte können Sie mir Einzelheiten über Flüge nach London geben.
 * Anpassungsfahigkeit ; adaptability, resilience, flexibility. <br> Ich bin überzeugt, daß ich bei meiner Anpassungsfahigkeit die Umstellung gut schaffen würde.
     * Vorschlag ; Suggestion. Mein Vorschlag waere ....
+
+# 5/18/2020 9:32:43 AM
+
+* anstoßen ; to bump, to shove .. to drink a toast to something or somebody. „Ich habe heute meinen Arbeitsvertrag für meine neue Arbeitsstelle unterschrieben! Darauf müssen wir anstoßen!“
+* die Tätigkeit ; activity, tasks, occupation. Ich finde meine berufliche Tätigkeit sehr interessant. Es gibt immer etwas Neues.
+* Tatem ; doings, actions. wir taten, wie uns befohlen wurde (We did as we were told).
+* Zugehörigkeit ; affinity, belonging, membership
+* Beziehung ; relationship, connection. Wir haben gute Beziehungen zu unseren Nachbarn.
