@@ -15,6 +15,10 @@ _Sie __hatte__ sehr lange __geübt__, bevor sie das Stück so perfekt spielen ko
 |Sie     |Sie _waren_|Sie _hatten_|
 
 Wir hatten die E-mail schon gelesen, als der Rechner abstürzte. (We had already read the email, when the computer crashed)
+
 Ich war ein Stück gelaufen, als mir plötzlich das Bein weh tat. (I had run for a bit, when suddenly my legs started hurting.)
+
 Hattet ihr für die Arbeit gelernt? (Had you been studying for work)
+
 Warst du zuvor schon dort gewesen? (Had you ever been there before)
+
