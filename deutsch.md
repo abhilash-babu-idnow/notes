@@ -11,7 +11,7 @@
 
 * Einzelheiten ; details <br> Bitte können Sie mir Einzelheiten über Flüge nach London geben.
 * Anpassungsfahigkeit ; adaptability, resilience, flexibility. <br> Ich bin überzeugt, daß ich bei meiner Anpassungsfahigkeit die Umstellung gut schaffen würde.
-    * Vorschlag ; Suggestion. Mein Vorschlag waere ....
+* Vorschlag ; Suggestion. Mein Vorschlag wäre ....
 
 # 5/18/2020 9:32:43 AM
 
@@ -20,3 +20,11 @@
 * Tatem ; doings, actions. wir taten, wie uns befohlen wurde (We did as we were told).
 * Zugehörigkeit ; affinity, belonging, membership
 * Beziehung ; relationship, connection. Wir haben gute Beziehungen zu unseren Nachbarn.
+
+# 5/20/2020 10:43:00 AM
+
+* vorwiegend ; predomainatly, mainly, principally. <br> Entwicklung von Software bzw. Software Architekturen, vorwiegend mit C++ oder C# 
+* verzögern ; to stall, to delay, to defer <br> All diese Umstände hatten den Reiseverlauf verzögert.
+* Reiseverlauf ; itinerary <br> All diese Umstände hatten den Reiseverlauf verzögert.
+* Umstände ; circumstances, conditions <br> All diese Umstände hatten den Reiseverlauf verzögert.
+* nachgeben; to give in, to concede, to yield. <br> Gebt diesen Forderungen nicht nach
