@@ -22,3 +22,19 @@ Hattet ihr für die Arbeit gelernt? (Had you been studying for work)
 
 Warst du zuvor schon dort gewesen? (Had you ever been there before)
 
+
+# Konjuktiv I
+
+Konjunktiv I used in newspaper articles and reports when statements are repeated as indirect speechand also in certain idiomatic expressions.
+
+| Person | sein   |
+|--------|--------|
+| ich    | sei    |
+| du     | seiest |
+| er     | sei    |
+| wir    | seien  |
+| ihr    | seiet  |
+| Sie    | seien  |
+
+du bring<strong>est</strong> <br>
+er hab<strong>e</strong>
