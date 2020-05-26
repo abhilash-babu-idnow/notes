@@ -38,3 +38,37 @@ Konjunktiv I used in newspaper articles and reports when statements are repeated
 
 du bring<strong>est</strong> <br>
 er hab<strong>e</strong>
+
+# Konjuktiv II
+
+Man verwendet diese Form in verschiedene Situationen.
+* Wünsche / Träume
+    Ich **würde** gerne eine Ausbildung als Zweiradmechatoniker machen
+    Ich **hätte** gerne meinen eigenen Fahrradladen.
+* Irreale Bedingungen mit wenn
+    Wenn du die Ausbildung bei mir machen **würdest**, **hätte** ich einen guten Mitarbeiter.
+* Höffliche Bitten und Fragen
+    Ich **hätte** gerne eine Linsensuppe
+* Vorschlage Empfehlungen mit Modalverben
+    Du **könntest** deine Ausbildung in meinem Laden machen.
+* Vermutungen mit müsste, dürfte, sollte, könnte
+    Sie **müsste** zu Hause sein.
+* um Erstaunen ausdrüken
+    Ich **hätte** nie gedacht, dass ich das schaffe.
+* um Zweifel ausdrücken
+    **Hätte** ich nicht die andere Ausfahrt nehment **müssen**
+* bei Sätzen mit fast oder beinahe
+    **Beinahe** wäre ich zu spät gekommen.
+* bei Sätzen mit sonst oder andernfalls
+    Ich hoffe, das Wetter wird besser. **Andernfalls** müssten wir den Ausflug absagen.
+
+## würde-Form
+
+| Person | würde   | Infinitiv |
+|--------|---------|-----------|
+|  Ich   | würde   | sagen     |
+|  Du    | würdest | sagen     |
+|  Er    | würde   | sagen     |
+|  Wir   | würden  | sagen     |
+|  Ihr   | würdet  | sagen     |
+|  Sie   | würden  | sagen     |
