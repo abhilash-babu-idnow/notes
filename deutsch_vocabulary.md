@@ -24,7 +24,14 @@
 # 5/20/2020 10:43:00 AM
 
 * vorwiegend ; predomainatly, mainly, principally. <br> Entwicklung von Software bzw. Software Architekturen, vorwiegend mit C++ oder C# 
-* verzögern ; to stall, to delay, to defer <br> All diese Umstände hatten den Reiseverlauf verzögert.
-* Reiseverlauf ; itinerary <br> All diese Umstände hatten den Reiseverlauf verzögert.
-* Umstände ; circumstances, conditions <br> All diese Umstände hatten den Reiseverlauf verzögert.
+* verzögern ; to stall, to delay, to defer <br> Alle diese Umstände hatten den Reiseverlauf verzögert.
+* Reiseverlauf ; itinerary <br> Alle diese Umstände hatten den Reiseverlauf verzögert.
+* Umstände ; circumstances, conditions <br> Alle diese Umstände hatten den Reiseverlauf verzögert.
 * nachgeben; to give in, to concede, to yield. <br> Gebt diesen Forderungen nicht nach
+
+# 5/29/2020 10:43:00 AM
+* fehlerhaft ; faulty, incorrect, defective, flawed <br> Das Festplattenlaufwerk ist fehlerhaft und muss ersetzt werden. <br> Das Prinzip ist jedoch offenkundig fehlerhaft. (The prinicple is however patently flawed).
+* vorangeschritten ; advanced, progressed <br> So weit sind die Arbeiten in Brandenburg vorangeschritten <br> Dieser Prozess ist enttäuschend langsam vorangeschritten. (The process has advanced disappointingly slow)
+* überstehen ; withstand, survive, overcome, get through <br> Mit der staatlichen Soforthilfe, dachte Musikerin Vera Klima, sei diese Coronakrise schon zu überstehen.
+* die Auftritte ; apperances (acts), performances 
+* Einkommensverlust ; loss of income
