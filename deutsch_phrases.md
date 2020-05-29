@@ -10,3 +10,9 @@
 * Passt ausgezeichnet. ; That would be fine.
 * Bitte bedienen Sie sich. ; Please help yourself.
 * Das könnte ein bißchen knapp werden. ; That might be a bit tight
+
+# 5/29/2020 1:22:28 AM
+
+* Es wird nicht lange anhalten. ; That won't last.
+* Die Zeit wird es weisen. ; Time will tell.
+* Das ist nicht von der Hand zu weisen. ; That can't be denied.
