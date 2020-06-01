@@ -35,3 +35,16 @@
 * überstehen ; withstand, survive, overcome, get through <br> Mit der staatlichen Soforthilfe, dachte Musikerin Vera Klima, sei diese Coronakrise schon zu überstehen.
 * die Auftritte ; apperances (acts), performances 
 * Einkommensverlust ; loss of income
+
+# 6/01/2020 06:00:00 AM
+
+* Das Rätsel ; puzzle, mystery, riddle.
+* gering ; adj/adv small, low, meagre <br> Ihre Chancen sind gering. (Your chances are low)
+* verteidigen ; to defend, to advocate, to answer for somebody <br> ein Prinzip verteidigen (to defend a principle) <br> eine These verteidigen (to defend a theses)
+* wahren (verb), wahr (adj) ; wahren -> maintain, preserve, safeguard, retain/keep etc. <br> Er ist ein guter Freund, weil er Geheimnisse wahren kann. ( He is a good friend because he can keep secrets) <br> wahr -> true, real <br> Er war ein wahrer Fan und ging zu allen Spielen der Mannschaft.( He is a true fan and goes to every game of the team). <br> Das ist nicht war. (That is not true)
+* vielfältig ; adj diverse, manifold, <br>Die möglichen Gründe für diese positive Entwicklung sind vielfältig. (The possible reasons for this positive development are manifold)
+* Großveranstaltungen; big events, large events
+* Tonaufnahmen ; sound recordings.
+* Ehrung ; tribute
+* Opfer ; victim
+* der Verdacht ; suspision
