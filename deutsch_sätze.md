@@ -23,3 +23,8 @@
 * Der Chef weiß meinen Einsatz zu schätzen. ; The boss appreciates my commitment.
 * Die Wissenschaftler diskutierten über den Einsatz neuer Technologien. ; The scientists discussed about the deployment of the new technologies.
 * Der richtige Einsatz dieses Produktes erfordert Übung. ; The correct application of this product requires practice.
+
+# 6/02/2020 10:45:00 AM
+* Donald Trump droht mit dem Militär ; Donald Trump threatens with the military.
+* Der US-Präsident will die Armee gegen Demonstranten einsetzen.; The US president wants to use the military against the demonstrators.
+* Sehen Sie die wichtigsten Ausschnitte seiner Rede im Video. ; See the most important parts of his speech in the video.
