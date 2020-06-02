@@ -41,10 +41,20 @@
 * Das Rätsel ; puzzle, mystery, riddle.
 * gering ; adj/adv small, low, meagre <br> Ihre Chancen sind gering. (Your chances are low)
 * verteidigen ; to defend, to advocate, to answer for somebody <br> ein Prinzip verteidigen (to defend a principle) <br> eine These verteidigen (to defend a theses)
-* wahren (verb), wahr (adj) ; wahren -> maintain, preserve, safeguard, retain/keep etc. <br> Er ist ein guter Freund, weil er Geheimnisse wahren kann. ( He is a good friend because he can keep secrets) <br> wahr -> true, real <br> Er war ein wahrer Fan und ging zu allen Spielen der Mannschaft.( He is a true fan and goes to every game of the team). <br> Das ist nicht war. (That is not true)
+* wahren (verb), wahr (adj) ; wahren -> maintain, preserve, safeguard, retain/keep etc. <br> Er ist ein guter Freund, weil er Geheimnisse wahren kann. ( He is a good friend because he can keep secrets) <br> wahr -> true, real <br> Er war ein wahrer Fan und ging zu allen Spielen der Mannschaft.( He is a true fan and goes to every game of the team). <br> Das ist nicht wahr. (That is not true)
 * vielfältig ; adj diverse, manifold, <br>Die möglichen Gründe für diese positive Entwicklung sind vielfältig. (The possible reasons for this positive development are manifold)
 * Großveranstaltungen; big events, large events
 * Tonaufnahmen ; sound recordings.
 * Ehrung ; tribute
 * Opfer ; victim
 * der Verdacht ; suspision
+
+# 6/02/2020 08:00:00 AM
+ 
+* verschärfen ; aggravate, intesify, exacerbate, sharpen, get worse* <br> Politische Korruption verschärft die Armut im Land. <br> Political corruption exacerbates the country's poverty. <br>Immerhin hat sich das Problem nicht verschärft. <br> At least the problem has not gotten worse.
+* immerhin ; atleast, though
+* Dutzenden ; plural of Dutzend (dozen) <br> Er kaufte ein Dutzend Eier. <br>He bought a dozen eggs.
+* beigetragen ; contributed, added <br> Alle Mitarbeiter haben zum Erfolg unseres Unternehmens beigetragen. <br> All employees have contributed to the success of our company.
+* vermuten ; speculate, assume, suspect, expect, guess <br> Ich vermutete, dass der Mann im Anzug der Manager war. I assumed the man in the suit was the manager. <br>Ich vermutete einen Motorschaden und wendete mich an den Kundendienst. I suspected engine damage and contacted customer service.<br>Ich vermute, dass er morgen ankommen wird. I expect that he will arrive tomorrow. <br> Es ist fast Mitternacht. Ich vermute, dass er nicht mehr kommt. It is almost midnight; I guess he is not coming anymore.<br>Ich kann nur vermuten, was sein Motiv gewesen sein könnte. I can only speculate what his motive may have been.
+* bislang ; sofar <br> Bislang hat unser Team alle Spiele gewonnen. So far our team has won all matches.
+* der Gipfel; peak, summit <br> Der Gipfel des Berges war mit Schnee bedeckt. The peak of the mountain was covered with snow
