@@ -28,3 +28,10 @@
 * Donald Trump droht mit dem Militär ; Donald Trump threatens with the military.
 * Der US-Präsident will die Armee gegen Demonstranten einsetzen.; The US president wants to use the military against the demonstrators.
 * Sehen Sie die wichtigsten Ausschnitte seiner Rede im Video. ; See the most important parts of his speech in the video.
+
+# 6/3/2020 4:11:25 AM
+* In einem Supermakt wurde eine weitere Flasche entdeckt. ; In one supermarket, another bottle was discovered.
+* Alles zur aktuellen Lage in Deutschland ; All about the current situation in Germany.
+* Kabinet bereitet Aufhebung der Reisewarnung für 31 Länder vor. ; Cabinet prepares to lift travel warning for 31 countries.
+* Das ergab eine aktuelle Studie; A recent study found that
+* In Quarantäne nimmt die häusliche Gewalt zu ; Domestic violence increases in quarantine.
