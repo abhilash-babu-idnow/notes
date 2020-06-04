@@ -70,3 +70,13 @@
 * weitgehend ; adj. wide, to a great extent <br> adv. largely, widely <br> Unsere Kunden sind weitgehen zufrieden mit unseren Produkten. Our customers are largely satisfied with our products. <br> Unsere Anforderungen wurden weitgehend erfüllt. Our demands have been accepted to a great extent.
 * Bestimmungen ; regulations, clauses, stipulations, provisions. <br> Der Vertrag umfasst mehrere Bestimungen. The contract comprises of several clauses.
 * Angehörige ; relatives, members <br> Nur Freunde und enge Angehörige sind zur Hochzeit eingeladen. Only friends and close relatives are invited to the wedding.
+
+# 6/4/2020 4:11:15 AM
+
+* bewerben ; promote, advertise <br> sich bewerben - make an application <br> Wir mussen unser neues produkt bewerben. <br> We must promote our new product.
+* vergewaltigt, vergewaltigen ; vergewaltigt - adj. raped <br> vergewaltigen - verb. rape, violate <br> Der Täter versuchte erfolglos, das Opfer zu vergewaltigen. <br> The perpetrator unsuccessfully tried to rape the victim.
+* entbrannt ; flared up, erupted<br> Nach seiner umstrittenen Aussage entbrannte eine lebhafte Diskussion. <br> A lively discussion erupted following his controversial statement. 
+* unfassbar ; incredible, inconceivable, mind-boggling. <br> Die tollen Tricks des Zauberers waren unfassbar. <br> The magicians amazing tricks were mind boggling. 
+* in Aussicht stellen ; promise something <br> Der Bund hatte bereits in Aussicht gestellt, das Eigenkapital zu erhöhen. <br> The federal govt had already promised to increase the equity capital.
+* gewähren ; grant, award etc. <br> Der gütige König gewährte seiner Tochter den Wunsch. <br> The kind king granted his daughter's wish.
+* Einnahme ; income, earning, revenue etc. <br> Die Einnahmen der Firma sind erheblich gesteigen. <br> The revenue of the company increased considerably.
