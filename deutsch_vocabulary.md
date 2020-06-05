@@ -80,3 +80,13 @@
 * in Aussicht stellen ; promise something <br> Der Bund hatte bereits in Aussicht gestellt, das Eigenkapital zu erhöhen. <br> The federal govt had already promised to increase the equity capital.
 * gewähren ; grant, award etc. <br> Der gütige König gewährte seiner Tochter den Wunsch. <br> The kind king granted his daughter's wish.
 * Einnahme ; income, earning, revenue etc. <br> Die Einnahmen der Firma sind erheblich gesteigen. <br> The revenue of the company increased considerably.
+
+# 6/5/2020 02:45:00 PM
+
+* zögerlich ; adj. hesitant, adv. heistantly. <br> Der SPD war es ein großes Anliegen, die Union war eher zögerlich. The SPD wasa very keen on it, the CDU/CSU were rather hesitant.
+* abzufedern ; cushion (sth). Boxhandschuhe helfen, die Kraft der Schläge abzufedern. Boxing gloves help to cushion the force of the blows. 
+* verzichten ; do without, give up, forego, waive, renounce. <br> Ich verzichte auf alle Rechte und Ansprüche. I waive all rights and claims. <br> Ich versuche, auf Süßigkeiten zu verzichten. I am trying to give up sweets. <br> Ich musste auf das Mittagessen verzichten, um das Projekt abzuschließen.
+* geleistet ; adj. achieved, rendered. <br> Glückwunsch, du hast eine Menge geleistet. Congratulations, you have achieved a lot.
+* ausgegeben ; spend, issue <br> Ich will nicht mein ganzes Geld für ein neueus Auto ausgeben. I don't want to spend all my money on a new car. <br> Die Universität gibt Stundentenausweise aus. The University issues student Identity cards.
+* Schließlich ; adj. eventual adv. finally, afterall, lastly, eventually, in the end <br> Der alte Computer wurde schließlich ersetzt. The old computer was finally replaced <br> Ich frage den Experten, er sollte es schließlich wissen. I'm asking the expert, after all he should know. <br> Seine Lügen wurden schließlich aufgedeckt. His lies were uncovered in the end. <br> Ich testete das Produkt, bevor ich es schließlich kaufte. I tested the product before I eventually bought it.
+* angekündigt ; announced, advertised. <br> Der Kurs trifft sich montags, wenn nicht anders angekundigt. The course meets on Mondays, unless announced otherwise. 
