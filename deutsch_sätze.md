@@ -39,5 +39,11 @@
 # 6/4/2020 4:53:42 AM
 * In Zügen ist der Handyempfang oft noch schlecht. ; Mobile phone reception on trains is often still poor.
 * Das Dach brach ein, als ein Baum darauf stürzte ; The roof caved in when a tree fell on it. 
-* Mein Sohn war am Boden zestöt, als er sein Spielzeug verlor. ; My son was devastated when he lost his toy. <br> ** am Boden zerstört ** - devastated.
+* Mein Sohn war am Boden zestört, als er sein Spielzeug verlor. ; My son was devastated when he lost his toy. <br> ** am Boden zerstört ** - devastated.
 * Und was folgt daraus? ; And whats the consequence.
+
+# 6/4/2020 3:55:00 PM
+* Der Sprecher betonte nochmals seinen Standpunkt.; The speaker emphasised his point again.
+* Meine Eltern befürworteten meine Entscheidung, Medizin zu studieren.; My parents supported my decision to study medicine.
+* Der Vorstand erarbeitete eine neue Strategie für das Unternehmen.; The board worked out a new strategy for the company.
+* Wir sollten wichtige Fakten besprechen, statt unwichtigen Quatsch.; We should discuss important facts instead of irrelevant nonsense.
