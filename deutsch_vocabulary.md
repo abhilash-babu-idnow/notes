@@ -75,11 +75,21 @@
 
 * bewerben ; promote, advertise <br> sich bewerben - make an application <br> Wir mussen unser neues produkt bewerben. <br> We must promote our new product.
 * vergewaltigt, vergewaltigen ; vergewaltigt - adj. raped <br> vergewaltigen - verb. rape, violate <br> Der Täter versuchte erfolglos, das Opfer zu vergewaltigen. <br> The perpetrator unsuccessfully tried to rape the victim.
-* entbrannt ; flared up, erupted<br> Nach seiner umstrittenen Aussage entbrannte eine lebhafte Diskussion. <br> A lively discussion erupted following his controversial statement. 
-* unfassbar ; incredible, inconceivable, mind-boggling. <br> Die tollen Tricks des Zauberers waren unfassbar. <br> The magicians amazing tricks were mind boggling. 
+* entbrannt ; flared up, erupted<br> Nach seiner umstrittenen Aussage entbrannte eine lebhafte Diskussion. <br> A lively discussion erupted following his controversial statement.
+* unfassbar ; incredible, inconceivable, mind-boggling. <br> Die tollen Tricks des Zauberers waren unfassbar. <br> The magicians amazing tricks were mind boggling.
 * in Aussicht stellen ; promise something <br> Der Bund hatte bereits in Aussicht gestellt, das Eigenkapital zu erhöhen. <br> The federal govt had already promised to increase the equity capital.
 * gewähren ; grant, award etc. <br> Der gütige König gewährte seiner Tochter den Wunsch. <br> The kind king granted his daughter's wish.
 * Einnahme ; income, earning, revenue etc. <br> Die Einnahmen der Firma sind erheblich gesteigen. <br> The revenue of the company increased considerably.
+
+# 6/5/2020 02:45:00 PM
+
+* zögerlich ; adj. hesitant, adv. heistantly. <br> Der SPD war es ein großes Anliegen, die Union war eher zögerlich. The SPD wasa very keen on it, the CDU/CSU were rather hesitant.
+* abzufedern ; cushion (sth). Boxhandschuhe helfen, die Kraft der Schläge abzufedern. Boxing gloves help to cushion the force of the blows.
+* verzichten ; do without, give up, forego, waive, renounce. <br> Ich verzichte auf alle Rechte und Ansprüche. I waive all rights and claims. <br> Ich versuche, auf Süßigkeiten zu verzichten. I am trying to give up sweets. <br> Ich musste auf das Mittagessen verzichten, um das Projekt abzuschließen.
+* geleistet ; adj. achieved, rendered. <br> Glückwunsch, du hast eine Menge geleistet. Congratulations, you have achieved a lot.
+* ausgegeben ; spend, issue <br> Ich will nicht mein ganzes Geld für ein neueus Auto ausgeben. I don't want to spend all my money on a new car. <br> Die Universität gibt Stundentenausweise aus. The University issues student Identity cards.
+* Schließlich ; adj. eventual adv. finally, afterall, lastly, eventually, in the end <br> Der alte Computer wurde schließlich ersetzt. The old computer was finally replaced <br> Ich frage den Experten, er sollte es schließlich wissen. I'm asking the expert, after all he should know. <br> Seine Lügen wurden schließlich aufgedeckt. His lies were uncovered in the end. <br> Ich testete das Produkt, bevor ich es schließlich kaufte. I tested the product before I eventually bought it.
+* angekündigt ; announced, advertised. <br> Der Kurs trifft sich montags, wenn nicht anders angekundigt. The course meets on Mondays, unless announced otherwise.
 
 # 6/7/2020 6:38:16 AM
 
@@ -87,7 +97,7 @@
 * Entwurf ; design, concept, plan, outline, draft etc <br> Den Anwohnen gefällt der Entwurf für den neueun Park. The residents like the concept of the new park <br> Der erste Entwurf des Brief ist fertig. The first draft of the letter is finished.
 * Erlaubnis ; permission, permit, authorization, leave. <br> Du solltest deinen Vater um Erlaubnis fragen. You must ask your father for permission. <br> Mein Chef gab mir die Erlaubnis, die Konference zu besuchen. My boss gave me leave to attend the conference.
 * damals ; adv. then, at the time, at that time. <br> Damals waren lange Rocke in Mode. Long skirts were in fashion then. <br> Damals war ich ein kleiner junge. At that time I was a small boy.
-* Gelassenheit ; calm, serenity, composure. <br> Wir bewundern ihre Ruhe und Gelassenheit in kritischen Situationen. We admire her calmness and composure in critical situations. 
-* Bedürfnis ; need, desire <br> Wir tun alles, um die Bedürfnisse unserer Kundenn zu befriedigen. We do everything to satisfy our customers needs. 
-* erfreulich ; pleasing, gratifying, enjoyable. <br> Die Reise war eine erfreuliche Erfahrung. The journey was an enjoyable experience. <br> Die Schwangerschaft meine  Schwester war eine erfreuliche Nachricht. My sisters pregnancy was a delightful announcement. 
-* zugleich ; at the same time. <br> Er liest zwei Bücher zugleich. He is reading two books at the same time. 
+* Gelassenheit ; calm, serenity, composure. <br> Wir bewundern ihre Ruhe und Gelassenheit in kritischen Situationen. We admire her calmness and composure in critical situations.
+* Bedürfnis ; need, desire <br> Wir tun alles, um die Bedürfnisse unserer Kundenn zu befriedigen. We do everything to satisfy our customers needs.
+* erfreulich ; pleasing, gratifying, enjoyable. <br> Die Reise war eine erfreuliche Erfahrung. The journey was an enjoyable experience. <br> Die Schwangerschaft meine  Schwester war eine erfreuliche Nachricht. My sisters pregnancy was a delightful announcement.
+* zugleich ; at the same time. <br> Er liest zwei Bücher zugleich. He is reading two books at the same time.
