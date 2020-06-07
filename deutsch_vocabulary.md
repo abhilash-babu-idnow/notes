@@ -80,3 +80,14 @@
 * in Aussicht stellen ; promise something <br> Der Bund hatte bereits in Aussicht gestellt, das Eigenkapital zu erhöhen. <br> The federal govt had already promised to increase the equity capital.
 * gewähren ; grant, award etc. <br> Der gütige König gewährte seiner Tochter den Wunsch. <br> The kind king granted his daughter's wish.
 * Einnahme ; income, earning, revenue etc. <br> Die Einnahmen der Firma sind erheblich gesteigen. <br> The revenue of the company increased considerably.
+
+# 6/7/2020 6:38:16 AM
+
+* sich einigen ; to agree on something, reach an agreement. <br> Die beteiligten Akteure einigten sich auf eine Lösung. The parties agreed on a solution.
+* Entwurf ; design, concept, plan, outline, draft etc <br> Den Anwohnen gefällt der Entwurf für den neueun Park. The residents like the concept of the new park <br> Der erste Entwurf des Brief ist fertig. The first draft of the letter is finished.
+* Erlaubnis ; permission, permit, authorization, leave. <br> Du solltest deinen Vater um Erlaubnis fragen. You must ask your father for permission. <br> Mein Chef gab mir die Erlaubnis, die Konference zu besuchen. My boss gave me leave to attend the conference.
+* damals ; adv. then, at the time, at that time. <br> Damals waren lange Rocke in Mode. Long skirts were in fashion then. <br> Damals war ich ein kleiner junge. At that time I was a small boy.
+* Gelassenheit ; calm, serenity, composure. <br> Wir bewundern ihre Ruhe und Gelassenheit in kritischen Situationen. We admire her calmness and composure in critical situations. 
+* Bedürfnis ; need, desire <br> Wir tun alles, um die Bedürfnisse unserer Kundenn zu befriedigen. We do everything to satisfy our customers needs. 
+* erfreulich ; pleasing, gratifying, enjoyable. <br> Die Reise war eine erfreuliche Erfahrung. The journey was an enjoyable experience. <br> Die Schwangerschaft meine  Schwester war eine erfreuliche Nachricht. My sisters pregnancy was a delightful announcement. 
+* zugleich ; at the same time. <br> Er liest zwei Bücher zugleich. He is reading two books at the same time. 
