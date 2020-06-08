@@ -101,3 +101,14 @@
 * Bedürfnis ; need, desire <br> Wir tun alles, um die Bedürfnisse unserer Kundenn zu befriedigen. We do everything to satisfy our customers needs.
 * erfreulich ; pleasing, gratifying, enjoyable. <br> Die Reise war eine erfreuliche Erfahrung. The journey was an enjoyable experience. <br> Die Schwangerschaft meine  Schwester war eine erfreuliche Nachricht. My sisters pregnancy was a delightful announcement.
 * zugleich ; at the same time. <br> Er liest zwei Bücher zugleich. He is reading two books at the same time.
+
+# 6/8/2020 7:48:10 AM
+
+* eingelöst ; redeemed, cashed <br> Die Gutschein kann in allen Fillialen eingelöst werden. The coupon can be redeemed in all stores.
+* frohlocken ; rejoice <br> Präsident Trump frohlockt bereits. President Trump is already rejoicing.
+* Erholung; recovery, rebound, relax, rest. <br> Die Ärztin hatte noch nie so eine schnelle Erholung gesehen. The doctor had never seen such a speedy recovery. <br> Meine Arbeit lässt mir im Augenblick wenig Zeit zur Erholung. My work leaves me little time for recreation right now. <br> Sie brauchte Erholung nach dem langen Arbeitstag. She needed rest after the long day of work. <br> Die Regierung sagt für nächstes Jahr eine wirtschaftliche Erholung voraus. The government predicts an economic rebound next year.
+* zaghaft ; tentative, timit, fragile <br> Das Baby machte seine ersten zaghaften Schritte. The baby took its first tentative steps. <br> zaghafte Erholung. fragile recovery <br> zaghafte Anzeichen. tentative signs. 
+* unterschätzt ; underestimated <br> Die Macht lokaler Politik wird unterschätzt. The power of local politics is underestimated.
+* Macht ; power, might <br> an die Macht gelangen. come to power
+* gelangen ; get, get to, succeed, manage (gelingen) <br> Klicken Sie bitte hier, um zu unserer Startseite zu gelangen. Please click here to get to our homepage. <br> Es gelang mir, einen Platz an der Kunstschule zu erhalten. I succeeded in getting a place at the art school <br> Endlich gelang es mir, den Motor zu started. I finally managed to start up the engine.  
+
