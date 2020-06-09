@@ -112,3 +112,14 @@
 * Macht ; power, might <br> an die Macht gelangen. come to power
 * gelangen ; get, get to, succeed, manage (gelingen) <br> Klicken Sie bitte hier, um zu unserer Startseite zu gelangen. Please click here to get to our homepage. <br> Es gelang mir, einen Platz an der Kunstschule zu erhalten. I succeeded in getting a place at the art school <br> Endlich gelang es mir, den Motor zu started. I finally managed to start up the engine.  
 
+# 6/9/2020 7:30:00 AM
+
+* erbärmlich ; miserable, disgraceful <br> Das vernachlassigste alte Gebäude ist in einem erbärmlichen Zustand. The neglected old building is in a disgraceful state. <br> Das Haus ist in einem erbärmlichen Zustand und muss dringend renoviert werden. The house is in a pitiful state and needs to be renovated urgently.
+* beigesetzt ; buried <br> Der von Polizisten getötete George Floyd soll heute in Houston beigesetzt. Geoge Floyd who was killed by the Police will be buried today.
+* derweil ; meanwhile <br> Völlig anders ist derweil die Haltung der Asiaten, speziell der Japaner, gegenüber dem Alter und alten Menschen. Meanwhile Asians, and especially the Japanese have a completely different approach to age and older people.
+* gegenüber ; towards, across, over, opposite, counterpart <br> Ich bin tolerant gegenüber anderen Kulturen und Ideen. I am open minded towards other cultures and ideas. <br> Wir haben einen entscheidenden Vorteil gegenüber unseren Konkurrenten. We have a leading edge over our competitors <br> Mein gegenüber war während des Gesprächs sehr selbstsicher. My counterpart was very confident during the talk.<br> Mir gegenüber saß eine junge Frau. A young woman was sitting opposite me. 
+* Ereignis, Ereignisse ; event, events <br> Eine Hochzeit ist ein feierliches Ereignis. A wedding is a festive event. <br> Das unerwartete Ereignis zwang uns zum Umplanen. The unexpected incident forced us to change our plans. 
+* eher ; rather <br> Der inhalt der Vorlesung war eher kompliziert. The subject matter of the lecture was rather complicated.
+* bisweilen ; sometimes, occasionally, from time to time, now and again. <br> Busweilen treffen wir uns auf einen Kaffee. Sometimes we meet for a coffee.
+* erweisen ; Kinder sollten ihren Eltern Respekt erweisen. <br> Children should show respect to their parenWts. 
+* vermeiden ; avoid, prevent, evade <br> Wir nahmen eine andere Straße, um Staus zu vermeiden. We took another road to avoid traffic jams.
