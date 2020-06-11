@@ -107,21 +107,21 @@
 * eingelöst ; redeemed, cashed <br> Die Gutschein kann in allen Fillialen eingelöst werden. The coupon can be redeemed in all stores.
 * frohlocken ; rejoice <br> Präsident Trump frohlockt bereits. President Trump is already rejoicing.
 * Erholung; recovery, rebound, relax, rest. <br> Die Ärztin hatte noch nie so eine schnelle Erholung gesehen. The doctor had never seen such a speedy recovery. <br> Meine Arbeit lässt mir im Augenblick wenig Zeit zur Erholung. My work leaves me little time for recreation right now. <br> Sie brauchte Erholung nach dem langen Arbeitstag. She needed rest after the long day of work. <br> Die Regierung sagt für nächstes Jahr eine wirtschaftliche Erholung voraus. The government predicts an economic rebound next year.
-* zaghaft ; tentative, timit, fragile <br> Das Baby machte seine ersten zaghaften Schritte. The baby took its first tentative steps. <br> zaghafte Erholung. fragile recovery <br> zaghafte Anzeichen. tentative signs. 
+* zaghaft ; tentative, timit, fragile <br> Das Baby machte seine ersten zaghaften Schritte. The baby took its first tentative steps. <br> zaghafte Erholung. fragile recovery <br> zaghafte Anzeichen. tentative signs.
 * unterschätzt ; underestimated <br> Die Macht lokaler Politik wird unterschätzt. The power of local politics is underestimated.
 * Macht ; power, might <br> an die Macht gelangen. come to power
-* gelangen ; get, get to, succeed, manage (gelingen) <br> Klicken Sie bitte hier, um zu unserer Startseite zu gelangen. Please click here to get to our homepage. <br> Es gelang mir, einen Platz an der Kunstschule zu erhalten. I succeeded in getting a place at the art school <br> Endlich gelang es mir, den Motor zu started. I finally managed to start up the engine.  
+* gelangen ; get, get to, succeed, manage (gelingen) <br> Klicken Sie bitte hier, um zu unserer Startseite zu gelangen. Please click here to get to our homepage. <br> Es gelang mir, einen Platz an der Kunstschule zu erhalten. I succeeded in getting a place at the art school <br> Endlich gelang es mir, den Motor zu started. I finally managed to start up the engine.
 
 # 6/9/2020 7:30:00 AM
 
 * erbärmlich ; miserable, disgraceful <br> Das vernachlassigste alte Gebäude ist in einem erbärmlichen Zustand. The neglected old building is in a disgraceful state. <br> Das Haus ist in einem erbärmlichen Zustand und muss dringend renoviert werden. The house is in a pitiful state and needs to be renovated urgently.
 * beigesetzt ; buried <br> Der von Polizisten getötete George Floyd soll heute in Houston beigesetzt. Geoge Floyd who was killed by the Police will be buried today.
 * derweil ; meanwhile <br> Völlig anders ist derweil die Haltung der Asiaten, speziell der Japaner, gegenüber dem Alter und alten Menschen. Meanwhile Asians, and especially the Japanese have a completely different approach to age and older people.
-* gegenüber ; towards, across, over, opposite, counterpart <br> Ich bin tolerant gegenüber anderen Kulturen und Ideen. I am open minded towards other cultures and ideas. <br> Wir haben einen entscheidenden Vorteil gegenüber unseren Konkurrenten. We have a leading edge over our competitors <br> Mein gegenüber war während des Gesprächs sehr selbstsicher. My counterpart was very confident during the talk.<br> Mir gegenüber saß eine junge Frau. A young woman was sitting opposite me. 
-* Ereignis, Ereignisse ; event, events <br> Eine Hochzeit ist ein feierliches Ereignis. A wedding is a festive event. <br> Das unerwartete Ereignis zwang uns zum Umplanen. The unexpected incident forced us to change our plans. 
+* gegenüber ; towards, across, over, opposite, counterpart <br> Ich bin tolerant gegenüber anderen Kulturen und Ideen. I am open minded towards other cultures and ideas. <br> Wir haben einen entscheidenden Vorteil gegenüber unseren Konkurrenten. We have a leading edge over our competitors <br> Mein gegenüber war während des Gesprächs sehr selbstsicher. My counterpart was very confident during the talk.<br> Mir gegenüber saß eine junge Frau. A young woman was sitting opposite me.
+* Ereignis, Ereignisse ; event, events <br> Eine Hochzeit ist ein feierliches Ereignis. A wedding is a festive event. <br> Das unerwartete Ereignis zwang uns zum Umplanen. The unexpected incident forced us to change our plans.
 * eher ; rather <br> Der inhalt der Vorlesung war eher kompliziert. The subject matter of the lecture was rather complicated.
 * bisweilen ; sometimes, occasionally, from time to time, now and again. <br> Busweilen treffen wir uns auf einen Kaffee. Sometimes we meet for a coffee.
-* erweisen ; Kinder sollten ihren Eltern Respekt erweisen. <br> Children should show respect to their parenWts. 
+* erweisen ; Kinder sollten ihren Eltern Respekt erweisen. <br> Children should show respect to their parenWts.
 * vermeiden ; avoid, prevent, evade <br> Wir nahmen eine andere Straße, um Staus zu vermeiden. We took another road to avoid traffic jams.
 
 # 6/10/2020 8:52:00 AM
@@ -130,4 +130,16 @@
 * berüchtigt; notorious, infamous <br> Der berüchtigte Dieb wurde von der Polizei gefangen. The notorious thief was captured by the police. <br> Er ist für seine abwegigen Ideen berüchtigt. He is infamous for his devious ideas.
 * beeinträchtigen; affect, adversely, impair, compromise, damage, interfere. <br> Ein Virus kann die Daten auf einem Computer beeinträctigen. A virus can compromise the data on a computer. <br> Stress beeinträchtigt unser Wohlbefinden. Stress affects our well being. <br> Unternehmen vermeiden Situationen, die Ihren Ruf beeinträctigen. Businesses avoid situations that damage their reputation.
 * Ruf ; reputation <br> Ein guter Ruf hilft dabei, neue Kunden zu gewinnen. A good reputation helps to attract new customers. <br> Dieses wissenschaftliche Journal hat einen sehr guten Ruf. This scientific journal has a very good reputation.
-* Gewährleistung; warranty, guarantee <br> erweiterte Gewährleistung. extended warranty 
+* Gewährleistung; warranty, guarantee <br> erweiterte Gewährleistung. extended warranty
+
+# 6/11/2020 8:52:00 AM
+
+* künftig ; future, henceforth <br> Mein künftiger Schwiegersohn ist Rechtsanwalt. My future son-in-law is a lawyer.
+* ehemalig; former, erstwhile <br> Der trainer ist ein ehemalige Profispieler. The coach is a former professional player <br> Das ehemalige Kloster wird heute als Tagungsort benuzt. The erstwhile monastery is now used as a conference venue.
+* unterdessen; meanwhile, in the meantime <br> Unterdessen begrüßt der Europäische Rat den Vorschlag der Kommission. Meanwhile, the European Council welcomes the Commisions's proposal.
+* zufolge; according to <br> Der letzten meldung zufolge ist keine Schaden entstande. According to the latest report, no damage has been caused. <br> Dem Dienstplan zufolge habe ich morgen frei. According to the roster, I am off tomorrow.
+* überzeugt; convinced, positive <br> Er war überzeugt, dass er ihr bereits begegnet war. He was positive that he had met her before. <br> Er überzeugte die Kämpfer, nicht zuzuschlagen. He convinced the fighters not to strike.
+* etw. in Erwägung ziehen; contemplate something <br> Wir sollten jege mogliche Lösung in Erwägung ziehen. We should contemplate every possible solution. 
+* pleitegehen; go out of business, bankrupt <br> Amazon trozt aller Erfolge in wenigen Jahren pleitgehen könnte. Amazon, despite all its success could go bankrupt in a few years.
+* betragen ; be, amount to sth, account for. <br> Die Entfernung beträgt vier Mielen. The is distance is four miles. <br> Die Telefonrechnung beträgt 50 Euro. The phone bill amounts to 50 euros. 
+* verlacht; ridiculed, derided. <br> Viele Jahre lang wurde Bezos verlacht. For many years Bezos was ridiculed.
