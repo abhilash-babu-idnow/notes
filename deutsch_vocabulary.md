@@ -139,7 +139,16 @@
 * unterdessen; meanwhile, in the meantime <br> Unterdessen begrüßt der Europäische Rat den Vorschlag der Kommission. Meanwhile, the European Council welcomes the Commisions's proposal.
 * zufolge; according to <br> Der letzten meldung zufolge ist keine Schaden entstande. According to the latest report, no damage has been caused. <br> Dem Dienstplan zufolge habe ich morgen frei. According to the roster, I am off tomorrow.
 * überzeugt; convinced, positive <br> Er war überzeugt, dass er ihr bereits begegnet war. He was positive that he had met her before. <br> Er überzeugte die Kämpfer, nicht zuzuschlagen. He convinced the fighters not to strike.
-* etw. in Erwägung ziehen; contemplate something <br> Wir sollten jege mogliche Lösung in Erwägung ziehen. We should contemplate every possible solution. 
+* etw. in Erwägung ziehen; contemplate something <br> Wir sollten jege mogliche Lösung in Erwägung ziehen. We should contemplate every possible solution.
 * pleitegehen; go out of business, bankrupt <br> Amazon trozt aller Erfolge in wenigen Jahren pleitgehen könnte. Amazon, despite all its success could go bankrupt in a few years.
-* betragen ; be, amount to sth, account for. <br> Die Entfernung beträgt vier Mielen. The is distance is four miles. <br> Die Telefonrechnung beträgt 50 Euro. The phone bill amounts to 50 euros. 
+* betragen ; be, amount to sth, account for. <br> Die Entfernung beträgt vier Mielen. The is distance is four miles. <br> Die Telefonrechnung beträgt 50 Euro. The phone bill amounts to 50 euros.
 * verlacht; ridiculed, derided. <br> Viele Jahre lang wurde Bezos verlacht. For many years Bezos was ridiculed.
+
+# 6/12/2020 2:44:08 AM
+
+* klagen; complain, legal actions <br> Nach der Wanderung klagte er über Schmerzen in seinem Knie. After the hike, he complained about pain in his knee.
+* glaubwürdig; credible, trustworthy <br> Er hat mir eine sehr glaubwürdige Geschichte erzählt, und ich denke, dass sie wahr ist. (He told me a very credible story and I think its true.
+* sehnen; long for sb/sth yearn crave <br> Ich sehne mich nach einem freien Tag. ( I yearned for a day off ) <br> Sie sehnte sich nach einer Beziehung. ( She longed for a relationship ).
+* schalten; switch, shift <br> Die Uhr schaltet auf den 24-Stunden modus. ( The watch switches to the 24 hours mode ) <br> Wenn ich bergauf fahre, schalte ich in einem niedrigen Gang. ( I shift to a low gear when driving uphill )
+* schmeißen; throw, chuck hurl <br> Ich habe die Bananenschale in den Mülleimer geschmissen. ( I threw the Banana peel into the bin).
+* wütend; angry, irate <br> Mein Bruder wird selten wütend. ( My brother seldom gets angry ) <br> Die wütenden Kunden wollten ihr Geld zuruck. (The irate customers wanted their money back)
