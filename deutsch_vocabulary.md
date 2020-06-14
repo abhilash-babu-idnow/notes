@@ -152,3 +152,32 @@
 * schalten; switch, shift <br> Die Uhr schaltet auf den 24-Stunden modus. ( The watch switches to the 24 hours mode ) <br> Wenn ich bergauf fahre, schalte ich in einem niedrigen Gang. ( I shift to a low gear when driving uphill )
 * schmeißen; throw, chuck hurl <br> Ich habe die Bananenschale in den Mülleimer geschmissen. ( I threw the Banana peel into the bin).
 * wütend; angry, irate <br> Mein Bruder wird selten wütend. ( My brother seldom gets angry ) <br> Die wütenden Kunden wollten ihr Geld zuruck. (The irate customers wanted their money back)
+
+
+# 6/13/2020 11:02:50 AM
+* Versorgung; care, supply <br> Die ständige Versorgung von Städten mit Wasser ist wichtig. ( The steady supply of water in cities is important )
+* überlastet; overloaded. <br> Zu viele Benutzer überlasten das System. ( Too many users overload the system )
+* kollabiert; collapse, implode <br> Der Patient, der am Vortag kollabiert war, erholte sich rasch. ( The patient, who had collapsed the day before, recovered quickly ).
+* besitzt; have sth, own sth, possess, hold, have got. <br> Das Gerät besitzt ausgezeichnete Leistungsmerkmale. ( The device has excellent features ) <br> Meine Familie besitzt ein Haus auf dem Land. ( My family owns a house in the countryside) <br> Er besitzt einige Aktien der Firma, für die er arbeitet. ( He holds some shares of the company he works for)
+* abnahmen; acceptance, decrease, decline, approval <br> Die Investoren machen sich wegen der Abnahme des Umsatzes keine Sorgen. ( The investors are not worried by decline in sales).
+* lediglich; merely, solely <br> Er flucht lediglich insgeheim. ( He only swears in pulbic ).
+* gelungen; succeeded <br> Diese gemischte Schule ist ein Beispiel für gelungene Integration. ( This mixed school is an example of successful integration ) <br>  Es gelang mir, einen Platz an der Kunstschule zu erhalten. ( I succeeded in getting a place at art school ) <br> Endlich gelang es mir, den Motor zu starten. ( I finally managed to start the engine ).
+* befürchten ; fear sth, worry sth. <br> Ich kann den Arzt nirgendwo sehen, ich befürchte, er ist schon gegangen. ( I do not see the doctor anywhere, I fear he may have left already ).
+* Art und Weise; manner, way, fashion, method. <br> Einer der Gründe dafür is die Art und Weise, wie indische Städte aufgebaut sind. ( One of the reasons for this is the way Indian cities are built )
+* Ausgangssperre; curfew <br> Die Ausgangssperre hatte nicht den gewünchten Effekt. ( The curfew did not have the desired effect )
+* abzuflachen; flattening out <br> Anders als in Europa ist es in vielen Regionen Indiens nicht gelungen, die infektionskurve abzuflachen. ( Unlike in Europe, many regions of India have not succeeded in flattening out the infection curve)
+
+# 6/14/2020 2:57:19 AM
+
+* Voraussetzung; condition, prerequisite, assumption, requirement, requisite, precondition <br> Der Vertrag ist nur unter bestimmten Voraussetzungen gültig. (The contract is only valid under special conditions) <br> Die Theorie beruht auf einfachen Voraussetzungen. (The theory is based on simple assumptions) <br> Spanischkenntnisse sind eine Voraussetzung für diesen Kurs. (Knowledge of Spanish is a prerequisite for this class)
+* Umfangreich; comprehensive, wide, extensive, broad, large, vast <br> Der neue Manager hat umfangreiche Erfahrung in der Industrie. (The new manager has extensive experience in the industry) <br> Der Supermarkt bietet eine umfangreiche Produktpalette. ( The supermarket offers a broad range of products )
+* ergänzend; additional, complementary, adjuvant, complete, amend, replenish<br> Der Autor hat im Vorwort einige ergänzende Bemerkungen gemacht. (The author has made some complementary remarks in the preface) <br> Die Kette ergänzt ihr Outfit. (The necklace complements her outfit) <br>  Wir ergänzten die Produktpalette mit einigen neuen Optionen. (We augmented the range of products with some new options)
+* tiefgreifend; far reaching, indepth, extensive. <br> Sie bringen ein tiefgreifendes Verständnis for Softwaretechnologie mit. (You bring a deep understanding of software technology)
+* Ausgeprägtes; pronounced, distinctive, strong (less common usage) <br> Zwischen einem Elefanten und einer Maus bestehen ausgeprägte Unterschiede. (There are distinct differences between an elephant and a mouse) <br> Ausgeprätes konzeptionelles und analytisches Denken und Handeln. (Strong conceptual and analytical thinking and acting)
+* Projektbezogene; project related <br> Projektbezogene Reisebereitschaft. (Project related readiness to travel)
+* niederlegen; resign, laydown <br> Kurz nach dem Skandal legte der Politiker sein Amt nieder. (Shortly after the scandal, the politician resigned from office.) <br> Ich legte ein paar Rosen vor dem Grab nieder. (I lay down some roses in front of the grave)
+* Erneut; once again, again, afresh <br> Er har mich erneut angerufen, um den Termin zu bestätigen. (He called me once again to confirm the appointment). <br> Erneut endete in den USA ein Polizeieinsatz für einen Schwarzen tödlich. (Once again a police operation for a black man in the USA ended fatally)
+* Zunächst; first, initially, first of all, in the first place <br> Zunächst sollten wir den heutigen Tagesablauf besprechen. (First of allwe should discuss today's agenda)
+* Gegenstand; thing, object, item, subject matter, topic <br> Eiserne Gegenstände sind magnetisch. (Iron objects are magnetic) <br> Der gegenstand des Treffens war eine neue Geschäftsstrategie. (The subject matter of the meeting was a new business strategy) <br> Die Kiste ist nur für kleine Gegenstände geeignet. (The box is convenient for little thinks only)
+* Vorfall; incident, event. <br> Ich meldete den Vorfall der Polizei. (I reported the incident to the Police)
+
