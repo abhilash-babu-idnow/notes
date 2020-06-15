@@ -181,3 +181,11 @@
 * Gegenstand; thing, object, item, subject matter, topic <br> Eiserne Gegenstände sind magnetisch. (Iron objects are magnetic) <br> Der gegenstand des Treffens war eine neue Geschäftsstrategie. (The subject matter of the meeting was a new business strategy) <br> Die Kiste ist nur für kleine Gegenstände geeignet. (The box is convenient for little thinks only)
 * Vorfall; incident, event. <br> Ich meldete den Vorfall der Polizei. (I reported the incident to the Police)
 
+# 6/15/2020 3:17:05 AM
+
+* sich brüsten; brag, boast, gloat <br> Er hat es verdient, sich mit seinem Erfolg zu brüsten. (He deserves to gloat over his triumph)
+* überbewerten; overvaluate, exaggerated, overestimate. <br> Ein Rüstungsexperte hielt die Technologie jedoch zuletzt für überbewertet. (However, an armaments expert recently considered the technology to be overrated)
+* zuletzt; most recently, finally, last <br> Es gelang mir, die zuletzt benutzten Dateien wiederherzustellen. ( I managed to recover the most recently accessed files)
+* deutlich; clear, significant, noticeable, articulate. <br> Die Anleitung nutzt deutliche Abbildungen. (The manual uses clear illustrations) <br> Der jährliche Bericht zeigt deutliche Verbesserungen auf. (The annual report shows significant improvements) <br> Es gab eine deutliche Verbesserung ihrer Noten. (There was a noticeable improvement in her grades) <br> Seine Antwort was klar und deutlich. (His answer was clear and articulate)
+* ersetzen; replace sth. refund. <br> Eine Kachel ging kaputt und ich musste sie ersetzen. (One of the tiles is broken and I had to replace it) <br> Mein Unternehmen ersetzt mir meine Geschäftsreisekosten. (My company refunds my business travel expenses)
+* Fortschritt; progress, advance <br> Der Patient machte große Fortschritte und wurde Ende der Woche entlassen. (The patient made greate progress and was discharged by the end of the week) <br> Fortschritte in der Medizin haben unsere Lebenserwartung verbessert. (Advances in medicine have improved our life expectancy) <br> Unser Projekt hat große Fortschritte gemacht. (Our project has made some greate strides.)
