@@ -200,5 +200,10 @@
 * vorkomment; verb. exist, occur, appear noun. occurence <br> Mein Name kommt in den Vertragsdokumenten vor. (My name appears on the contract documents) <br> Das Vorkommen von heftigen Stürmen ist am Meer nicht ungewöhnlich. (The occurence of heavy storms is not unusual near the sea)
 * Wirt; host, landlord <br> Moskitos können einen menschlichen Wirt mit einem Biss infiziern. (Mosquitoes can infect a human host with a bite) <br> Parasiten brauchen einen wirt, um zu überleben. (Parasites need a host in order to survive)
 * Beweis; noun. proof, evidence. verb. prove, demostrate, show <br> Er hat großen Mut unter schwierigen Bedingungen bewiesen. (He has shown great courage under difficult conditions) <br> Die Fingerabdrücke waren ein eindeutiger Beweis. (The fingerprints were an unequivocal proof)
+* ziemlich; considerable, rather, quite, fairly, kind of <br> Ich war ziemlich überrascht, als alle meine Freunde zu meiner Geburtstagsparty kamen. (I was fairly surprised when all my friends came to my birthday party) <br> Ich bin ziemlich wählerisch, wenn es um das Essen geht. (I am rather picky when it comes to food)
+* fungieren; function <br> Eine Münze hat als Schraubendreher fungiert. (A coin functioned as a screwdriver)
+* Verfassung; constitution <br> Der Richter zitierte mehrere Paragraphen der Verfassung. (The judge quoted several articles of the Constitution)
+* Zwangsarbeit; forced labor <br> Was verbietet das deutsche Grundgesetz ? Zwangsarbeit. (What is probihibited by German Consitution ? Forced labor)
+
 
 
