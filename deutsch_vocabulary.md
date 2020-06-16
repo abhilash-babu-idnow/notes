@@ -189,3 +189,16 @@
 * deutlich; clear, significant, noticeable, articulate. <br> Die Anleitung nutzt deutliche Abbildungen. (The manual uses clear illustrations) <br> Der jährliche Bericht zeigt deutliche Verbesserungen auf. (The annual report shows significant improvements) <br> Es gab eine deutliche Verbesserung ihrer Noten. (There was a noticeable improvement in her grades) <br> Seine Antwort was klar und deutlich. (His answer was clear and articulate)
 * ersetzen; replace sth. refund. <br> Eine Kachel ging kaputt und ich musste sie ersetzen. (One of the tiles is broken and I had to replace it) <br> Mein Unternehmen ersetzt mir meine Geschäftsreisekosten. (My company refunds my business travel expenses)
 * Fortschritt; progress, advance <br> Der Patient machte große Fortschritte und wurde Ende der Woche entlassen. (The patient made greate progress and was discharged by the end of the week) <br> Fortschritte in der Medizin haben unsere Lebenserwartung verbessert. (Advances in medicine have improved our life expectancy) <br> Unser Projekt hat große Fortschritte gemacht. (Our project has made some greate strides.)
+
+
+# 6/16/2020 8:52:00 AM
+
+* vernünftig; reasonable, sound, rational, sensible, wise, judicious, mature, level-headed <br> Es war ein vernünftiger Vorschlag, deschalb haben wir ihn angenommen. (It was a reasonable suggestion, so we accepted it) <br> Er ist für sein Alter sehr vernünftig. (He is very mature for his age) <br> Meine halbwüchsige Tochter ist sehr vernünftig. (My teenage daughter is very level-headed) 
+* eindringen; penetrate, enter, infiltrate <br> Der Wald ist so dick, dass nur sehr wenig Licht eindringen kann. (The forest is so thick that only very little light is able to penetrate it) <br> Das Medicament dringt schnell ins Blut ein. (The medication quickly enters the bloodstream)
+* sich vermehren; reproduce, multiply, augment <br> Kaninchen vermehren sich schnell. (Rabits breed very fast) <br> Sie vermehrte ihre Ersparnisse durch vernünftige investionen. (She augmented her savings with prudent investments)
+* ansteckend; infectious, contagious <br> Zum Glück war seine Krankheit nicht ansteckend. (Fortunately, his illness was not infectious) <br> Lachen ist ansteckend. (Laughing is contagious)
+* vorkomment; verb. exist, occur, appear noun. occurence <br> Mein Name kommt in den Vertragsdokumenten vor. (My name appears on the contract documents) <br> Das Vorkommen von heftigen Stürmen ist am Meer nicht ungewöhnlich. (The occurence of heavy storms is not unusual near the sea)
+* Wirt; host, landlord <br> Moskitos können einen menschlichen Wirt mit einem Biss infiziern. (Mosquitoes can infect a human host with a bite) <br> Parasiten brauchen einen wirt, um zu überleben. (Parasites need a host in order to survive)
+* Beweis; noun. proof, evidence. verb. prove, demostrate, show <br> Er hat großen Mut unter schwierigen Bedingungen bewiesen. (He has shown great courage under difficult conditions) <br> Die Fingerabdrücke waren ein eindeutiger Beweis. (The fingerprints were an unequivocal proof)
+
+
