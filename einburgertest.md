@@ -18,3 +18,13 @@
 * Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert ? ; die Unantastbarkeit der Menschenwürde
 * Was versteht man unter dem Recht der "Freizügigkeit" in Deutschland ? ; Man darf sich seinen Wohnort selbst aussuchen. 
 * Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu erricten. Sie ist dann ; verfassungswidrig.
+* Welches ist das Wappen der Bundesrepublik Deutschland? (photo) ; Adler
+* Was für eine Staatsform hat Deutschland? ; Republik
+* In Deutschland sind die meisten Erwerbstätigen.. ; bei einer Firma oder Behörde beschäftigt.
+* Wie viele Bundesländer hat die Bundesrepublik Deutschland ? ; 16
+* Was ist kein Bundesland der Bundesrepublik Deutschland ? 	Elsass-Lothringen, Nordrhein-Westfalen, Mecklenburg-Vorpommern, Sachsen-Anhalt ; Elsass-Lohtringen. 
+* Deutschland ist [ eine kommunistische Republik. / ein demokratischer und sozialer Bundesstaat. / eine kapitalistische und soziale Monarchie. /ein sozialer und sozialistischer Bundesstaat. ] ; ein demokratischer und sozialer Bundesstaat.
+* Deutschland ist [ ein sozialistischer Staat / ein Bundesstaat / eine Diktatur / eine Monarchie] ; ein Bundesstaat
+* Wer wählt in Deutschland die Abgeordneten zum Bundestag ? ; / das wahlberectigte Volk
+* Welches Tier ist das Wappentier der Bundesrepublik Deutschland ; Adler
+* Was ist kein Merkmal unserer Demokratie ? [regelmäßige Wahlen / Pressezensur / Meinungsfreiheit> / verschiedene Parteien] ; Pressezensur
