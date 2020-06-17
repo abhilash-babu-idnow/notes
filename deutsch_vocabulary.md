@@ -206,4 +206,13 @@
 * Zwangsarbeit; forced labor <br> Was verbietet das deutsche Grundgesetz ? Zwangsarbeit. (What is probihibited by German Consitution ? Forced labor)
 
 
+# 6/17/2020 8:42:00 AM
+
+* prägen; shape, imprint, characterize, coin, mint <br> Ich weiß nicht, wer diese Redewengung geprägt hat. (I don't know who coined this phrase) <br> Die Stadt prägt ihre eigenen Münzen. 
+* verurteilen, verurteilt; sentence (sentenced), condemn (condemned), doom (doomed) <br> Das Gericht verurteilte ihn zu zehn Tagen Gefängnis. (The court sentenced him to ten days in prison) <br> Die freunden des Angeklagten verurteilten sein Handeln. (The accused's friends condemnted his actions). 
+* Durchbruch; breakthrough <br> Die Entdeckung wurde als großer Durchbruch wahrgenommen. (The discovery was percieved as a major breakthrough) <br> Der Professor erzielte mit seiner neuen Theorie einen Durchbruch. (The professor achieved a breakthrough with his new theory)
+* vorläufig; preliminary, temporary, tentative, interim <br> Dieser Entwurf ist nur vorläufig. (The draft is just provisional) <br> Die Lösung ist vorläufig, nicht von Dauer. (The solution is temporary, not permanent.) <br> Ich habe nur einen vorläufigen Plan bekommen. (I only recieved a preliminary schedule)
+* erwägen; consider sth., weigh sth. <br> Er hat die Idee erwogen, aber sich noch nicht entscheiden. (He considered the idea but has not decided yet) <br>  Ich erwog die Vorteile und Nachteile, bevor ich eine Entscheidung traf. (I weighed the advantages and disadvantages before making a decision).
+* die Vorgabe; specification, default, demand, target, guideline. <br> Die Vorgaben des Projekts sind eindeutig und genau. (The specifications of the projects are clear and precise). <br> Ich führte den Auftrag gemäß der Vorgaben aus. (I carried out the task according to the guidelines.)
+* Befürworter; supporter, advocate, proponent. <br> Ich bin ein Befürworfer des freien Handels. (I am an advocate for free trade)
 
