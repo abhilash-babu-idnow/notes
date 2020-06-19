@@ -216,3 +216,23 @@
 * die Vorgabe; specification, default, demand, target, guideline. <br> Die Vorgaben des Projekts sind eindeutig und genau. (The specifications of the projects are clear and precise). <br> Ich führte den Auftrag gemäß der Vorgaben aus. (I carried out the task according to the guidelines.)
 * Befürworter; supporter, advocate, proponent. <br> Ich bin ein Befürworfer des freien Handels. (I am an advocate for free trade)
 
+# 6/18/2020 9:40:00 AM
+
+* die Rache; revenge, vengeance <br> Der Bösewicht plante seine Rache an dem Helden. (The villian plotted his revenge against the hero.) <br> Rache führt nur zu weiteren Konflikten. (Vengeance will only lead to further conflicts).
+* empfindlich; sensitive, delicate, tender, queasy, squeamish <br> Empfindliche Haut bedarf besondere Pflege. (Sensitive skin needs special care) <br> Die Pflanze ist empfindlich und muss vor Luftzug geschützt werden. (The plant is delicate and needs to be protected from draft.)
+* gerechtfertigt; justified. <br> Die Dringlichkeit ihres Anliegens rechtfertigt eine Petition. (The urgency of her cause justifies a petition)
+* Vorliebe; preference <br> Ich habe eine Vorliebe für Schokoladeneis. (I have a preference for chocolate ice cream)
+* vertuschen; hide, conceal, cover up, gloss over <br> Er schaffte es, die meinsten Fehler zu vertuschen. (He mananged to conceal most of his errors) <br> Der Politiker versuchte den Skandal zu vertuschen. (The politician tried to cover up the scandal)
+* aufrechtzuerhalten / aufrechterhalten ; sustainable, sustain, maintain, uphold, keepup. <br> Der Kapitän muss die Disziplin an Bord seines Schiffes aufrechterhalten. (The captain has to maintain discipline aboard his ship) <br> Es ist einfach für mich, eine Unterhaltung aufrecht zu erhalten. 
+* einigermaßen ; reasonably <br> Für den billigen Preis war das Hotelzimmer einigermaßen gemütlich. (The hotel room was reasonably comfortable, considering the cheap price)
+* vorladen ; summon, subpeona <br> Ich wurde als Zeugin vorgeladen. (I was summoned as a witness)
+* gewährleisten ; ensure, guarantee, warrant <br> Wir können eine schnelle Lieferung alle unserer Produkte gewährleisten. (We can ensure fast delivery of all our products) <br> Der Hersteller gewährleistet die Qualität des Geräts. (The manufacturer warrants the quality of the device)
+
+# 6/19/2020 9:40:00 AM
+
+* verarbeiten; process, handle <br> Ein Computer verarbeitet Daten. (A computer processes data)
+* beklagen; mourn, lament, bemoan, deplore, sued <br> Er arbeitet hart und beklagt nie seine finanziellen Probleme. (He works hard and never bemoans his financial problems)
+* ausgehen; runout, originate, emanate, go out, date <br> Ich kaufe immer mehr Milch, bevor sie ausgeht. (I always buy more milk before it runs out) <br> Die ganze Diskussion geht von einem Missverständnis aus. (The whole discussion originates from a misunderstanding.) <br> Ich muss immer auf meine kleine Schwester aufpassen, wenn meine Eltern ausgehen. (I always have to watch my little sister when my parents go out)
+* über etw (akk) verfügen; have something at disposal <br> Das Haus verfügt über eine separate Küche. (The house has a separate kitchen) <br> Alle Verben verfügen über einen indikativen Modus. (All verbs have an indicative mood)
+* Zielscheibe; target <br> Der Bogenschütze zielte auf die Zielscheibe und schoss seinen Pfeil ab. (The archer aimed at the target and released his arror)
+* ohnehin; anyway, already <br> Ich werde ihm deinen Wunsch mitteilen, ich muss ihm ohnehin schreiben. (I will tell him your wish, I have to write to him anyway) <br> Er konnte nicht noch mehr leisten, er war ohnehin schon überlastet. (He couldn't do any more, he was already overworked)
