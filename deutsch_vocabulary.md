@@ -15,11 +15,11 @@
 
 # 5/18/2020 9:32:43 AM
 
-* anstoßen ; to bump, to shove .. to drink a toast to something or somebody. „Ich habe heute meinen Arbeitsvertrag für meine neue Arbeitsstelle unterschrieben! Darauf müssen wir anstoßen!“
-* die Tätigkeit ; activity, tasks, occupation. Ich finde meine berufliche Tätigkeit sehr interessant. Es gibt immer etwas Neues.
-* Tatem ; doings, actions. wir taten, wie uns befohlen wurde (We did as we were told).
+* anstoßen ; to bump, to shove .. to drink a toast to something or somebody. <br>  „Ich habe heute meinen Arbeitsvertrag für meine neue Arbeitsstelle unterschrieben! Darauf müssen wir anstoßen!“
+* die Tätigkeit ; activity, tasks, occupation. <br>  Ich finde meine berufliche Tätigkeit sehr interessant. Es gibt immer etwas Neues.
+* Tatem ; doings, actions. <br>  wir taten, wie uns befohlen wurde (We did as we were told).
 * Zugehörigkeit ; affinity, belonging, membership
-* Beziehung ; relationship, connection. Wir haben gute Beziehungen zu unseren Nachbarn.
+* Beziehung ; relationship, connection. <br> Wir haben gute Beziehungen zu unseren Nachbarn.
 
 # 5/20/2020 10:43:00 AM
 
@@ -27,7 +27,7 @@
 * verzögern ; to stall, to delay, to defer <br> Alle diese Umstände hatten den Reiseverlauf verzögert.
 * Reiseverlauf ; itinerary <br> Alle diese Umstände hatten den Reiseverlauf verzögert.
 * Umstände ; circumstances, conditions <br> Alle diese Umstände hatten den Reiseverlauf verzögert.
-* nachgeben; to give in, to concede, to yield. <br> Gebt diesen Forderungen nicht nach. 
+* nachgeben; to give in, to concede, to yield. <br> Gebt diesen Forderungen nicht nach.
 
 # 5/29/2020 10:43:00 AM
 * fehlerhaft ; faulty, incorrect, defective, flawed <br> Das Festplattenlaufwerk ist fehlerhaft und muss ersetzt werden. <br> Das Prinzip ist jedoch offenkundig fehlerhaft. (The prinicple is however patently flawed)
@@ -189,3 +189,13 @@
 * deutlich; clear, significant, noticeable, articulate. <br> Die Anleitung nutzt deutliche Abbildungen. (The manual uses clear illustrations) <br> Der jährliche Bericht zeigt deutliche Verbesserungen auf. (The annual report shows significant improvements) <br> Es gab eine deutliche Verbesserung ihrer Noten. (There was a noticeable improvement in her grades) <br> Seine Antwort was klar und deutlich. (His answer was clear and articulate)
 * ersetzen; replace sth. refund. <br> Eine Kachel ging kaputt und ich musste sie ersetzen. (One of the tiles is broken and I had to replace it) <br> Mein Unternehmen ersetzt mir meine Geschäftsreisekosten. (My company refunds my business travel expenses)
 * Fortschritt; progress, advance <br> Der Patient machte große Fortschritte und wurde Ende der Woche entlassen. (The patient made greate progress and was discharged by the end of the week) <br> Fortschritte in der Medizin haben unsere Lebenserwartung verbessert. (Advances in medicine have improved our life expectancy) <br> Unser Projekt hat große Fortschritte gemacht. (Our project has made some greate strides.)
+
+
+# 6/20/2020 8:24:49 AM
+
+* Ausschreitungen; riots <br>  Zum Glück kam es nach dem Spiel nicht zu Ausschreitungen. (Luckily, there was no riot after the game)
+* infolge; prep. as a result of, owing to <br> Infolge der Medikament fühle ich mich jetzt viel besser. (As a result of the medication, I am feeling much better now). <br> Infolge des sclechten Wetters wurde das Spiel verschoben. (Owing to the bad weather, the match has been postponed.)
+* richten; direct sth, do, focus, make, point, fix <br> Ich richtete die Kamera auf meinen Freund und machte das Foto. (I pointed the camera at my friend and took the photo). <br> Die Bürger richteten einen Appel an ihre Regierung. (The citizens made an appeal to their government)
+* verhängen; impose, declare, administer, cover <br> Der Schiedsrichter verhängte eine Auszeit. (The referee imposed a timeout)
+* Veranstalter; organizer, operator <br> Der Veranstalter bietet sowohl preiswerte als auch luxuriöse Reisen an. (The operator offers both low-cost and luxury tours)
+* vorwerfer; accuse of sth. <br> Dem Mann wurden Erpressung und Betrug vorgeworfen. (The man was accused of blackmail and fraud).
