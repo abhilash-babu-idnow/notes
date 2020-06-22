@@ -190,6 +190,30 @@
 * ersetzen; replace sth. refund. <br> Eine Kachel ging kaputt und ich musste sie ersetzen. (One of the tiles is broken and I had to replace it) <br> Mein Unternehmen ersetzt mir meine Geschäftsreisekosten. (My company refunds my business travel expenses)
 * Fortschritt; progress, advance <br> Der Patient machte große Fortschritte und wurde Ende der Woche entlassen. (The patient made greate progress and was discharged by the end of the week) <br> Fortschritte in der Medizin haben unsere Lebenserwartung verbessert. (Advances in medicine have improved our life expectancy) <br> Unser Projekt hat große Fortschritte gemacht. (Our project has made some greate strides.)
 
+# 6/16/2020 8:52:00 AM
+
+* vernünftig; reasonable, sound, rational, sensible, wise, judicious, mature, level-headed <br> Es war ein vernünftiger Vorschlag, deschalb haben wir ihn angenommen. (It was a reasonable suggestion, so we accepted it) <br> Er ist für sein Alter sehr vernünftig. (He is very mature for his age) <br> Meine halbwüchsige Tochter ist sehr vernünftig. (My teenage daughter is very level-headed) 
+* eindringen; penetrate, enter, infiltrate <br> Der Wald ist so dick, dass nur sehr wenig Licht eindringen kann. (The forest is so thick that only very little light is able to penetrate it) <br> Das Medicament dringt schnell ins Blut ein. (The medication quickly enters the bloodstream)
+* sich vermehren; reproduce, multiply, augment <br> Kaninchen vermehren sich schnell. (Rabits breed very fast) <br> Sie vermehrte ihre Ersparnisse durch vernünftige investionen. (She augmented her savings with prudent investments)
+* ansteckend; infectious, contagious <br> Zum Glück war seine Krankheit nicht ansteckend. (Fortunately, his illness was not infectious) <br> Lachen ist ansteckend. (Laughing is contagious)
+* vorkomment; verb. exist, occur, appear noun. occurence <br> Mein Name kommt in den Vertragsdokumenten vor. (My name appears on the contract documents) <br> Das Vorkommen von heftigen Stürmen ist am Meer nicht ungewöhnlich. (The occurence of heavy storms is not unusual near the sea)
+* Wirt; host, landlord <br> Moskitos können einen menschlichen Wirt mit einem Biss infiziern. (Mosquitoes can infect a human host with a bite) <br> Parasiten brauchen einen wirt, um zu überleben. (Parasites need a host in order to survive)
+* Beweis; noun. proof, evidence. verb. prove, demostrate, show <br> Er hat großen Mut unter schwierigen Bedingungen bewiesen. (He has shown great courage under difficult conditions) <br> Die Fingerabdrücke waren ein eindeutiger Beweis. (The fingerprints were an unequivocal proof)
+* ziemlich; considerable, rather, quite, fairly, kind of <br> Ich war ziemlich überrascht, als alle meine Freunde zu meiner Geburtstagsparty kamen. (I was fairly surprised when all my friends came to my birthday party) <br> Ich bin ziemlich wählerisch, wenn es um das Essen geht. (I am rather picky when it comes to food)
+* fungieren; function <br> Eine Münze hat als Schraubendreher fungiert. (A coin functioned as a screwdriver)
+* Verfassung; constitution <br> Der Richter zitierte mehrere Paragraphen der Verfassung. (The judge quoted several articles of the Constitution)
+* Zwangsarbeit; forced labor <br> Was verbietet das deutsche Grundgesetz ? Zwangsarbeit. (What is probihibited by German Consitution ? Forced labor)
+
+
+# 6/17/2020 8:42:00 AM
+
+* prägen; shape, imprint, characterize, coin, mint <br> Ich weiß nicht, wer diese Redewengung geprägt hat. (I don't know who coined this phrase) <br> Die Stadt prägt ihre eigenen Münzen. 
+* verurteilen, verurteilt; sentence (sentenced), condemn (condemned), doom (doomed) <br> Das Gericht verurteilte ihn zu zehn Tagen Gefängnis. (The court sentenced him to ten days in prison) <br> Die freunden des Angeklagten verurteilten sein Handeln. (The accused's friends condemnted his actions). 
+* Durchbruch; breakthrough <br> Die Entdeckung wurde als großer Durchbruch wahrgenommen. (The discovery was percieved as a major breakthrough) <br> Der Professor erzielte mit seiner neuen Theorie einen Durchbruch. (The professor achieved a breakthrough with his new theory)
+* vorläufig; preliminary, temporary, tentative, interim <br> Dieser Entwurf ist nur vorläufig. (The draft is just provisional) <br> Die Lösung ist vorläufig, nicht von Dauer. (The solution is temporary, not permanent.) <br> Ich habe nur einen vorläufigen Plan bekommen. (I only recieved a preliminary schedule)
+* erwägen; consider sth., weigh sth. <br> Er hat die Idee erwogen, aber sich noch nicht entscheiden. (He considered the idea but has not decided yet) <br>  Ich erwog die Vorteile und Nachteile, bevor ich eine Entscheidung traf. (I weighed the advantages and disadvantages before making a decision).
+* die Vorgabe; specification, default, demand, target, guideline. <br> Die Vorgaben des Projekts sind eindeutig und genau. (The specifications of the projects are clear and precise). <br> Ich führte den Auftrag gemäß der Vorgaben aus. (I carried out the task according to the guidelines.)
+* Befürworter; supporter, advocate, proponent. <br> Ich bin ein Befürworfer des freien Handels. (I am an advocate for free trade)
 
 # 6/20/2020 8:24:49 AM
 
@@ -220,4 +244,3 @@
 * die Mitteilung; communication, message, notification, notice, note <br> Wir erhielten eine wichtige Mitteilung von unserem Chef. We received an urgent communication from our boss. <br> Die intention der Mitteilung schien klar zu sein. The purport of the message to be clear. <br> Ich erhielt eine Mitteilung über die Mieterhöhung. I recieved a notification about the rent increase.
 * bisher; adverb. so far, up to now, hitherto, as yet <br> Bisher hat unsere Mannschaft alle Spiele gewonnen. So far, our team has won all the matches. <br> Glücklicherweise ist bisher alles gut gelaufne. Fortunately, everythin has gone well up to now.
 * gefälscht; counterfiet, fake <br> Meine Schwester hat eine gefälschte Handtasche gekauft. My sister bought a counterfiet handbag. <br> Das Gemälde wurde ein ganzes Jahr lang ausgestellt, bevor jemand bemerkte, dass es gefälscht war. The painting  was on display for a whole year before anybody noticed that it was fake.
-
