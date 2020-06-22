@@ -192,7 +192,7 @@
 
 # 6/16/2020 8:52:00 AM
 
-* vernünftig; reasonable, sound, rational, sensible, wise, judicious, mature, level-headed <br> Es war ein vernünftiger Vorschlag, deschalb haben wir ihn angenommen. (It was a reasonable suggestion, so we accepted it) <br> Er ist für sein Alter sehr vernünftig. (He is very mature for his age) <br> Meine halbwüchsige Tochter ist sehr vernünftig. (My teenage daughter is very level-headed) 
+* vernünftig; reasonable, sound, rational, sensible, wise, judicious, mature, level-headed <br> Es war ein vernünftiger Vorschlag, deschalb haben wir ihn angenommen. (It was a reasonable suggestion, so we accepted it) <br> Er ist für sein Alter sehr vernünftig. (He is very mature for his age) <br> Meine halbwüchsige Tochter ist sehr vernünftig. (My teenage daughter is very level-headed)
 * eindringen; penetrate, enter, infiltrate <br> Der Wald ist so dick, dass nur sehr wenig Licht eindringen kann. (The forest is so thick that only very little light is able to penetrate it) <br> Das Medicament dringt schnell ins Blut ein. (The medication quickly enters the bloodstream)
 * sich vermehren; reproduce, multiply, augment <br> Kaninchen vermehren sich schnell. (Rabits breed very fast) <br> Sie vermehrte ihre Ersparnisse durch vernünftige investionen. (She augmented her savings with prudent investments)
 * ansteckend; infectious, contagious <br> Zum Glück war seine Krankheit nicht ansteckend. (Fortunately, his illness was not infectious) <br> Lachen ist ansteckend. (Laughing is contagious)
@@ -207,8 +207,8 @@
 
 # 6/17/2020 8:42:00 AM
 
-* prägen; shape, imprint, characterize, coin, mint <br> Ich weiß nicht, wer diese Redewengung geprägt hat. (I don't know who coined this phrase) <br> Die Stadt prägt ihre eigenen Münzen. 
-* verurteilen, verurteilt; sentence (sentenced), condemn (condemned), doom (doomed) <br> Das Gericht verurteilte ihn zu zehn Tagen Gefängnis. (The court sentenced him to ten days in prison) <br> Die freunden des Angeklagten verurteilten sein Handeln. (The accused's friends condemnted his actions). 
+* prägen; shape, imprint, characterize, coin, mint <br> Ich weiß nicht, wer diese Redewengung geprägt hat. (I don't know who coined this phrase) <br> Die Stadt prägt ihre eigenen Münzen.
+* verurteilen, verurteilt; sentence (sentenced), condemn (condemned), doom (doomed) <br> Das Gericht verurteilte ihn zu zehn Tagen Gefängnis. (The court sentenced him to ten days in prison) <br> Die freunden des Angeklagten verurteilten sein Handeln. (The accused's friends condemnted his actions).
 * Durchbruch; breakthrough <br> Die Entdeckung wurde als großer Durchbruch wahrgenommen. (The discovery was percieved as a major breakthrough) <br> Der Professor erzielte mit seiner neuen Theorie einen Durchbruch. (The professor achieved a breakthrough with his new theory)
 * vorläufig; preliminary, temporary, tentative, interim <br> Dieser Entwurf ist nur vorläufig. (The draft is just provisional) <br> Die Lösung ist vorläufig, nicht von Dauer. (The solution is temporary, not permanent.) <br> Ich habe nur einen vorläufigen Plan bekommen. (I only recieved a preliminary schedule)
 * erwägen; consider sth., weigh sth. <br> Er hat die Idee erwogen, aber sich noch nicht entscheiden. (He considered the idea but has not decided yet) <br>  Ich erwog die Vorteile und Nachteile, bevor ich eine Entscheidung traf. (I weighed the advantages and disadvantages before making a decision).
@@ -244,3 +244,6 @@
 * die Mitteilung; communication, message, notification, notice, note <br> Wir erhielten eine wichtige Mitteilung von unserem Chef. We received an urgent communication from our boss. <br> Die intention der Mitteilung schien klar zu sein. The purport of the message to be clear. <br> Ich erhielt eine Mitteilung über die Mieterhöhung. I recieved a notification about the rent increase.
 * bisher; adverb. so far, up to now, hitherto, as yet <br> Bisher hat unsere Mannschaft alle Spiele gewonnen. So far, our team has won all the matches. <br> Glücklicherweise ist bisher alles gut gelaufne. Fortunately, everythin has gone well up to now.
 * gefälscht; counterfiet, fake <br> Meine Schwester hat eine gefälschte Handtasche gekauft. My sister bought a counterfiet handbag. <br> Das Gemälde wurde ein ganzes Jahr lang ausgestellt, bevor jemand bemerkte, dass es gefälscht war. The painting  was on display for a whole year before anybody noticed that it was fake.
+* ermitteln; determine, identify, detect, establish, ascertain <br> Das Computersystem wird die Gesamtkosten des Projekts ermitteln. The Computer system will determine the overall cost of the project <br> Der Elektriker ermittelte die Ursache für den Stromausfall. The electrician identified the cause of the blackout. <br> Statistiken helfen uns dabei, Trends zu ermitteln. Statistics helps us detect trends.
+* verheeren; devastate, disastrous <br> Er befürchtete dass sein Plan verheerende Folgen haben könnte. He feared that his plan could have disastrous consequences.
+* Straftat; crime, offense. <br> Heutzutage ist Ehebruch keine Straftat mehr. These days, adultery is no longer a crime.
