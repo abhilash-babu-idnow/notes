@@ -15,11 +15,11 @@
 
 # 5/18/2020 9:32:43 AM
 
-* anstoßen ; to bump, to shove .. to drink a toast to something or somebody. „Ich habe heute meinen Arbeitsvertrag für meine neue Arbeitsstelle unterschrieben! Darauf müssen wir anstoßen!“
-* die Tätigkeit ; activity, tasks, occupation. Ich finde meine berufliche Tätigkeit sehr interessant. Es gibt immer etwas Neues.
-* Tatem ; doings, actions. wir taten, wie uns befohlen wurde (We did as we were told).
+* anstoßen ; to bump, to shove .. to drink a toast to something or somebody. <br>  „Ich habe heute meinen Arbeitsvertrag für meine neue Arbeitsstelle unterschrieben! Darauf müssen wir anstoßen!“
+* die Tätigkeit ; activity, tasks, occupation. <br>  Ich finde meine berufliche Tätigkeit sehr interessant. Es gibt immer etwas Neues.
+* Tatem ; doings, actions. <br>  wir taten, wie uns befohlen wurde (We did as we were told).
 * Zugehörigkeit ; affinity, belonging, membership
-* Beziehung ; relationship, connection. Wir haben gute Beziehungen zu unseren Nachbarn.
+* Beziehung ; relationship, connection. <br> Wir haben gute Beziehungen zu unseren Nachbarn.
 
 # 5/20/2020 10:43:00 AM
 
@@ -27,7 +27,7 @@
 * verzögern ; to stall, to delay, to defer <br> Alle diese Umstände hatten den Reiseverlauf verzögert.
 * Reiseverlauf ; itinerary <br> Alle diese Umstände hatten den Reiseverlauf verzögert.
 * Umstände ; circumstances, conditions <br> Alle diese Umstände hatten den Reiseverlauf verzögert.
-* nachgeben; to give in, to concede, to yield. <br> Gebt diesen Forderungen nicht nach. 
+* nachgeben; to give in, to concede, to yield. <br> Gebt diesen Forderungen nicht nach.
 
 # 5/29/2020 10:43:00 AM
 * fehlerhaft ; faulty, incorrect, defective, flawed <br> Das Festplattenlaufwerk ist fehlerhaft und muss ersetzt werden. <br> Das Prinzip ist jedoch offenkundig fehlerhaft. (The prinicple is however patently flawed)
@@ -190,7 +190,6 @@
 * ersetzen; replace sth. refund. <br> Eine Kachel ging kaputt und ich musste sie ersetzen. (One of the tiles is broken and I had to replace it) <br> Mein Unternehmen ersetzt mir meine Geschäftsreisekosten. (My company refunds my business travel expenses)
 * Fortschritt; progress, advance <br> Der Patient machte große Fortschritte und wurde Ende der Woche entlassen. (The patient made greate progress and was discharged by the end of the week) <br> Fortschritte in der Medizin haben unsere Lebenserwartung verbessert. (Advances in medicine have improved our life expectancy) <br> Unser Projekt hat große Fortschritte gemacht. (Our project has made some greate strides.)
 
-
 # 6/16/2020 8:52:00 AM
 
 * vernünftig; reasonable, sound, rational, sensible, wise, judicious, mature, level-headed <br> Es war ein vernünftiger Vorschlag, deschalb haben wir ihn angenommen. (It was a reasonable suggestion, so we accepted it) <br> Er ist für sein Alter sehr vernünftig. (He is very mature for his age) <br> Meine halbwüchsige Tochter ist sehr vernünftig. (My teenage daughter is very level-headed) 
@@ -204,7 +203,6 @@
 * fungieren; function <br> Eine Münze hat als Schraubendreher fungiert. (A coin functioned as a screwdriver)
 * Verfassung; constitution <br> Der Richter zitierte mehrere Paragraphen der Verfassung. (The judge quoted several articles of the Constitution)
 * Zwangsarbeit; forced labor <br> Was verbietet das deutsche Grundgesetz ? Zwangsarbeit. (What is probihibited by German Consitution ? Forced labor)
-
 
 # 6/17/2020 8:42:00 AM
 
@@ -236,3 +234,34 @@
 * über etw (akk) verfügen; have something at disposal <br> Das Haus verfügt über eine separate Küche. (The house has a separate kitchen) <br> Alle Verben verfügen über einen indikativen Modus. (All verbs have an indicative mood)
 * Zielscheibe; target <br> Der Bogenschütze zielte auf die Zielscheibe und schoss seinen Pfeil ab. (The archer aimed at the target and released his arror)
 * ohnehin; anyway, already <br> Ich werde ihm deinen Wunsch mitteilen, ich muss ihm ohnehin schreiben. (I will tell him your wish, I have to write to him anyway) <br> Er konnte nicht noch mehr leisten, er war ohnehin schon überlastet. (He couldn't do any more, he was already overworked)
+
+# 6/20/2020 8:24:49 AM
+
+* Ausschreitungen; riots <br>  Zum Glück kam es nach dem Spiel nicht zu Ausschreitungen. (Luckily, there was no riot after the game)
+* infolge; prep. as a result of, owing to <br> Infolge der Medikament fühle ich mich jetzt viel besser. (As a result of the medication, I am feeling much better now). <br> Infolge des sclechten Wetters wurde das Spiel verschoben. (Owing to the bad weather, the match has been postponed.)
+* richten; direct sth, do, focus, make, point, fix <br> Ich richtete die Kamera auf meinen Freund und machte das Foto. (I pointed the camera at my friend and took the photo). <br> Die Bürger richteten einen Appel an ihre Regierung. (The citizens made an appeal to their government)
+* verhängen; impose, declare, administer, cover <br> Der Schiedsrichter verhängte eine Auszeit. (The referee imposed a timeout)
+* Veranstalter; organizer, operator <br> Der Veranstalter bietet sowohl preiswerte als auch luxuriöse Reisen an. (The operator offers both low-cost and luxury tours)
+* vorwerfen; accuse of sth. <br> Dem Mann wurden Erpressung und Betrug vorgeworfen. (The man was accused of blackmail and fraud).
+
+
+# 6/21/2020 2:52:21 AM
+
+* quälen; torment, distress, rack <br> Ich wollte dich damit nicht quälen. (I did not mean to distress you) <br> Ich quälte mein Gehirn, bis ich eine Lösung fand. (I racked my brain untill I found a solution)
+* Qual; agony, anguish <br> Nach dem Prüfung kam die Qual des Wartens. After the exams came the agony of waiting <br> Das macht uns das Leben zur Qual. (This is making our lives a misery)
+* dementieren; deny, disclaim, refuse sth. <br> Auf der Pressekonferenz dementierte der Politiker die Vorwürfe. At the press conference, the politician denied the accusation.
+* sich (akk.) geschlagen geben; surrender <br> Nach der fünften Runde gab der Boxer sich geschlagen. (After the fifth round, the boxer surrendered)
+* nachkommen (verb); comply, fulfill <br> Ich komme alle meinien Pflichten be der Arbeit nach. I fulfill all my obligations at work <br> Die Polizei bat die Demonstrierenden, ihren Forderungen nachzukommen. The police asked the demonstrators to comply with their requests.
+* Aussage; statement, message, testimony, assertion <br> Laut Aussage des Zeugen was der Verdächtige bei der Arbeit. According to the witness's statement, the subject was at work. <br> Ich habe die Wahrheit des Aussage bestätigt. I attested to the truth of the statement. <br> Die Aussage des Zeugen entschied den Fall. The testimony from the witness decided the case.
+* sich (akk.) weigern; refuse <br> Die Mitarbeiter weigerten sich, Überstunden zu machen. The staff refused to work overtime. <br> Das Vieh weigerte sich, sich vorwärts zu bewegen. The cattel refused to move along.
+* verzweifelt (adj); desperate, frantic <br> Er klang verzweifelt, also beschloss ich, ihm zu helfen. He sounded desperate, so I decided to help him <br> Die Dame war wütend und verzweifelt, als sie Ihren Ring verlor. The lady as upset and frantic when she lost her ring .
+* beschließen; decide, resolve, determine <br> Er beschloss, sein Bart abzurasieren. He decided to shave off his beard.
+* ausgezeichnet; excellent, fine <br> Die Ergebnisse des Studierenden waren ausgezeichnet. The student's result were excellent.
+
+# 6/22/2020 6:06:00 AM
+
+* der Vorstand; board, management, executive boards, governing body <br> Der Vorstand setzte einen neuen Direktor ein. The board appointed a new director <br> Der Vorstand ist für die Gewinne des Konzerns verantwortlich. The management is responsible for the groups profits. <br> Der Vorstand dieses Vereins hat fünf Mitglieder. The executive board of this association has five members.
+* die Mitteilung; communication, message, notification, notice, note <br> Wir erhielten eine wichtige Mitteilung von unserem Chef. We received an urgent communication from our boss. <br> Die intention der Mitteilung schien klar zu sein. The purport of the message to be clear. <br> Ich erhielt eine Mitteilung über die Mieterhöhung. I recieved a notification about the rent increase.
+* bisher; adverb. so far, up to now, hitherto, as yet <br> Bisher hat unsere Mannschaft alle Spiele gewonnen. So far, our team has won all the matches. <br> Glücklicherweise ist bisher alles gut gelaufne. Fortunately, everythin has gone well up to now.
+* gefälscht; counterfiet, fake <br> Meine Schwester hat eine gefälschte Handtasche gekauft. My sister bought a counterfiet handbag. <br> Das Gemälde wurde ein ganzes Jahr lang ausgestellt, bevor jemand bemerkte, dass es gefälscht war. The painting  was on display for a whole year before anybody noticed that it was fake.
+
