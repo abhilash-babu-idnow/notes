@@ -265,3 +265,10 @@
 * bisher; adverb. so far, up to now, hitherto, as yet <br> Bisher hat unsere Mannschaft alle Spiele gewonnen. So far, our team has won all the matches. <br> Glücklicherweise ist bisher alles gut gelaufne. Fortunately, everythin has gone well up to now.
 * gefälscht; counterfiet, fake <br> Meine Schwester hat eine gefälschte Handtasche gekauft. My sister bought a counterfiet handbag. <br> Das Gemälde wurde ein ganzes Jahr lang ausgestellt, bevor jemand bemerkte, dass es gefälscht war. The painting  was on display for a whole year before anybody noticed that it was fake.
 
+# 6/23/2020 10:12:20 PM
+
+* razzia; raid <br> Bei der Razzia fand die Polizei keine Drogen. The police found no drugs in the raid.
+* agieren; act, operate <br> Die Gruppierung agiere vorwiegend im Netz. The groups operate mostly in the internet.
+* äußern; express, voice, utter <br> Der Lehrer ermutige die Schüler dazu, ihre Meinung zu äußern. The teacher encouraged the students to express their opinion. <br> Er äußerte keine Bedenken. He did not voice any concern
+* Vereinigung; association, union, unification <br> Es sind alle Mitgleider der Vereinigung zur Sitzung eingeladen. All members of the association are invited to the meeting. <br> Letzes jahr traten drei weitere Länder der Vereinigung be. Three more countries joind the union last year. <br> Die Vereinigung der beiden Länder wurde gut angenommen. The unification of the two countries was well received. 
+* loben; praise, commend, applaud <br> Sie lobte die Kinder für ihr gutes Benehmen. She praised the children for their good manners. <br> Sie wurde als vorbildliche Angestellte gelobt. She was praised as a model employe.
