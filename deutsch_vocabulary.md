@@ -204,7 +204,6 @@
 * Verfassung; constitution <br> Der Richter zitierte mehrere Paragraphen der Verfassung. (The judge quoted several articles of the Constitution)
 * Zwangsarbeit; forced labor <br> Was verbietet das deutsche Grundgesetz ? Zwangsarbeit. (What is probihibited by German Consitution ? Forced labor)
 
-
 # 6/17/2020 8:42:00 AM
 
 * prägen; shape, imprint, characterize, coin, mint <br> Ich weiß nicht, wer diese Redewengung geprägt hat. (I don't know who coined this phrase) <br> Die Stadt prägt ihre eigenen Münzen.
@@ -214,6 +213,27 @@
 * erwägen; consider sth., weigh sth. <br> Er hat die Idee erwogen, aber sich noch nicht entscheiden. (He considered the idea but has not decided yet) <br>  Ich erwog die Vorteile und Nachteile, bevor ich eine Entscheidung traf. (I weighed the advantages and disadvantages before making a decision).
 * die Vorgabe; specification, default, demand, target, guideline. <br> Die Vorgaben des Projekts sind eindeutig und genau. (The specifications of the projects are clear and precise). <br> Ich führte den Auftrag gemäß der Vorgaben aus. (I carried out the task according to the guidelines.)
 * Befürworter; supporter, advocate, proponent. <br> Ich bin ein Befürworfer des freien Handels. (I am an advocate for free trade)
+
+# 6/18/2020 9:40:00 AM
+
+* die Rache; revenge, vengeance <br> Der Bösewicht plante seine Rache an dem Helden. (The villian plotted his revenge against the hero.) <br> Rache führt nur zu weiteren Konflikten. (Vengeance will only lead to further conflicts).
+* empfindlich; sensitive, delicate, tender, queasy, squeamish <br> Empfindliche Haut bedarf besondere Pflege. (Sensitive skin needs special care) <br> Die Pflanze ist empfindlich und muss vor Luftzug geschützt werden. (The plant is delicate and needs to be protected from draft.)
+* gerechtfertigt; justified. <br> Die Dringlichkeit ihres Anliegens rechtfertigt eine Petition. (The urgency of her cause justifies a petition)
+* Vorliebe; preference <br> Ich habe eine Vorliebe für Schokoladeneis. (I have a preference for chocolate ice cream)
+* vertuschen; hide, conceal, cover up, gloss over <br> Er schaffte es, die meinsten Fehler zu vertuschen. (He mananged to conceal most of his errors) <br> Der Politiker versuchte den Skandal zu vertuschen. (The politician tried to cover up the scandal)
+* aufrechtzuerhalten / aufrechterhalten ; sustainable, sustain, maintain, uphold, keepup. <br> Der Kapitän muss die Disziplin an Bord seines Schiffes aufrechterhalten. (The captain has to maintain discipline aboard his ship) <br> Es ist einfach für mich, eine Unterhaltung aufrecht zu erhalten.
+* einigermaßen ; reasonably <br> Für den billigen Preis war das Hotelzimmer einigermaßen gemütlich. (The hotel room was reasonably comfortable, considering the cheap price)
+* vorladen ; summon, subpeona <br> Ich wurde als Zeugin vorgeladen. (I was summoned as a witness)
+* gewährleisten ; ensure, guarantee, warrant <br> Wir können eine schnelle Lieferung alle unserer Produkte gewährleisten. (We can ensure fast delivery of all our products) <br> Der Hersteller gewährleistet die Qualität des Geräts. (The manufacturer warrants the quality of the device)
+
+# 6/19/2020 9:40:00 AM
+
+* verarbeiten; process, handle <br> Ein Computer verarbeitet Daten. (A computer processes data)
+* beklagen; mourn, lament, bemoan, deplore, sued <br> Er arbeitet hart und beklagt nie seine finanziellen Probleme. (He works hard and never bemoans his financial problems)
+* ausgehen; runout, originate, emanate, go out, date <br> Ich kaufe immer mehr Milch, bevor sie ausgeht. (I always buy more milk before it runs out) <br> Die ganze Diskussion geht von einem Missverständnis aus. (The whole discussion originates from a misunderstanding.) <br> Ich muss immer auf meine kleine Schwester aufpassen, wenn meine Eltern ausgehen. (I always have to watch my little sister when my parents go out)
+* über etw (akk) verfügen; have something at disposal <br> Das Haus verfügt über eine separate Küche. (The house has a separate kitchen) <br> Alle Verben verfügen über einen indikativen Modus. (All verbs have an indicative mood)
+* Zielscheibe; target <br> Der Bogenschütze zielte auf die Zielscheibe und schoss seinen Pfeil ab. (The archer aimed at the target and released his arror)
+* ohnehin; anyway, already <br> Ich werde ihm deinen Wunsch mitteilen, ich muss ihm ohnehin schreiben. (I will tell him your wish, I have to write to him anyway) <br> Er konnte nicht noch mehr leisten, er war ohnehin schon überlastet. (He couldn't do any more, he was already overworked)
 
 # 6/20/2020 8:24:49 AM
 
@@ -247,3 +267,11 @@
 * ermitteln; determine, identify, detect, establish, ascertain <br> Das Computersystem wird die Gesamtkosten des Projekts ermitteln. The Computer system will determine the overall cost of the project <br> Der Elektriker ermittelte die Ursache für den Stromausfall. The electrician identified the cause of the blackout. <br> Statistiken helfen uns dabei, Trends zu ermitteln. Statistics helps us detect trends.
 * verheeren; devastate, disastrous <br> Er befürchtete dass sein Plan verheerende Folgen haben könnte. He feared that his plan could have disastrous consequences.
 * Straftat; crime, offense. <br> Heutzutage ist Ehebruch keine Straftat mehr. These days, adultery is no longer a crime.
+
+# 6/23/2020 10:12:20 PM
+
+* razzia; raid <br> Bei der Razzia fand die Polizei keine Drogen. The police found no drugs in the raid.
+* agieren; act, operate <br> Die Gruppierung agiere vorwiegend im Netz. The groups operate mostly in the internet.
+* äußern; express, voice, utter <br> Der Lehrer ermutige die Schüler dazu, ihre Meinung zu äußern. The teacher encouraged the students to express their opinion. <br> Er äußerte keine Bedenken. He did not voice any concern
+* Vereinigung; association, union, unification <br> Es sind alle Mitgleider der Vereinigung zur Sitzung eingeladen. All members of the association are invited to the meeting. <br> Letzes jahr traten drei weitere Länder der Vereinigung be. Three more countries joind the union last year. <br> Die Vereinigung der beiden Länder wurde gut angenommen. The unification of the two countries was well received.
+* loben; praise, commend, applaud <br> Sie lobte die Kinder für ihr gutes Benehmen. She praised the children for their good manners. <br> Sie wurde als vorbildliche Angestellte gelobt. She was praised as a model employe.
