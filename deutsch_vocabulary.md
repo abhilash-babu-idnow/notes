@@ -265,3 +265,15 @@
 * bisher; adverb. so far, up to now, hitherto, as yet <br> Bisher hat unsere Mannschaft alle Spiele gewonnen. So far, our team has won all the matches. <br> Glücklicherweise ist bisher alles gut gelaufne. Fortunately, everythin has gone well up to now.
 * gefälscht; counterfiet, fake <br> Meine Schwester hat eine gefälschte Handtasche gekauft. My sister bought a counterfiet handbag. <br> Das Gemälde wurde ein ganzes Jahr lang ausgestellt, bevor jemand bemerkte, dass es gefälscht war. The painting  was on display for a whole year before anybody noticed that it was fake.
 
+# 24.06.2020 06:36:25
+
+* gerecht; adj. just, fair, rightful adv. fairly, justly <br> Ein guter Richter ist unparteiisch und gerecht. A good judge is impartial and just. <br> Das Bewertungssystem muss gerecht und durchschaubar sein. The appraisal system must be fair and transparent. 
+* verhindern; prevent, impede, inhibit, forestall, avert <br> Der Sicherheitsgurt verhindert schewere Verletzungen bei Unfällen. The seat belt prevents serious injuries in accidents. <br> Der Anstrich verhindert die Korrosion des Metallzauns. The coat of paint inhibits the corrosion of the metal fence. 
+* anstreichen; paint <br> Mein Bruder hat sein Haus weiß angestreichen. My brother painted his house white. 
+* Bemühung; effort <br> Meine Bemühungen wurden von Teamleiter anerkannt. My efforts are acknowledged by the team leader. 
+* anerkannt; accepted, acknowledged, renowned. <br> Ein Studentenausweis ist kein legal anerkanntes Dokument. A student card is not a legally accepted document. <br> Er war ein anerkannter Wissenschaftler auf seinem Gebiet. He was a renowned scientist in this field. 
+* eine Anzeige erstatten; lodge a complaint, file a complaint. <br> Innenminister Seehofer wollte Anzeige gegen eine Autorin erstatten. Minister of Interior affairs, Seehofer wanted to file charges against an author.
+* abgesehn von; apart from, except from <br> Abgesehen von den ersten zehn Minuten hat das Team sehr gut gespielt. Apart from the first ten minutes, the team played very well. <br> Ich bin mit allen Punkten einverstanden, abgesehn von dem letzten. I agree with all points, except for the last one. 
+* abwischen; wipe, wipe off, wipe clean, wipe down <br> Er wischte seine schmutzigen Hände mit einem Tuch ab. He wiped his dirty hands with a cloth. <br> Er wischte den Schnee von seinem Auto ab. He wiped the snow off his car.
+* ersticken; suffocated, stifled, supressed. <br> Einige Schlangen schlingen sich um ihre Beute und ersticken sie. Some snakes coil around their prey and suffocate it. 
+* Anlass; reason, occasion, event, cause <br> Ich brauche keinen Anlass, um meiner Frau Blumen zu schenken. <br> Alles ist gut, es besteht kein Anlass zur Sorge. All is well, there is no cause for concern. <br> Meine Rede was dem Anlass angemessen. My speech was appropriate for the occasion. 
