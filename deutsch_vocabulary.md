@@ -288,3 +288,14 @@
 * abwischen; wipe, wipe off, wipe clean, wipe down <br> Er wischte seine schmutzigen Hände mit einem Tuch ab. He wiped his dirty hands with a cloth. <br> Er wischte den Schnee von seinem Auto ab. He wiped the snow off his car.
 * ersticken; suffocated, stifled, supressed. <br> Einige Schlangen schlingen sich um ihre Beute und ersticken sie. Some snakes coil around their prey and suffocate it. 
 * Anlass; reason, occasion, event, cause <br> Ich brauche keinen Anlass, um meiner Frau Blumen zu schenken. <br> Alles ist gut, es besteht kein Anlass zur Sorge. All is well, there is no cause for concern. <br> Meine Rede was dem Anlass angemessen. My speech was appropriate for the occasion. 
+
+# 25.06.2020 12:36:16
+
+* abweisen; reject, dismiss <br> Der Server hat die Verbindung abgewiesen. The server has refused the connection
+* etliche; quite a few, a number of, quite a number of <br> Etliche Firmen haben die neuen Richtlinien übernommen. A number of companies have adopted the new quidelines.
+* scherzen; joke, kid <br> Er scherzt gerne mit seinen Freunden. He likes to joke with his friends. <br> Ich dachte, es war ihm ernst, aber er hat nur gescherzt. I thought he was serious, but he was only kidding. 
+* scherz; joke. <br> Meine ironische Bemerkung sollte keine Beleidigung sein, es war ein Scherz. My ironic remark was not meant to be an insut, it was a joke.
+* Ungerechtigkeit; unfairness, injustice <br> Sie beklagte über die Ungerechtigkeit des Lebens. She lamented the unfaireness of life.
+* lindern; alleviate, relieve, mitigate, soothe, ease <br> Die Medikamente haben seine epileptischen Anfälle gelindert. The medication has alleviated his epileptic fits. <br> Ein Glas Wasser und frische Luft können Kopfschmerzen lindern. A glass of water and fresh air can relieve a headache. <br> Das Medikament lindert den durch die Entzündung verursachten Schmerz. The medicine eases the pain caused by the inflammation. 
+* vordorben; spoiled, foul, corrupt, bad <br> Ich habe mir den Magen verdorben. I have an upset stomach. <br> Verdorbenes Gemüse zu essen kann Übelkeit auslösen. Eating foul vegetables can cause sickness.
+* vorherrschend; dominant, prevailing <br> Der vorherrschende Farbton in seinem Bildern ist blau. The dominant shade in his paintings is blue.
