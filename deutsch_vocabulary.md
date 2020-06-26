@@ -1,24 +1,24 @@
 
 # 5/15/2020 9:55:59 PM
 
-* Berücksichtigen ; to consider something, to regard, to allow for something
-* Abschluss ; launch, drown
-* Entsprechende ; corresponding
-* Umstellung ; conversion, migration, changeover, switch etc
-* Führen ; to manage, to lead, to guide, to operate
+* Berücksichtigen ; to consider something, to regard, to allow for something <br> Die anfallenden Kosten sollten berücksichtig werden. The incident costs should be taken into account. <br> Ich werde mein Bestes tun, Ihre Wünsche zu berücksichtigen. I will do my best to consider your wishes. 
+* Abschluss ; conclusion, transaction, completion, closing, degree, graduation, closure. <br> Ein wundervolles Abendessen war der Abschluss der Konferenz. A magnificient dinner was the conclusion of the conference. <br> Der Abschluss des Vertrags war eine langwierige Prozedur. Closing the contract was a boring process.
+* Entsprechende ; adj use of entsprechend, fitting, appropriate, relevant. <br>Er wollte eine Rechnung schreiben und wählte die entsprechende Vorlage. He wanted to write an invoice and selected the fitting template. <br> Bitte wählen Sie unten die entsprechende Option aus. Please select the appropriate option below.
+* Umstellung ; conversion, migration, changeover, switch etc <br> Die Umstellung auf die neue Währung verlief ohne Pannen. The conversion to the new currency went off without a hitch. <br> Die Umstellung verursachte keine Probleme. The transition caused not problems. <br> In eine neue Stadt umzuziehen kann eine große Umstellung sein. Moving to a new town can be a huge adjustment.
+* Führen ; to manage, to lead, to guide, to operate <br> Diese Straße führt zur Fabrik. This road leads to the factory. <br> Der Förster führte sie aus dem Wald. The ranger guided them out of the fortest. <br> Meine Großmutter hat ihr ganzes Leben Tagebuch geführt. My grandmother kept a diary all her life. <br> Das Schild führte uns zum Museum. The sign directed us to the museum.
 
 # 5/17/2020 6:34:53 AM
 
 * Einzelheiten ; details <br> Bitte können Sie mir Einzelheiten über Flüge nach London geben.
 * Anpassungsfahigkeit ; adaptability, resilience, flexibility. <br> Ich bin überzeugt, daß ich bei meiner Anpassungsfahigkeit die Umstellung gut schaffen würde.
-* Vorschlag ; Suggestion. Mein Vorschlag wäre ....
+* Vorschlag ; Suggestion. Mein Vorschlag wäre .... <br> Alle Vorschläge und Ideen sind willkommen. Any suggestions and ideas are welcome. <br> Das Komitee hat gegen den Vorschlag gestimmt. The committee voted against the proposition.
 
 # 5/18/2020 9:32:43 AM
 
 * anstoßen ; to bump, to shove .. to drink a toast to something or somebody. <br>  „Ich habe heute meinen Arbeitsvertrag für meine neue Arbeitsstelle unterschrieben! Darauf müssen wir anstoßen!“
 * die Tätigkeit ; activity, tasks, occupation. <br>  Ich finde meine berufliche Tätigkeit sehr interessant. Es gibt immer etwas Neues.
 * Tatem ; doings, actions. <br>  wir taten, wie uns befohlen wurde (We did as we were told).
-* Zugehörigkeit ; affinity, belonging, membership
+* Zugehörigkeit ; affinity, belonging, membership <br> Wir brauchen alle ein Gefühl von Zugehörigkeit. We all need a feeling of belonging.
 * Beziehung ; relationship, connection. <br> Wir haben gute Beziehungen zu unseren Nachbarn.
 
 # 5/20/2020 10:43:00 AM
@@ -46,7 +46,7 @@
 * Großveranstaltungen; big events, large events
 * Tonaufnahmen ; sound recordings.
 * Ehrung ; tribute
-* Opfer ; victim
+* Opfer ; victim, sacrifice <br> Der Krieg forderte viele Opfer. The war claimed many victims. <br> Er brachte den Göttern Fleisch als Opfer dar. He offered meat as a sacrifice to the gods.
 * der Verdacht ; suspision
 
 # 6/02/2020 08:00:00 AM
