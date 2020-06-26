@@ -278,24 +278,32 @@
 
 # 24.06.2020 06:36:25
 
-* gerecht; adj. just, fair, rightful adv. fairly, justly <br> Ein guter Richter ist unparteiisch und gerecht. A good judge is impartial and just. <br> Das Bewertungssystem muss gerecht und durchschaubar sein. The appraisal system must be fair and transparent. 
-* verhindern; prevent, impede, inhibit, forestall, avert <br> Der Sicherheitsgurt verhindert schewere Verletzungen bei Unfällen. The seat belt prevents serious injuries in accidents. <br> Der Anstrich verhindert die Korrosion des Metallzauns. The coat of paint inhibits the corrosion of the metal fence. 
-* anstreichen; paint <br> Mein Bruder hat sein Haus weiß angestreichen. My brother painted his house white. 
-* Bemühung; effort <br> Meine Bemühungen wurden von Teamleiter anerkannt. My efforts are acknowledged by the team leader. 
-* anerkannt; accepted, acknowledged, renowned. <br> Ein Studentenausweis ist kein legal anerkanntes Dokument. A student card is not a legally accepted document. <br> Er war ein anerkannter Wissenschaftler auf seinem Gebiet. He was a renowned scientist in this field. 
+* gerecht; adj. just, fair, rightful adv. fairly, justly <br> Ein guter Richter ist unparteiisch und gerecht. A good judge is impartial and just. <br> Das Bewertungssystem muss gerecht und durchschaubar sein. The appraisal system must be fair and transparent.
+* verhindern; prevent, impede, inhibit, forestall, avert <br> Der Sicherheitsgurt verhindert schewere Verletzungen bei Unfällen. The seat belt prevents serious injuries in accidents. <br> Der Anstrich verhindert die Korrosion des Metallzauns. The coat of paint inhibits the corrosion of the metal fence.
+* anstreichen; paint <br> Mein Bruder hat sein Haus weiß angestreichen. My brother painted his house white.
+* Bemühung; effort <br> Meine Bemühungen wurden von Teamleiter anerkannt. My efforts are acknowledged by the team leader.
+* anerkannt; accepted, acknowledged, renowned. <br> Ein Studentenausweis ist kein legal anerkanntes Dokument. A student card is not a legally accepted document. <br> Er war ein anerkannter Wissenschaftler auf seinem Gebiet. He was a renowned scientist in this field.
 * eine Anzeige erstatten; lodge a complaint, file a complaint. <br> Innenminister Seehofer wollte Anzeige gegen eine Autorin erstatten. Minister of Interior affairs, Seehofer wanted to file charges against an author.
-* abgesehn von; apart from, except from <br> Abgesehen von den ersten zehn Minuten hat das Team sehr gut gespielt. Apart from the first ten minutes, the team played very well. <br> Ich bin mit allen Punkten einverstanden, abgesehn von dem letzten. I agree with all points, except for the last one. 
+* abgesehn von; apart from, except from <br> Abgesehen von den ersten zehn Minuten hat das Team sehr gut gespielt. Apart from the first ten minutes, the team played very well. <br> Ich bin mit allen Punkten einverstanden, abgesehn von dem letzten. I agree with all points, except for the last one.
 * abwischen; wipe, wipe off, wipe clean, wipe down <br> Er wischte seine schmutzigen Hände mit einem Tuch ab. He wiped his dirty hands with a cloth. <br> Er wischte den Schnee von seinem Auto ab. He wiped the snow off his car.
-* ersticken; suffocated, stifled, supressed. <br> Einige Schlangen schlingen sich um ihre Beute und ersticken sie. Some snakes coil around their prey and suffocate it. 
-* Anlass; reason, occasion, event, cause <br> Ich brauche keinen Anlass, um meiner Frau Blumen zu schenken. <br> Alles ist gut, es besteht kein Anlass zur Sorge. All is well, there is no cause for concern. <br> Meine Rede was dem Anlass angemessen. My speech was appropriate for the occasion. 
+* ersticken; suffocated, stifled, supressed. <br> Einige Schlangen schlingen sich um ihre Beute und ersticken sie. Some snakes coil around their prey and suffocate it.
+* Anlass; reason, occasion, event, cause <br> Ich brauche keinen Anlass, um meiner Frau Blumen zu schenken. <br> Alles ist gut, es besteht kein Anlass zur Sorge. All is well, there is no cause for concern. <br> Meine Rede was dem Anlass angemessen. My speech was appropriate for the occasion.
 
 # 25.06.2020 12:36:16
 
 * abweisen; reject, dismiss <br> Der Server hat die Verbindung abgewiesen. The server has refused the connection
 * etliche; quite a few, a number of, quite a number of <br> Etliche Firmen haben die neuen Richtlinien übernommen. A number of companies have adopted the new quidelines.
-* scherzen; joke, kid <br> Er scherzt gerne mit seinen Freunden. He likes to joke with his friends. <br> Ich dachte, es war ihm ernst, aber er hat nur gescherzt. I thought he was serious, but he was only kidding. 
+* scherzen; joke, kid <br> Er scherzt gerne mit seinen Freunden. He likes to joke with his friends. <br> Ich dachte, es war ihm ernst, aber er hat nur gescherzt. I thought he was serious, but he was only kidding.
 * scherz; joke. <br> Meine ironische Bemerkung sollte keine Beleidigung sein, es war ein Scherz. My ironic remark was not meant to be an insut, it was a joke.
 * Ungerechtigkeit; unfairness, injustice <br> Sie beklagte über die Ungerechtigkeit des Lebens. She lamented the unfaireness of life.
-* lindern; alleviate, relieve, mitigate, soothe, ease <br> Die Medikamente haben seine epileptischen Anfälle gelindert. The medication has alleviated his epileptic fits. <br> Ein Glas Wasser und frische Luft können Kopfschmerzen lindern. A glass of water and fresh air can relieve a headache. <br> Das Medikament lindert den durch die Entzündung verursachten Schmerz. The medicine eases the pain caused by the inflammation. 
+* lindern; alleviate, relieve, mitigate, soothe, ease <br> Die Medikamente haben seine epileptischen Anfälle gelindert. The medication has alleviated his epileptic fits. <br> Ein Glas Wasser und frische Luft können Kopfschmerzen lindern. A glass of water and fresh air can relieve a headache. <br> Das Medikament lindert den durch die Entzündung verursachten Schmerz. The medicine eases the pain caused by the inflammation.
 * vordorben; spoiled, foul, corrupt, bad <br> Ich habe mir den Magen verdorben. I have an upset stomach. <br> Verdorbenes Gemüse zu essen kann Übelkeit auslösen. Eating foul vegetables can cause sickness.
 * vorherrschend; dominant, prevailing <br> Der vorherrschende Farbton in seinem Bildern ist blau. The dominant shade in his paintings is blue.
+
+# 6/26/2020 5:13:10 AM
+
+* gewiss; sure, certainly <br> Er wird morgen gewiss kommen. He will come tomorrow, sure enough. <br> Gewiss! Ich kann heute Abend etwas zu essen mitbringen. Sure! I can bring some food tonight.
+* aufschlussreich; informative, insightful, revealing, telling, educational <br> Unser Gespräch war sehr aufschlussreich. Our converstaion was very insightful <br> Der Bericht erlaubte einen aufschlussreichen Einblick in die politische Situation. The report gave a revealing insight into the political situation. <br> Die Unterhaltung war sehr aufschlussreich. The conversation was very telling.
+* bis dahin; until then <br> Morgen wird es regnen, aber bis dahin genießen wir den Sonnenschein. Tomorrow it will rain, but until then we will enjoy the sunshine.
+* Gnade; mercy, grace <br> Sein Leben hing von der Gnade des Königs ab. His life depended on the kings mercy.
+
