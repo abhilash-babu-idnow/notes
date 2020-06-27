@@ -1,7 +1,7 @@
 
 # 5/15/2020 9:55:59 PM
 
-* Berücksichtigen ; to consider something, to regard, to allow for something <br> Die anfallenden Kosten sollten berücksichtig werden. The incident costs should be taken into account. <br> Ich werde mein Bestes tun, Ihre Wünsche zu berücksichtigen. I will do my best to consider your wishes. 
+* Berücksichtigen ; to consider something, to regard, to allow for something <br> Die anfallenden Kosten sollten berücksichtig werden. The incident costs should be taken into account. <br> Ich werde mein Bestes tun, Ihre Wünsche zu berücksichtigen. I will do my best to consider your wishes.
 * Abschluss ; conclusion, transaction, completion, closing, degree, graduation, closure. <br> Ein wundervolles Abendessen war der Abschluss der Konferenz. A magnificient dinner was the conclusion of the conference. <br> Der Abschluss des Vertrags war eine langwierige Prozedur. Closing the contract was a boring process.
 * Entsprechende ; adj use of entsprechend, fitting, appropriate, relevant. <br>Er wollte eine Rechnung schreiben und wählte die entsprechende Vorlage. He wanted to write an invoice and selected the fitting template. <br> Bitte wählen Sie unten die entsprechende Option aus. Please select the appropriate option below.
 * Umstellung ; conversion, migration, changeover, switch etc <br> Die Umstellung auf die neue Währung verlief ohne Pannen. The conversion to the new currency went off without a hitch. <br> Die Umstellung verursachte keine Probleme. The transition caused not problems. <br> In eine neue Stadt umzuziehen kann eine große Umstellung sein. Moving to a new town can be a huge adjustment.
@@ -306,4 +306,14 @@
 * aufschlussreich; informative, insightful, revealing, telling, educational <br> Unser Gespräch war sehr aufschlussreich. Our converstaion was very insightful <br> Der Bericht erlaubte einen aufschlussreichen Einblick in die politische Situation. The report gave a revealing insight into the political situation. <br> Die Unterhaltung war sehr aufschlussreich. The conversation was very telling.
 * bis dahin; until then <br> Morgen wird es regnen, aber bis dahin genießen wir den Sonnenschein. Tomorrow it will rain, but until then we will enjoy the sunshine.
 * Gnade; mercy, grace <br> Sein Leben hing von der Gnade des Königs ab. His life depended on the kings mercy.
+
+# 6/27/2020 4:36:45 PM
+
+* beurteilen; assess, evaluate, judge, determine, gaugue <br> Die Studie wurde von verschiedenen Forschern beurteilt. The study was assessed by several researchers. <br> Der Lehrer beurteilt die Leistung der Schüler. The teacher evaluates the performance of the pupils.
+* Stab; rod, staff, bar, stick, pole <br> Der Zaun besteht aus hölzernen Stäben. The fence is made of wooden rods. <br> Der Stab des Ministeriums zählt mehr als zweihundert Beamte. The ministerial staff numbers more than 200 officials.
+* wiederstandsfähig; resistant, resilient, tough, resistive <br> Gummi ist ein widerstandsfähiges Material. Rubber is a resilient substance. <br> Das Material ist robust und widerstandsfähig. The material is sturdy and resistant.
+* Niederlage; defeat, loss <br> Napoleon erlitt in Russland eine vernichtende Niederlage. In Russia, Napolean suffered a crushing defeat. <br> Die Mannschaft hatte keine einzige Niederlage in dieser Saison. The team has not had a single loss this season.
+* aufhören; stop, cease, quit <br> Als der Regen aufhörte, gingen die Kinder nach draußen. The children went outside when the rain stopped. <br> Das Buch ist so spannend, ich kann nich aufhören zu lesen. The book is so thrilling, I cannot stop reading. <br> Das Spiel hat vor einer Stunde aufgehört. The game ended an hour ago.
+* begünstigen; favour, facilitate, encourage, benefit <br> Niedrige Preise begünstigen den Konsum. Low prices encourage consumption. <br> Das Wetter begünstigt die Heimmannschaft. The weather favors the home team. <br> Die neue Steuerpolitik begünstigt kleine Unternehment. The new fiscal policy benefits small business.
+* Beständigkeit; resistance, stability, durability, permanence. <br> Neue Geräte sollten von hoher Qualität und Beständigkeit sein. New appliances should be of high quality and durability. <br> Eisen hat eine hohe Beständigkeit gegen Hitze. Iron has a high resistance to heat.
 
