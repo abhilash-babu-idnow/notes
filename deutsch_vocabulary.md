@@ -317,3 +317,11 @@
 * begünstigen; favour, facilitate, encourage, benefit <br> Niedrige Preise begünstigen den Konsum. Low prices encourage consumption. <br> Das Wetter begünstigt die Heimmannschaft. The weather favors the home team. <br> Die neue Steuerpolitik begünstigt kleine Unternehment. The new fiscal policy benefits small business.
 * Beständigkeit; resistance, stability, durability, permanence. <br> Neue Geräte sollten von hoher Qualität und Beständigkeit sein. New appliances should be of high quality and durability. <br> Eisen hat eine hohe Beständigkeit gegen Hitze. Iron has a high resistance to heat.
 
+# 6/28/2020 5:24:23 AM
+
+* zugänglich; accessible, available, approchable, open <br> Alle Einrichtungen sind leich zugänglich. All the facilities are easily available. <br> Mein Berater ist sehr zugänglich und hilfsbereit. My advisor is very approachable and helpful.
+* zusagen; confirm, pledge, promise <br> Die Länder haben ihre finazialle Unterstützung zugesagt. The countries promised their financial assistance. <br> Wir haben die ganze Straße zu unserer Party eingeladen, und die meisten Leute haben schon zugesagt. We invited the whole street to our party and most people have already confirmed.
+* unmittelbar; directly, immediate, instant <br> Mein neues Handy bietet unmittelbaren Zugang zu meinem Bankkonto. My new mobile phone provides instant access to my bank account.  <br> Unser Erfolg ist ein unmittelbares Ergebnis unserer Zusammenarbeit. Our success is a direct result of our cooperation.
+* ausführlich; detailed, extensive, compreshensive, elaboate. <br> Wir baten die Expertin um eine ausführliche Analyse. We asked the expert for a comprehensive analysis. <br> Der Prospekt enthält ein ausführliche, detailierte Beschreibung. The brochure contains an elaborate and detailed description. <br> Wir hatten eine ausführliche Diskussion über das neue Buch. We had an indepth discussion about the new book.
+* vergnügt; jolly, happy, pleasure <br> Alle partygäste waren vergnügt und fröhlich. All the guests at the party were jolly and happy.
+*
