@@ -324,4 +324,3 @@
 * unmittelbar; directly, immediate, instant <br> Mein neues Handy bietet unmittelbaren Zugang zu meinem Bankkonto. My new mobile phone provides instant access to my bank account.  <br> Unser Erfolg ist ein unmittelbares Ergebnis unserer Zusammenarbeit. Our success is a direct result of our cooperation.
 * ausführlich; detailed, extensive, compreshensive, elaboate. <br> Wir baten die Expertin um eine ausführliche Analyse. We asked the expert for a comprehensive analysis. <br> Der Prospekt enthält ein ausführliche, detailierte Beschreibung. The brochure contains an elaborate and detailed description. <br> Wir hatten eine ausführliche Diskussion über das neue Buch. We had an indepth discussion about the new book.
 * vergnügt; jolly, happy, pleasure <br> Alle partygäste waren vergnügt und fröhlich. All the guests at the party were jolly and happy.
-*
