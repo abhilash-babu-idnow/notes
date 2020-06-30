@@ -324,3 +324,11 @@
 * unmittelbar; directly, immediate, instant <br> Mein neues Handy bietet unmittelbaren Zugang zu meinem Bankkonto. My new mobile phone provides instant access to my bank account.  <br> Unser Erfolg ist ein unmittelbares Ergebnis unserer Zusammenarbeit. Our success is a direct result of our cooperation.
 * ausführlich; detailed, extensive, compreshensive, elaboate. <br> Wir baten die Expertin um eine ausführliche Analyse. We asked the expert for a comprehensive analysis. <br> Der Prospekt enthält ein ausführliche, detailierte Beschreibung. The brochure contains an elaborate and detailed description. <br> Wir hatten eine ausführliche Diskussion über das neue Buch. We had an indepth discussion about the new book.
 * vergnügt; jolly, happy, pleasure <br> Alle partygäste waren vergnügt und fröhlich. All the guests at the party were jolly and happy.
+
+# 6/30/2020 9:54:04 AM
+
+* Trinkgeld; tip <br> Die Bedienung war sehr gut, also habe ich dem Kellner ein Trinkgeld gegeben. The service was great, so I left the waiter a tip.
+* einleiten; initiage, introduce, induce, prelude, trigger etc <br> Die neue Verwaltung hat viele wichtige Änderung eingeleitet. The new administration introduced many important changes. <br> Wir werden jetzt die Narkose einleiten. We will now induce narcosis. 
+* üblich; common, usual, normal, customary <br> In vielen Ländern ist es üblich, dem Kellner ein Trinkgeld zu geben. In many countries it is common to tip the waiter. <br>  Das Flugzeug fliegt auf der üblichen Höhe. The plane is flying at the usual altitude. 
+* überqueren; cross, traverse <br> Wir können die Straße an der Ampel überqueren. We can cross the road at the traffic lights. 
+* neulich; recently, latela <br> erst neulich. just recently. <br> neulich morgens. the other morning.
