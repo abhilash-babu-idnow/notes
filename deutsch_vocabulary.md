@@ -334,3 +334,18 @@
 * hautnah; very close <br> Wir haben es hautnah miterlebt. It happened right in front of our eyes.
 * abtauchen; submerge, disappear, go underground <br> Sie tauchte ab und begann ein neues Leben. She disappeared and started a new life.
 * entstehen; arise, result, form, occur, develop, emerge <br> Fall Probleme entstehen, werden wir unseren Partnern behilflich sein. If any problems arise, we will assist out partners. <br> Wenn Sie Ihre Verpflichtung zur Zahlung der Kreditraten nich einhalten, können Ihnen weitere Kosten enstehen. Defaulting on your loan payments may result in extra costs. <br> Nach dem Update entstanden neue Probleme. After the update new problems emerged. 
+
+# 6/30/2020
+
+* 
+
+# 01.07.2020 07:22:41
+
+* brisant; explosive, volatile, controversial <br> Ich stritt mit ihr über brisante Themen. I argued with her about explosive topics.
+* offenkundig; obvious, patent, flagrant <br> Die Leute brauchen Hilfe, ihre Misere ist offenkundig. The people need help, their plight is obvious. <br> Die Erklärung war eine offenkundige Falschdarstellung der Fakten. The explanation was a patent misrepresentation of facts. 
+* die Ausrede; excuse, pretext <br> Ich habe eine wirklich gute Ausrede für mein Zuspätkommen. I have a really good excuse for why I'm late. 
+* Auffassung; opinion, conception, perception <br> Meine Auffassung von einer Universität änderte sich, als ich zu studieren begann. My conception of university changed when I started studying.
+* Belohnung; reward, bounty <br> Der beste Mitarbeiter des Monats wird eine Belohnung erhalten. The best employee of the month will get a reward. <br> Die Polizei bot eine Belohnung für sachdienliche Hinweise. The police offered a reward for the relevant tips. 
+* fortsetzen; continue, resume, pursue, continue with <br> Wir werden unsere Debatte nach der Pause fortsetzen. We will continue our debate after the break. <br> Nach dem Mittagessen setzte sie ihre Arbeit fort. She resumed her work after lunch. <br> Sie beschlossen, die Diskussion nächste Woche fortzusetzen. They decided to pursue the discussion next week.
+* Erwartung; expectation, anticipation <br> Die Eltern hatten hohe Erwartungen an den neueun Schulleiter. The parents had high expectations of the new head teacher. <br> Die Erwartungen des Publikums waren hoch. The expectations of the audience were high.
+* scheitern; fail, founder, collapse, miscarry <br> Wenn man scheitert, muss man es erneut versuchen. If you fail, you need to try again. <br> Die Umsetzung des Plans scheiterte an den ersten Hürde. The implementation of the plan fell at the first hurdle. 
