@@ -356,3 +356,20 @@
 * die Verordnung; regulation, decree <br> Wir respektieren alle Verordnungen. We respect all regulations.
 * ablehnen; reject, refuse, decline, oppose, turn down, dislike, dismiss <br> Wir können den Vorschlag ablehnen oder annehmen. We can reject or accept the suggestion. <br> Der Politiker hat das Bestechungsgeld abgelehnt. The politician rejected the pay off. <br> Er lehnte den Job ab, weil die Firma zu weit weg war. He turned down the job because the company was too far away. <br> Ich lehne jede Form von Gewalt ab. I dislike any form of violence. <br> Mein Freund lehnte meine Einladung zum Mittagessen ab. My friend declined my invitation for lunch.
 * Lupenrein; flawless, impeccable <br> Sie glänzt durch äußere Schönheit und den lupenreinen Klang ihrer Stimme. She shines through her external beauty and the flawless sound of her voice.
+
+# 03.07.2020 06:19:59
+
+* verabschiedet; passed, adopted, say good bye <br> Das Parlament hat bereits eine dringliche Entschließung verabschiedet. Parliament has already passed an urgent resolution <br> Das Institut verabschiedet Peter mit einem Symposium. The Institute says good bye to Peter with a symposium.
+* anstand; decency, civility. <br> Wir sollten uns gegenseitig mit Anstand und Respekt behandeln. We should treat one another with decency and respect. 
+* Gegenleistung; return, consideration <br> Als Gegenleistung für seine Arbeit erhält er kostenlose Verpflegung. In return for his work he will get free board. 
+* Besherig; so far, up to now, previous <br> besherige Ergebnisse. past performancess <br> Bis zum Neustart ist die bisherige Lizenzkonfiguration aktiv. Until you reboot, the previous licensing configuration is active. 
+
+
+# 06.07.2020 09:46:09
+
+* andererseits; on the other hand <br> Einerseits bin ich müde, andererseits möchte ich einen Film sehen. On the on hand, i am tired but on the other hand i want to watch a film.
+* je nach; prep. depending on, according to <br> Je nach Tageszeit verkaufen sie frisches Brot. Depending on the time of the day, they sell fresh bread. <br> Ich komme etwa um drei Uhr an, je nach Verkehr. I will arrive around three o clock depending on the traffic. <br> Preise variieren je nach aktuellem Wechselkurs. Prices vary according to the current exchange rate. 
+* Schrott; scrap, rubbish <br> Wenn ich müde bin, rede ich manchmal Schrott. When I am tired, I start talking rubbish. <br> Mein Bruder verkaufte sein altes Auto also Schrott. My brother sold his old car for scrap.
+* besichtigen; visit, inspect, view. <br> Ich habe auf meiner Reise viele historische Stätten besichtigt. I visited many historical sites on my trip. <br> Sie besichtigen das Haus, bevor sie es kauften. They inspected the house before buying it. <br> Die Touristen besichtigen alle Sehenwürdigkeiten in der Stadt. The tourists visited all the sights in the city.
+* verehren; worship, admire, revere. <br> Sie verehrten ihn wie einen Gott. They revered him like a god. <br> Die Schüler verehren ihre wunderbare Lehrerin. The pupils adore (worship) their wonderful teacher.
+
