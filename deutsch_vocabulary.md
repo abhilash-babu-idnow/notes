@@ -327,29 +327,37 @@
 
 # 29.06.2020 09:55:49
 * Das Schlupfloch; loophole <br> Er nutzte ein Schlupfloch im Gesetz, um einer Strafverfolgung zu entgehen. He exploited a loophole in the law to escape prosecution.
-* hingegen; whereas, on the contrary <br> Ich liebe Pizza, meine Schwester hingegen mag lieber Pasta. I love pizza, whereas my sister prefers pasta. 
+* hingegen; whereas, on the contrary <br> Ich liebe Pizza, meine Schwester hingegen mag lieber Pasta. I love pizza, whereas my sister prefers pasta.
 * Umfrage; survey, poll, questionaire. <br> Das Ziel der Umfrage ist die Untersuchung von Kaufgewohnheiten. The aim of the survey is to study buying habits. <br> Das Unternehmen schikte eine Umfrage an alle Mitarbeiter. The company sent a questionaire to all employees.
-* hocken; sit, squat, perch <br> Das Kind hockte am Strand und baute eine Sandburg. The child squatted on the beach and built a sandcastle. <br> Ein Papagei hockte auf seiner Schulter. A parrot perched on his shoulder. 
+* hocken; sit, squat, perch <br> Das Kind hockte am Strand und baute eine Sandburg. The child squatted on the beach and built a sandcastle. <br> Ein Papagei hockte auf seiner Schulter. A parrot perched on his shoulder.
 * Vermögen; assets, fortune, estate, capability <br> Mein Kinder werden mein ganzes Vermögen erben. My children will inherit all my assets. <br> Berühmte Sportler können ein Vermögen verdienen. Famous sportspeople can make a fortune. <br> Der Computer hat das Vermögen, Menschen beim Schach zu schlagen. The computer has the capability to beat humans at chess.
 * hautnah; very close <br> Wir haben es hautnah miterlebt. It happened right in front of our eyes.
 * abtauchen; submerge, disappear, go underground <br> Sie tauchte ab und begann ein neues Leben. She disappeared and started a new life.
-* entstehen; arise, result, form, occur, develop, emerge <br> Fall Probleme entstehen, werden wir unseren Partnern behilflich sein. If any problems arise, we will assist out partners. <br> Wenn Sie Ihre Verpflichtung zur Zahlung der Kreditraten nich einhalten, können Ihnen weitere Kosten enstehen. Defaulting on your loan payments may result in extra costs. <br> Nach dem Update entstanden neue Probleme. After the update new problems emerged. 
+* entstehen; arise, result, form, occur, develop, emerge <br> Fall Probleme entstehen, werden wir unseren Partnern behilflich sein. If any problems arise, we will assist out partners. <br> Wenn Sie Ihre Verpflichtung zur Zahlung der Kreditraten nich einhalten, können Ihnen weitere Kosten enstehen. Defaulting on your loan payments may result in extra costs. <br> Nach dem Update entstanden neue Probleme. After the update new problems emerged.
 
 # 6/30/2020 9:54:04 AM
 
 * Trinkgeld; tip <br> Die Bedienung war sehr gut, also habe ich dem Kellner ein Trinkgeld gegeben. The service was great, so I left the waiter a tip.
-* einleiten; initiage, introduce, induce, prelude, trigger etc <br> Die neue Verwaltung hat viele wichtige Änderung eingeleitet. The new administration introduced many important changes. <br> Wir werden jetzt die Narkose einleiten. We will now induce narcosis. 
-* üblich; common, usual, normal, customary <br> In vielen Ländern ist es üblich, dem Kellner ein Trinkgeld zu geben. In many countries it is common to tip the waiter. <br>  Das Flugzeug fliegt auf der üblichen Höhe. The plane is flying at the usual altitude. 
-* überqueren; cross, traverse <br> Wir können die Straße an der Ampel überqueren. We can cross the road at the traffic lights. 
+* einleiten; initiage, introduce, induce, prelude, trigger etc <br> Die neue Verwaltung hat viele wichtige Änderung eingeleitet. The new administration introduced many important changes. <br> Wir werden jetzt die Narkose einleiten. We will now induce narcosis.
+* üblich; common, usual, normal, customary <br> In vielen Ländern ist es üblich, dem Kellner ein Trinkgeld zu geben. In many countries it is common to tip the waiter. <br>  Das Flugzeug fliegt auf der üblichen Höhe. The plane is flying at the usual altitude.
+* überqueren; cross, traverse <br> Wir können die Straße an der Ampel überqueren. We can cross the road at the traffic lights.
 * neulich; recently, latela <br> erst neulich. just recently. <br> neulich morgens. the other morning.
 
 # 01.07.2020 07:22:41
 
 * brisant; explosive, volatile, controversial <br> Ich stritt mit ihr über brisante Themen. I argued with her about explosive topics.
-* offenkundig; obvious, patent, flagrant <br> Die Leute brauchen Hilfe, ihre Misere ist offenkundig. The people need help, their plight is obvious. <br> Die Erklärung war eine offenkundige Falschdarstellung der Fakten. The explanation was a patent misrepresentation of facts. 
-* die Ausrede; excuse, pretext <br> Ich habe eine wirklich gute Ausrede für mein Zuspätkommen. I have a really good excuse for why I'm late. 
+* offenkundig; obvious, patent, flagrant <br> Die Leute brauchen Hilfe, ihre Misere ist offenkundig. The people need help, their plight is obvious. <br> Die Erklärung war eine offenkundige Falschdarstellung der Fakten. The explanation was a patent misrepresentation of facts.
+* die Ausrede; excuse, pretext <br> Ich habe eine wirklich gute Ausrede für mein Zuspätkommen. I have a really good excuse for why I'm late.
 * Auffassung; opinion, conception, perception <br> Meine Auffassung von einer Universität änderte sich, als ich zu studieren begann. My conception of university changed when I started studying.
-* Belohnung; reward, bounty <br> Der beste Mitarbeiter des Monats wird eine Belohnung erhalten. The best employee of the month will get a reward. <br> Die Polizei bot eine Belohnung für sachdienliche Hinweise. The police offered a reward for the relevant tips. 
+* Belohnung; reward, bounty <br> Der beste Mitarbeiter des Monats wird eine Belohnung erhalten. The best employee of the month will get a reward. <br> Die Polizei bot eine Belohnung für sachdienliche Hinweise. The police offered a reward for the relevant tips.
 * fortsetzen; continue, resume, pursue, continue with <br> Wir werden unsere Debatte nach der Pause fortsetzen. We will continue our debate after the break. <br> Nach dem Mittagessen setzte sie ihre Arbeit fort. She resumed her work after lunch. <br> Sie beschlossen, die Diskussion nächste Woche fortzusetzen. They decided to pursue the discussion next week.
 * Erwartung; expectation, anticipation <br> Die Eltern hatten hohe Erwartungen an den neueun Schulleiter. The parents had high expectations of the new head teacher. <br> Die Erwartungen des Publikums waren hoch. The expectations of the audience were high.
-* scheitern; fail, founder, collapse, miscarry <br> Wenn man scheitert, muss man es erneut versuchen. If you fail, you need to try again. <br> Die Umsetzung des Plans scheiterte an den ersten Hürde. The implementation of the plan fell at the first hurdle. 
+* scheitern; fail, founder, collapse, miscarry <br> Wenn man scheitert, muss man es erneut versuchen. If you fail, you need to try again. <br> Die Umsetzung des Plans scheiterte an den ersten Hürde. The implementation of the plan fell at the first hurdle.
+
+
+# 7/5/2020 8:02:09 AM
+
+* anderswo; elsewhere <br> Ich verkaufe Ihnen kein Bier, kaufen Sie es anderswo. I will not sell you beer, buy it elsewhere.
+* verbort; stubborn <br> Diese Reklame war fast ausschliesslich kleinlich und verbohrt. This advertising is alsmost exclusively petty and stubborn.
+* vorschrift; regulations, rules <br> Die neuen Vorschriften sind volkommen umsetzbar. The new regulations are perfectly viable.
+*
