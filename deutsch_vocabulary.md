@@ -337,7 +337,6 @@
 
 # 6/30/2020
 
-* 
 
 # 01.07.2020 07:22:41
 
@@ -373,3 +372,10 @@
 * besichtigen; visit, inspect, view. <br> Ich habe auf meiner Reise viele historische Stätten besichtigt. I visited many historical sites on my trip. <br> Sie besichtigen das Haus, bevor sie es kauften. They inspected the house before buying it. <br> Die Touristen besichtigen alle Sehenwürdigkeiten in der Stadt. The tourists visited all the sights in the city.
 * verehren; worship, admire, revere. <br> Sie verehrten ihn wie einen Gott. They revered him like a god. <br> Die Schüler verehren ihre wunderbare Lehrerin. The pupils adore (worship) their wonderful teacher.
 
+# 08.07.2020 06:38:02
+
+* absicht; intention, purpose, intent, aim <br> Ich habe meine Absicht sehr klar gemacht. I have made my intention very clear. <br> Es war nicht meine Absicht, etwas zu zerbrechen. It was not my intention to break something. <br> Unsere Absicht ist, die Verkäufe zu steigen. Our aim is to increase sales.
+* verblassen; pale, fade <br> Das alte Foto ist mit den Jahren verblasst. The old photograph has faded over the years. <br> Die neue Formel schützt die Farbe gegen Verblassen. The new formula protects the paint from fading.
+* stets; constantly, always <br> Mein Bruder trägt stets maßgeschneiderte Anzüge. My brother always wears bespoke suits. <br> Meine Eltern betonten stets die Wichtigkeit kritischen Denkens. My parents constantly stressed the importance of critical thinking. 
+* dichtgemacht; closed down <br> Auch Strände wurden dichtgemacht. Beaches have also been closed.
+* erwischen; catch, get, nab, get hold of <br> Er muss sich beeilen, wenn er den Zug erwischen will. He must hurry if he wants to catch the train. <br> Er kam gerade noch rechtzeitig an, um den Zug zu erwischen. He arrived just in time to catch the train. 
