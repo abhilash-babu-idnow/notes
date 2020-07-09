@@ -374,7 +374,6 @@
 * vorschrift; regulations, rules <br> Die neuen Vorschriften sind volkommen umsetzbar. The new regulations are perfectly viable.
 * scheitern; fail, founder, collapse, miscarry <br> Wenn man scheitert, muss man es erneut versuchen. If you fail, you need to try again. <br> Die Umsetzung des Plans scheiterte an den ersten Hürde. The implementation of the plan fell at the first hurdle.
 
-
 # 06.07.2020 09:46:09
 
 * andererseits; on the other hand <br> Einerseits bin ich müde, andererseits möchte ich einen Film sehen. On the on hand, i am tired but on the other hand i want to watch a film.
@@ -387,3 +386,11 @@
 
 * fortlaufend; consecutive, successive <br> Dier versandten Rechnungen haben fortlaufende Nummern. The sent invoices have consecutive numbers. <br> Die Rechnungen sind mit eine fortlaufenden Nummerierung versehen. The bills are provided with successive numeration.
 * eilen; hurry, rush <br> Ich eilte yur Bushaltestelle, um meinen Bus nicht zu verpassen. I hurried to the bus stop so that I don't miss the bus.
+
+# 08.07.2020 06:38:02
+
+* absicht; intention, purpose, intent, aim <br> Ich habe meine Absicht sehr klar gemacht. I have made my intention very clear. <br> Es war nicht meine Absicht, etwas zu zerbrechen. It was not my intention to break something. <br> Unsere Absicht ist, die Verkäufe zu steigen. Our aim is to increase sales.
+* verblassen; pale, fade <br> Das alte Foto ist mit den Jahren verblasst. The old photograph has faded over the years. <br> Die neue Formel schützt die Farbe gegen Verblassen. The new formula protects the paint from fading.
+* stets; constantly, always <br> Mein Bruder trägt stets maßgeschneiderte Anzüge. My brother always wears bespoke suits. <br> Meine Eltern betonten stets die Wichtigkeit kritischen Denkens. My parents constantly stressed the importance of critical thinking.
+* dichtgemacht; closed down <br> Auch Strände wurden dichtgemacht. Beaches have also been closed.
+* erwischen; catch, get, nab, get hold of <br> Er muss sich beeilen, wenn er den Zug erwischen will. He must hurry if he wants to catch the train. <br> Er kam gerade noch rechtzeitig an, um den Zug zu erwischen. He arrived just in time to catch the train.
