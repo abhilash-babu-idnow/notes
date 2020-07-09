@@ -383,3 +383,7 @@
 * besichtigen; visit, inspect, view. <br> Ich habe auf meiner Reise viele historische Stätten besichtigt. I visited many historical sites on my trip. <br> Sie besichtigen das Haus, bevor sie es kauften. They inspected the house before buying it. <br> Die Touristen besichtigen alle Sehenwürdigkeiten in der Stadt. The tourists visited all the sights in the city.
 * verehren; worship, admire, revere. <br> Sie verehrten ihn wie einen Gott. They revered him like a god. <br> Die Schüler verehren ihre wunderbare Lehrerin. The pupils adore (worship) their wonderful teacher.
 
+# 7/7/2020 7:27:30 PM
+
+* fortlaufend; consecutive, successive <br> Dier versandten Rechnungen haben fortlaufende Nummern. The sent invoices have consecutive numbers. <br> Die Rechnungen sind mit eine fortlaufenden Nummerierung versehen. The bills are provided with successive numeration.
+* eilen; hurry, rush <br> Ich eilte yur Bushaltestelle, um meinen Bus nicht zu verpassen. I hurried to the bus stop so that I don't miss the bus.
