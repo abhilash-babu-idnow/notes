@@ -375,7 +375,18 @@
 # 08.07.2020 06:38:02
 
 * absicht; intention, purpose, intent, aim <br> Ich habe meine Absicht sehr klar gemacht. I have made my intention very clear. <br> Es war nicht meine Absicht, etwas zu zerbrechen. It was not my intention to break something. <br> Unsere Absicht ist, die Verkäufe zu steigen. Our aim is to increase sales.
-* verblassen; pale, fade <br> Das alte Foto ist mit den Jahren verblasst. The old photograph has faded over the years. <br> Die neue Formel schützt die Farbe gegen Verblassen. The new formula protects the paint from fading.
+* verblassen; pale, fade <br> Das alte Foto ist mit den Jahren verblasst. The old photograph has faded over the years. <br> Die neue Fo aussage; statement, testimony, assertion <br> Ich habe die Wahrheit der Aussage bestätigt. I attested to the truth of the statement. <br> Die Aussage des Wissenschaftlers ist mit Fakten untermauert. The scientist's assertion is supported by facts.rmel schützt die Farbe gegen Verblassen. The new formula protects the paint from fading.
 * stets; constantly, always <br> Mein Bruder trägt stets maßgeschneiderte Anzüge. My brother always wears bespoke suits. <br> Meine Eltern betonten stets die Wichtigkeit kritischen Denkens. My parents constantly stressed the importance of critical thinking. 
 * dichtgemacht; closed down <br> Auch Strände wurden dichtgemacht. Beaches have also been closed.
 * erwischen; catch, get, nab, get hold of <br> Er muss sich beeilen, wenn er den Zug erwischen will. He must hurry if he wants to catch the train. <br> Er kam gerade noch rechtzeitig an, um den Zug zu erwischen. He arrived just in time to catch the train. 
+* übrig; left, remaining, spare, leftover <br> Nimm dir ein weiteres Stück Kuchen, zwei sind noch übrig. Have another slice of the cake, there are two left. <br> Ich habe nur noch ein paar Dollar übrig. I only have a few bucks left. <br> Wir werden die übrige Pizza morgen essen. We'll eat the leftover pizza tomorrow. <br> Ich gab mein übriges Geld meiner Schwester, weil ich es nicht brauchte. I gave my spare money to my sister because I did not need it.
+
+# 07/09/20 12:10:40
+
+# 07/10/20 08:09:23
+
+* bezüglich; regarding, concerning, referring to. <br> Der Kandidat hat einige Fragen bezüglich des Bewerbungsgesprächs. The candidate has some questions regarding the interview. <br> Ich habe bezüglich dieser Angelegenheit nichts zu sagen. I have nothing to say concerning this issue. <br> Bezüglich unserer letzten Unterhaltung habe ich noch einige weitere Fragen. Referring to our previous conversation, I have a few further questions. 
+* aussage; statement, testimony, assertion <br> Ich habe die Wahrheit der Aussage bestätigt. I attested to the truth of the statement. <br> Die Aussage des Wissenschaftlers ist mit Fakten untermauert. The scientist's assertion is supported by facts. 
+* Alptraum; nightmare <br> Der Alptraum verwandelte sich nach einer Weile in einen sehr schönen Traum. The nightmare turned into a very nice dream after a while.
+* vermeintlich; alleged, supposed, pretended <br> Die vermeintlichen Vorteile des Medikaments wurden nicht bewiesen. The alleged benefits of the drug were not proven. <br> Die Polizei befragt den vermeintlichen Zeugen. The police is questioning the supposed witness.
+* zunehmend; increasing, growing, accumulating <br> Es gibt eine zunehmende Nachfrage nach Bioprodukten. There is an increasing demand for organic products. 
