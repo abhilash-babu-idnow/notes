@@ -327,31 +327,35 @@
 
 # 29.06.2020 09:55:49
 * Das Schlupfloch; loophole <br> Er nutzte ein Schlupfloch im Gesetz, um einer Strafverfolgung zu entgehen. He exploited a loophole in the law to escape prosecution.
-* hingegen; whereas, on the contrary <br> Ich liebe Pizza, meine Schwester hingegen mag lieber Pasta. I love pizza, whereas my sister prefers pasta. 
+* hingegen; whereas, on the contrary <br> Ich liebe Pizza, meine Schwester hingegen mag lieber Pasta. I love pizza, whereas my sister prefers pasta.
 * Umfrage; survey, poll, questionaire. <br> Das Ziel der Umfrage ist die Untersuchung von Kaufgewohnheiten. The aim of the survey is to study buying habits. <br> Das Unternehmen schikte eine Umfrage an alle Mitarbeiter. The company sent a questionaire to all employees.
-* hocken; sit, squat, perch <br> Das Kind hockte am Strand und baute eine Sandburg. The child squatted on the beach and built a sandcastle. <br> Ein Papagei hockte auf seiner Schulter. A parrot perched on his shoulder. 
+* hocken; sit, squat, perch <br> Das Kind hockte am Strand und baute eine Sandburg. The child squatted on the beach and built a sandcastle. <br> Ein Papagei hockte auf seiner Schulter. A parrot perched on his shoulder.
 * Vermögen; assets, fortune, estate, capability <br> Mein Kinder werden mein ganzes Vermögen erben. My children will inherit all my assets. <br> Berühmte Sportler können ein Vermögen verdienen. Famous sportspeople can make a fortune. <br> Der Computer hat das Vermögen, Menschen beim Schach zu schlagen. The computer has the capability to beat humans at chess.
 * hautnah; very close <br> Wir haben es hautnah miterlebt. It happened right in front of our eyes.
 * abtauchen; submerge, disappear, go underground <br> Sie tauchte ab und begann ein neues Leben. She disappeared and started a new life.
-* entstehen; arise, result, form, occur, develop, emerge <br> Fall Probleme entstehen, werden wir unseren Partnern behilflich sein. If any problems arise, we will assist out partners. <br> Wenn Sie Ihre Verpflichtung zur Zahlung der Kreditraten nich einhalten, können Ihnen weitere Kosten enstehen. Defaulting on your loan payments may result in extra costs. <br> Nach dem Update entstanden neue Probleme. After the update new problems emerged. 
+* entstehen; arise, result, form, occur, develop, emerge <br> Fall Probleme entstehen, werden wir unseren Partnern behilflich sein. If any problems arise, we will assist out partners. <br> Wenn Sie Ihre Verpflichtung zur Zahlung der Kreditraten nich einhalten, können Ihnen weitere Kosten enstehen. Defaulting on your loan payments may result in extra costs. <br> Nach dem Update entstanden neue Probleme. After the update new problems emerged.
 
-# 6/30/2020
+# 6/30/2020 9:54:04 AM
 
+* Trinkgeld; tip <br> Die Bedienung war sehr gut, also habe ich dem Kellner ein Trinkgeld gegeben. The service was great, so I left the waiter a tip.
+* einleiten; initiage, introduce, induce, prelude, trigger etc <br> Die neue Verwaltung hat viele wichtige Änderung eingeleitet. The new administration introduced many important changes. <br> Wir werden jetzt die Narkose einleiten. We will now induce narcosis.
+* üblich; common, usual, normal, customary <br> In vielen Ländern ist es üblich, dem Kellner ein Trinkgeld zu geben. In many countries it is common to tip the waiter. <br>  Das Flugzeug fliegt auf der üblichen Höhe. The plane is flying at the usual altitude.
+* überqueren; cross, traverse <br> Wir können die Straße an der Ampel überqueren. We can cross the road at the traffic lights.
+* neulich; recently, latela <br> erst neulich. just recently. <br> neulich morgens. the other morning.
 
 # 01.07.2020 07:22:41
 
 * brisant; explosive, volatile, controversial <br> Ich stritt mit ihr über brisante Themen. I argued with her about explosive topics.
-* offenkundig; obvious, patent, flagrant <br> Die Leute brauchen Hilfe, ihre Misere ist offenkundig. The people need help, their plight is obvious. <br> Die Erklärung war eine offenkundige Falschdarstellung der Fakten. The explanation was a patent misrepresentation of facts. 
-* die Ausrede; excuse, pretext <br> Ich habe eine wirklich gute Ausrede für mein Zuspätkommen. I have a really good excuse for why I'm late. 
+* offenkundig; obvious, patent, flagrant <br> Die Leute brauchen Hilfe, ihre Misere ist offenkundig. The people need help, their plight is obvious. <br> Die Erklärung war eine offenkundige Falschdarstellung der Fakten. The explanation was a patent misrepresentation of facts.
+* die Ausrede; excuse, pretext <br> Ich habe eine wirklich gute Ausrede für mein Zuspätkommen. I have a really good excuse for why I'm late.
 * Auffassung; opinion, conception, perception <br> Meine Auffassung von einer Universität änderte sich, als ich zu studieren begann. My conception of university changed when I started studying.
-* Belohnung; reward, bounty <br> Der beste Mitarbeiter des Monats wird eine Belohnung erhalten. The best employee of the month will get a reward. <br> Die Polizei bot eine Belohnung für sachdienliche Hinweise. The police offered a reward for the relevant tips. 
+* Belohnung; reward, bounty <br> Der beste Mitarbeiter des Monats wird eine Belohnung erhalten. The best employee of the month will get a reward. <br> Die Polizei bot eine Belohnung für sachdienliche Hinweise. The police offered a reward for the relevant tips.
 * fortsetzen; continue, resume, pursue, continue with <br> Wir werden unsere Debatte nach der Pause fortsetzen. We will continue our debate after the break. <br> Nach dem Mittagessen setzte sie ihre Arbeit fort. She resumed her work after lunch. <br> Sie beschlossen, die Diskussion nächste Woche fortzusetzen. They decided to pursue the discussion next week.
 * Erwartung; expectation, anticipation <br> Die Eltern hatten hohe Erwartungen an den neueun Schulleiter. The parents had high expectations of the new head teacher. <br> Die Erwartungen des Publikums waren hoch. The expectations of the audience were high.
-* scheitern; fail, founder, collapse, miscarry <br> Wenn man scheitert, muss man es erneut versuchen. If you fail, you need to try again. <br> Die Umsetzung des Plans scheiterte an den ersten Hürde. The implementation of the plan fell at the first hurdle. 
 
 # 02.07.2020 09:08:41
 * erzwingen; enforce, force <br> Man kann Kreativität nicht erzwingen. You can't force creativity.
-* Einrichtung; establishment, body, institution, equipment, organization, facility, installation, furnishting <br> Alle Einrichtungen des Hotels sind kostenfrei. All the facilities of the hotel are free of charge <br> Die Einrichtung des Labors war für das Experiment perfekt. The set-up of the laboratory was perfect for the experiment. <br> Die Einrichtung der Software dauerte ein paar Minuten. The installation of the software took a few minutes. 
+* Einrichtung; establishment, body, institution, equipment, organization, facility, installation, furnishting <br> Alle Einrichtungen des Hotels sind kostenfrei. All the facilities of the hotel are free of charge <br> Die Einrichtung des Labors war für das Experiment perfekt. The set-up of the laboratory was perfect for the experiment. <br> Die Einrichtung der Software dauerte ein paar Minuten. The installation of the software took a few minutes.
 * die Verordnung; regulation, decree <br> Wir respektieren alle Verordnungen. We respect all regulations.
 * ablehnen; reject, refuse, decline, oppose, turn down, dislike, dismiss <br> Wir können den Vorschlag ablehnen oder annehmen. We can reject or accept the suggestion. <br> Der Politiker hat das Bestechungsgeld abgelehnt. The politician rejected the pay off. <br> Er lehnte den Job ab, weil die Firma zu weit weg war. He turned down the job because the company was too far away. <br> Ich lehne jede Form von Gewalt ab. I dislike any form of violence. <br> Mein Freund lehnte meine Einladung zum Mittagessen ab. My friend declined my invitation for lunch.
 * Lupenrein; flawless, impeccable <br> Sie glänzt durch äußere Schönheit und den lupenreinen Klang ihrer Stimme. She shines through her external beauty and the flawless sound of her voice.
@@ -359,18 +363,29 @@
 # 03.07.2020 06:19:59
 
 * verabschiedet; passed, adopted, say good bye <br> Das Parlament hat bereits eine dringliche Entschließung verabschiedet. Parliament has already passed an urgent resolution <br> Das Institut verabschiedet Peter mit einem Symposium. The Institute says good bye to Peter with a symposium.
-* anstand; decency, civility. <br> Wir sollten uns gegenseitig mit Anstand und Respekt behandeln. We should treat one another with decency and respect. 
-* Gegenleistung; return, consideration <br> Als Gegenleistung für seine Arbeit erhält er kostenlose Verpflegung. In return for his work he will get free board. 
-* Besherig; so far, up to now, previous <br> besherige Ergebnisse. past performancess <br> Bis zum Neustart ist die bisherige Lizenzkonfiguration aktiv. Until you reboot, the previous licensing configuration is active. 
+* anstand; decency, civility. <br> Wir sollten uns gegenseitig mit Anstand und Respekt behandeln. We should treat one another with decency and respect.
+* Gegenleistung; return, consideration <br> Als Gegenleistung für seine Arbeit erhält er kostenlose Verpflegung. In return for his work he will get free board.
+* Besherig; so far, up to now, previous <br> besherige Ergebnisse. past performancess <br> Bis zum Neustart ist die bisherige Lizenzkonfiguration aktiv. Until you reboot, the previous licensing configuration is active.
 
+# 7/5/2020 8:02:09 AM
+
+* anderswo; elsewhere <br> Ich verkaufe Ihnen kein Bier, kaufen Sie es anderswo. I will not sell you beer, buy it elsewhere.
+* verbort; stubborn <br> Diese Reklame war fast ausschliesslich kleinlich und verbohrt. This advertising is alsmost exclusively petty and stubborn.
+* vorschrift; regulations, rules <br> Die neuen Vorschriften sind volkommen umsetzbar. The new regulations are perfectly viable.
+* scheitern; fail, founder, collapse, miscarry <br> Wenn man scheitert, muss man es erneut versuchen. If you fail, you need to try again. <br> Die Umsetzung des Plans scheiterte an den ersten Hürde. The implementation of the plan fell at the first hurdle.
 
 # 06.07.2020 09:46:09
 
 * andererseits; on the other hand <br> Einerseits bin ich müde, andererseits möchte ich einen Film sehen. On the on hand, i am tired but on the other hand i want to watch a film.
-* je nach; prep. depending on, according to <br> Je nach Tageszeit verkaufen sie frisches Brot. Depending on the time of the day, they sell fresh bread. <br> Ich komme etwa um drei Uhr an, je nach Verkehr. I will arrive around three o clock depending on the traffic. <br> Preise variieren je nach aktuellem Wechselkurs. Prices vary according to the current exchange rate. 
+* je nach; prep. depending on, according to <br> Je nach Tageszeit verkaufen sie frisches Brot. Depending on the time of the day, they sell fresh bread. <br> Ich komme etwa um drei Uhr an, je nach Verkehr. I will arrive around three o clock depending on the traffic. <br> Preise variieren je nach aktuellem Wechselkurs. Prices vary according to the current exchange rate.
 * Schrott; scrap, rubbish <br> Wenn ich müde bin, rede ich manchmal Schrott. When I am tired, I start talking rubbish. <br> Mein Bruder verkaufte sein altes Auto also Schrott. My brother sold his old car for scrap.
 * besichtigen; visit, inspect, view. <br> Ich habe auf meiner Reise viele historische Stätten besichtigt. I visited many historical sites on my trip. <br> Sie besichtigen das Haus, bevor sie es kauften. They inspected the house before buying it. <br> Die Touristen besichtigen alle Sehenwürdigkeiten in der Stadt. The tourists visited all the sights in the city.
 * verehren; worship, admire, revere. <br> Sie verehrten ihn wie einen Gott. They revered him like a god. <br> Die Schüler verehren ihre wunderbare Lehrerin. The pupils adore (worship) their wonderful teacher.
+
+# 7/7/2020 7:27:30 PM
+
+* fortlaufend; consecutive, successive <br> Dier versandten Rechnungen haben fortlaufende Nummern. The sent invoices have consecutive numbers. <br> Die Rechnungen sind mit eine fortlaufenden Nummerierung versehen. The bills are provided with successive numeration.
+* eilen; hurry, rush <br> Ich eilte yur Bushaltestelle, um meinen Bus nicht zu verpassen. I hurried to the bus stop so that I don't miss the bus.
 
 # 08.07.2020 06:38:02
 
