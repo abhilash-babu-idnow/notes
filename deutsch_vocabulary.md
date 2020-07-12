@@ -394,3 +394,7 @@
 * stets; constantly, always <br> Mein Bruder trägt stets maßgeschneiderte Anzüge. My brother always wears bespoke suits. <br> Meine Eltern betonten stets die Wichtigkeit kritischen Denkens. My parents constantly stressed the importance of critical thinking.
 * dichtgemacht; closed down <br> Auch Strände wurden dichtgemacht. Beaches have also been closed.
 * erwischen; catch, get, nab, get hold of <br> Er muss sich beeilen, wenn er den Zug erwischen will. He must hurry if he wants to catch the train. <br> Er kam gerade noch rechtzeitig an, um den Zug zu erwischen. He arrived just in time to catch the train.
+
+# 7/9/2020 5:32:31 AM
+
+* ermuntern; encourage, give hope, cheer up. <br> Die gute Nachricht ermunterte mich. The good news encouraged me.
