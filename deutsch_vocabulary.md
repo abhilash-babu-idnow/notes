@@ -391,17 +391,39 @@
 
 * absicht; intention, purpose, intent, aim <br> Ich habe meine Absicht sehr klar gemacht. I have made my intention very clear. <br> Es war nicht meine Absicht, etwas zu zerbrechen. It was not my intention to break something. <br> Unsere Absicht ist, die Verkäufe zu steigen. Our aim is to increase sales.
 * verblassen; pale, fade <br> Das alte Foto ist mit den Jahren verblasst. The old photograph has faded over the years. <br> Die neue Fo aussage; statement, testimony, assertion <br> Ich habe die Wahrheit der Aussage bestätigt. I attested to the truth of the statement. <br> Die Aussage des Wissenschaftlers ist mit Fakten untermauert. The scientist's assertion is supported by facts.rmel schützt die Farbe gegen Verblassen. The new formula protects the paint from fading.
-* stets; constantly, always <br> Mein Bruder trägt stets maßgeschneiderte Anzüge. My brother always wears bespoke suits. <br> Meine Eltern betonten stets die Wichtigkeit kritischen Denkens. My parents constantly stressed the importance of critical thinking. 
+* stets; constantly, always <br> Mein Bruder trägt stets maßgeschneiderte Anzüge. My brother always wears bespoke suits. <br> Meine Eltern betonten stets die Wichtigkeit kritischen Denkens. My parents constantly stressed the importance of critical thinking.
 * dichtgemacht; closed down <br> Auch Strände wurden dichtgemacht. Beaches have also been closed.
-* erwischen; catch, get, nab, get hold of <br> Er muss sich beeilen, wenn er den Zug erwischen will. He must hurry if he wants to catch the train. <br> Er kam gerade noch rechtzeitig an, um den Zug zu erwischen. He arrived just in time to catch the train. 
+* erwischen; catch, get, nab, get hold of <br> Er muss sich beeilen, wenn er den Zug erwischen will. He must hurry if he wants to catch the train. <br> Er kam gerade noch rechtzeitig an, um den Zug zu erwischen. He arrived just in time to catch the train.
 * übrig; left, remaining, spare, leftover <br> Nimm dir ein weiteres Stück Kuchen, zwei sind noch übrig. Have another slice of the cake, there are two left. <br> Ich habe nur noch ein paar Dollar übrig. I only have a few bucks left. <br> Wir werden die übrige Pizza morgen essen. We'll eat the leftover pizza tomorrow. <br> Ich gab mein übriges Geld meiner Schwester, weil ich es nicht brauchte. I gave my spare money to my sister because I did not need it.
 
 # 07/09/20 12:10:40
 
 # 07/10/20 08:09:23
 
-* bezüglich; regarding, concerning, referring to. <br> Der Kandidat hat einige Fragen bezüglich des Bewerbungsgesprächs. The candidate has some questions regarding the interview. <br> Ich habe bezüglich dieser Angelegenheit nichts zu sagen. I have nothing to say concerning this issue. <br> Bezüglich unserer letzten Unterhaltung habe ich noch einige weitere Fragen. Referring to our previous conversation, I have a few further questions. 
-* aussage; statement, testimony, assertion <br> Ich habe die Wahrheit der Aussage bestätigt. I attested to the truth of the statement. <br> Die Aussage des Wissenschaftlers ist mit Fakten untermauert. The scientist's assertion is supported by facts. 
+* bezüglich; regarding, concerning, referring to. <br> Der Kandidat hat einige Fragen bezüglich des Bewerbungsgesprächs. The candidate has some questions regarding the interview. <br> Ich habe bezüglich dieser Angelegenheit nichts zu sagen. I have nothing to say concerning this issue. <br> Bezüglich unserer letzten Unterhaltung habe ich noch einige weitere Fragen. Referring to our previous conversation, I have a few further questions.
+* aussage; statement, testimony, assertion <br> Ich habe die Wahrheit der Aussage bestätigt. I attested to the truth of the statement. <br> Die Aussage des Wissenschaftlers ist mit Fakten untermauert. The scientist's assertion is supported by facts.
 * Alptraum; nightmare <br> Der Alptraum verwandelte sich nach einer Weile in einen sehr schönen Traum. The nightmare turned into a very nice dream after a while.
 * vermeintlich; alleged, supposed, pretended <br> Die vermeintlichen Vorteile des Medikaments wurden nicht bewiesen. The alleged benefits of the drug were not proven. <br> Die Polizei befragt den vermeintlichen Zeugen. The police is questioning the supposed witness.
-* zunehmend; increasing, growing, accumulating <br> Es gibt eine zunehmende Nachfrage nach Bioprodukten. There is an increasing demand for organic products. 
+* zunehmend; increasing, growing, accumulating <br> Es gibt eine zunehmende Nachfrage nach Bioprodukten. There is an increasing demand for organic products.
+
+
+# 07/13/20 07:54:38
+
+* eindämmen; curb, contain <br> Das neue Gesetz zielt darauf ab, die Umweltverschmutzung einzudämmen. The new law aims to curb pollution.
+* reibungslos; smoooth, smoothly <br> Wir können einen reibungslosen und zuverlässigen Service garantieren. We can guarantee a smooth and reliable service.
+* umgehen; bypass, circumvent, avoid, evade etc. <br> Es ist unmöglich, das offizielle Sytem zu umgehen. It is not possible to bypass the official system. <br> Sie umging das Problem sehr geschickt. She circumevented the problem very cleverly.
+* Mangel; lack, defect, deficiency, shortage, scarcity etc. <br> Trotz des Mangels an Ressourcen haben wir den Termin eingehalten. Despite the lack of resources we met the deadline. <br> Die Verzögerung liegt an einem technischen Mangel. The delay is due to a technical defect. <br> Der Mangel an Ressourcen führt zu höheren Preisen. A scarcity of resources leads to higher prices.
+* sparsam; thrifty, frugal, economical. <br> Sie waren diese sparsame Lebensweise gewohnt. They were used to this frugal lifestyle. <br> Wir müssen sparsam sein und weniger Geld ausgeben. We need to be thrifty and spend less money.
+* auf etw. beharren; insist on sth. <br> Der Redner beharrte auf seinem Standpunkt. The speaker insisted on this point of view.
+* Fachwissen; expertise, knowhow, expert knowledge <br> Er hat Erfahrung und betriebswirtshaftliches Fachwissen. He has experience and business expertise. <br> Für diesen Job muss man das Fachwissen und die Fertigkeiten haben. For this job you must have the knowhow and the skills.
+* dementsprechend; accordingly, correspondingly, thus <br> Als die Produktionskosten stiegen, wurden die Preise dementsprehend angepasst. <br> Die Firma verkaufte mehr Produkte und erzielte demensprechend mehr Gewinn. The company sold more products thus making higher profits.
+
+# 07/14/20 08:19:05
+
+* befallen; affects <br> Covid-19 befällt das Herz. Covid-19 affects the heart.
+* Ausmaß; extent, dimension <br> Zum Glück war das Ausmaß des Schadens begrenzt. Luckily, the extent of the damange was limited. <br> Am nächsten Morgen wurde das Ausmaß der Überflutung deutlich. The next morning, the dimension of the flood became clear.
+* nachweisen; prove sth, determine sth, verify <br> Die Wissenchaftler wiesen die Wirksamkeit dieses Medikaments nach. The scientists proved the effectiveness of this medicine. <br> Der Detektiv wies den Aufenthaltsort des Verdächtigen nach. The detective determined the whereabouts of the suspect.
+* Nachweis; proof, evidence. <br> Ein Nachweis ist erforderlich, um die Bewerbung zu unterstützen. Proof is required to support the application. <br> Den Kassenzettel genügt als Nachweis für das Kaufdatum. The receipt suffices as verfication of the purchase date. <br> Jeder Schüler bekommt am Ende der Schulung einen Nachweis. Each student will receive a certificate at the end of the training.
+* verzerrt; distored, skewed <br> Der Zeuge schilderte eine verzerrte Version der Tatsachen. The witness gave a distorted version of the facts. <br> Das Foto ist an den Rändern verzerrt. The picture is distorted at the edges. <br> Das Bild is verzerrt, nicht gerade. The image is skewed, not straight.
+* durchsetzen; enforce, assert, impose, permeate, achieve <br> Die Polizei wird die neue Vorschrift durchsettzen. The police are going to enforce the new regulation. <br> Die Regeierung hat neue Einfuhrbestimmunge durchgesetzt. The government has imposed new import rules. <br> Politiker müssen zussamenarbeiten, um ihre Ziele durchzusetzen. Politicians must work together to acheieve their aims.
+
