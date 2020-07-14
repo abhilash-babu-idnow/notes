@@ -391,19 +391,30 @@
 
 * absicht; intention, purpose, intent, aim <br> Ich habe meine Absicht sehr klar gemacht. I have made my intention very clear. <br> Es war nicht meine Absicht, etwas zu zerbrechen. It was not my intention to break something. <br> Unsere Absicht ist, die Verkäufe zu steigen. Our aim is to increase sales.
 * verblassen; pale, fade <br> Das alte Foto ist mit den Jahren verblasst. The old photograph has faded over the years. <br> Die neue Fo aussage; statement, testimony, assertion <br> Ich habe die Wahrheit der Aussage bestätigt. I attested to the truth of the statement. <br> Die Aussage des Wissenschaftlers ist mit Fakten untermauert. The scientist's assertion is supported by facts.rmel schützt die Farbe gegen Verblassen. The new formula protects the paint from fading.
-* stets; constantly, always <br> Mein Bruder trägt stets maßgeschneiderte Anzüge. My brother always wears bespoke suits. <br> Meine Eltern betonten stets die Wichtigkeit kritischen Denkens. My parents constantly stressed the importance of critical thinking. 
+* stets; constantly, always <br> Mein Bruder trägt stets maßgeschneiderte Anzüge. My brother always wears bespoke suits. <br> Meine Eltern betonten stets die Wichtigkeit kritischen Denkens. My parents constantly stressed the importance of critical thinking.
 * dichtgemacht; closed down <br> Auch Strände wurden dichtgemacht. Beaches have also been closed.
 
 # 7/9/2020 5:32:31 AM
 
 * ermuntern; encourage, give hope, cheer up. <br> Die gute Nachricht ermunterte mich. The good news encouraged me.
-* erwischen; catch, get, nab, get hold of <br> Er muss sich beeilen, wenn er den Zug erwischen will. He must hurry if he wants to catch the train. <br> Er kam gerade noch rechtzeitig an, um den Zug zu erwischen. He arrived just in time to catch the train. 
+* erwischen; catch, get, nab, get hold of <br> Er muss sich beeilen, wenn er den Zug erwischen will. He must hurry if he wants to catch the train. <br> Er kam gerade noch rechtzeitig an, um den Zug zu erwischen. He arrived just in time to catch the train.
 * übrig; left, remaining, spare, leftover <br> Nimm dir ein weiteres Stück Kuchen, zwei sind noch übrig. Have another slice of the cake, there are two left. <br> Ich habe nur noch ein paar Dollar übrig. I only have a few bucks left. <br> Wir werden die übrige Pizza morgen essen. We'll eat the leftover pizza tomorrow. <br> Ich gab mein übriges Geld meiner Schwester, weil ich es nicht brauchte. I gave my spare money to my sister because I did not need it.
 
 # 07/10/20 08:09:23
 
-* bezüglich; regarding, concerning, referring to. <br> Der Kandidat hat einige Fragen bezüglich des Bewerbungsgesprächs. The candidate has some questions regarding the interview. <br> Ich habe bezüglich dieser Angelegenheit nichts zu sagen. I have nothing to say concerning this issue. <br> Bezüglich unserer letzten Unterhaltung habe ich noch einige weitere Fragen. Referring to our previous conversation, I have a few further questions. 
-* aussage; statement, testimony, assertion <br> Ich habe die Wahrheit der Aussage bestätigt. I attested to the truth of the statement. <br> Die Aussage des Wissenschaftlers ist mit Fakten untermauert. The scientist's assertion is supported by facts. 
+* bezüglich; regarding, concerning, referring to. <br> Der Kandidat hat einige Fragen bezüglich des Bewerbungsgesprächs. The candidate has some questions regarding the interview. <br> Ich habe bezüglich dieser Angelegenheit nichts zu sagen. I have nothing to say concerning this issue. <br> Bezüglich unserer letzten Unterhaltung habe ich noch einige weitere Fragen. Referring to our previous conversation, I have a few further questions.
+* aussage; statement, testimony, assertion <br> Ich habe die Wahrheit der Aussage bestätigt. I attested to the truth of the statement. <br> Die Aussage des Wissenschaftlers ist mit Fakten untermauert. The scientist's assertion is supported by facts.
 * Alptraum; nightmare <br> Der Alptraum verwandelte sich nach einer Weile in einen sehr schönen Traum. The nightmare turned into a very nice dream after a while.
 * vermeintlich; alleged, supposed, pretended <br> Die vermeintlichen Vorteile des Medikaments wurden nicht bewiesen. The alleged benefits of the drug were not proven. <br> Die Polizei befragt den vermeintlichen Zeugen. The police is questioning the supposed witness.
-* zunehmend; increasing, growing, accumulating <br> Es gibt eine zunehmende Nachfrage nach Bioprodukten. There is an increasing demand for organic products. 
+* zunehmend; increasing, growing, accumulating <br> Es gibt eine zunehmende Nachfrage nach Bioprodukten. There is an increasing demand for organic products.
+
+# 7/12/2020 5:05:23 AM
+
+* bloß; mere, bare (adj) merely, purely, only (adv) <br> Das Einreichen dieses Formular ist bloße Formalität. Submitting this form is a mere formality. <br> Ich frage bloß, um besser zu verstehen. I am asking purely to understand better.
+* beleben; invigorate <br> Die Ansprache des Trainers belebte den Teamgeist. The coach's speech invigorated the team spirit.
+* hissen; hoist <br> Er hisste das Segel und lichtete den Anker. He hoisted the sail and pulled up the anchor.
+* die Fahne; flag <br> Ich habe die Fahnen gleichmäßig um das Feld verteilt. I spaced the flags evenly around the field.
+* Sichtweise; view, perspective, viewpoint, perception, point of view <br> Wir hatten eine produktive Diskussion über unsere verschiedenen Sichtweisen. We had a productive discussion about our different views. <br> Er erklärte seine Sichweise ausführlich. He explained his view point thoroughly.
+* flüchtig; volatile, fleeting, elusive, cursory, brief. <br> Der Geruch kommt von dieser flüchtigen Substanz. The smell comes from this volatile substance. <br> Der Kandidat gab nur flüchtige Antworten auf die Fragen. The candidate only gave elusive answers to the questions. <br> Wir hatten nur Zeit für eine sehr flüchtige Unterhaltung. We only had time for a very brief conversation.
+* verspeist; eat, consume <br> Mein Bruder verspeiste den ganzen Kuchen alleine. My brother ate up the whole cake by himself.
+*
