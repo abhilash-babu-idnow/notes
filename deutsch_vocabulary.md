@@ -294,7 +294,7 @@
 * abweisen; reject, dismiss <br> Der Server hat die Verbindung abgewiesen. The server has refused the connection
 * etliche; quite a few, a number of, quite a number of <br> Etliche Firmen haben die neuen Richtlinien übernommen. A number of companies have adopted the new quidelines.
 * scherzen; joke, kid <br> Er scherzt gerne mit seinen Freunden. He likes to joke with his friends. <br> Ich dachte, es war ihm ernst, aber er hat nur gescherzt. I thought he was serious, but he was only kidding.
-* scherz; joke. <br> Meine ironische Bemerkung sollte keine Beleidigung sein, es war ein Scherz. My ironic remark was not meant to be an insut, it was a joke.
+* scherz; joke. <br> Meine ironische Bemerkung sollte keine Beleidigung sein, es war ein Scherz. My ironic remark was not meant to be an insult, it was a joke.
 * Ungerechtigkeit; unfairness, injustice <br> Sie beklagte über die Ungerechtigkeit des Lebens. She lamented the unfaireness of life.
 * lindern; alleviate, relieve, mitigate, soothe, ease <br> Die Medikamente haben seine epileptischen Anfälle gelindert. The medication has alleviated his epileptic fits. <br> Ein Glas Wasser und frische Luft können Kopfschmerzen lindern. A glass of water and fresh air can relieve a headache. <br> Das Medikament lindert den durch die Entzündung verursachten Schmerz. The medicine eases the pain caused by the inflammation.
 * vordorben; spoiled, foul, corrupt, bad <br> Ich habe mir den Magen verdorben. I have an upset stomach. <br> Verdorbenes Gemüse zu essen kann Übelkeit auslösen. Eating foul vegetables can cause sickness.
@@ -341,7 +341,7 @@
 * einleiten; initiage, introduce, induce, prelude, trigger etc <br> Die neue Verwaltung hat viele wichtige Änderung eingeleitet. The new administration introduced many important changes. <br> Wir werden jetzt die Narkose einleiten. We will now induce narcosis.
 * üblich; common, usual, normal, customary <br> In vielen Ländern ist es üblich, dem Kellner ein Trinkgeld zu geben. In many countries it is common to tip the waiter. <br>  Das Flugzeug fliegt auf der üblichen Höhe. The plane is flying at the usual altitude.
 * überqueren; cross, traverse <br> Wir können die Straße an der Ampel überqueren. We can cross the road at the traffic lights.
-* neulich; recently, latela <br> erst neulich. just recently. <br> neulich morgens. the other morning.
+* neulich; recently, lately <br> erst neulich. just recently. <br> neulich morgens. the other morning.
 
 # 01.07.2020 07:22:41
 
@@ -428,4 +428,10 @@
 * Nachweis; proof, evidence. <br> Ein Nachweis ist erforderlich, um die Bewerbung zu unterstützen. Proof is required to support the application. <br> Den Kassenzettel genügt als Nachweis für das Kaufdatum. The receipt suffices as verfication of the purchase date. <br> Jeder Schüler bekommt am Ende der Schulung einen Nachweis. Each student will receive a certificate at the end of the training.
 * verzerrt; distored, skewed <br> Der Zeuge schilderte eine verzerrte Version der Tatsachen. The witness gave a distorted version of the facts. <br> Das Foto ist an den Rändern verzerrt. The picture is distorted at the edges. <br> Das Bild is verzerrt, nicht gerade. The image is skewed, not straight.
 * durchsetzen; enforce, assert, impose, permeate, achieve <br> Die Polizei wird die neue Vorschrift durchsettzen. The police are going to enforce the new regulation. <br> Die Regeierung hat neue Einfuhrbestimmunge durchgesetzt. The government has imposed new import rules. <br> Politiker müssen zussamenarbeiten, um ihre Ziele durchzusetzen. Politicians must work together to acheieve their aims.
+
+# 07/15/20 07:07:35
+
+* geschehen; happen, occur, done <br> Ich werde warten und sehen was geschieht. I will wait and see what happens. <br> Der Zeuge gab einen ausführlichen Berich daruber, was geschehen war. The witness gave a detailed report of what had happened.
+* zuschreiben; attribute to, accredit to <br> Experten schreiben das Gedicht einem berühmten Dicter zu. Experts attribute the poem to a famous poet. <br> Die Entdeckung wurde dem Wissenschaftler zugescrhrieben. The discovery was accredited to the scientist.
+* aussehen; appearance, looks <br> Sein guter Charakter war mir wichtiger als sein Aussehen. His good character was more important to me that his appearance. <br> Sein eigenartiges Aussehen fiel mir sofort auf. His strange looks struck me immediately.
 
