@@ -449,3 +449,16 @@
 * zuschreiben; attribute to, accredit to <br> Experten schreiben das Gedicht einem berühmten Dicter zu. Experts attribute the poem to a famous poet. <br> Die Entdeckung wurde dem Wissenschaftler zugescrhrieben. The discovery was accredited to the scientist.
 * aussehen; appearance, looks <br> Sein guter Charakter war mir wichtiger als sein Aussehen. His good character was more important to me that his appearance. <br> Sein eigenartiges Aussehen fiel mir sofort auf. His strange looks struck me immediately.
 
+# 7/16/2020 10:11:35 AM
+
+* leichtsinning; careless, reckless. <br> Es war leichtsinning von uns, den Besitzer nicht vorher zu fragen. It was careless of us not to ask the owner first <br> Es ist sehr leichtsinning bei einem Schneesturm zu fahren. It is very reckless to drive in a snowstorm
+* ausstatten; equip, provide, fit, stock. <br> Das Geschäft wird mit neuen Produkten ausgestatten werden. The shop will be stocked with new products.
+
+# 7/18/2020 4:37:33 AM
+
+* beabsichtigen; intend, plan, mean <br> Meine Kollegen hat angedeutet dass sie beabsichtigt in Rente zu gehen. My colleague has intimated that she intends to retire. <br> Ich habe nicht beabsichtigt dich zu stören. I didnot mean to disturb you.
+* angedeutet;indicate, implied, suggest <br> Mein Chef deutete an, dass ich bald befördert werden könnte. My boss implied that I might be promoted soon.
+* ernennen; appoint, designate, nominate <br> Die Firma hat einen neuen Betriebsleiter ernannt. The company appointed a new COO. <br> Der Direktor ernannte seinen Nachfolger bei der jährlichen Sitzung. The director nominated his successor at the annual meeting.
+* sich nach jdm/etw erkundigen. <br> Er erkundigte sich nach dem Status seiner Bewerbung. He enquired about the status of this application.
+* erleichtern; facilitate, make easier, relieve sth. <br> Das neue interface erleichtert die Benutzeringaben. The new interface facilitates user input. <br> Er ging hinter einen Baum, um sich zu erliechtern. He went behind a tree to relieve himselft. <br> Die Verjungung des Flaschenhalses erleichtert das Einschenken. The tapering of the bottleneck makes it easier to pour.
+* bestehend; consisting, existing, extant. <br> Die neuen informationen müssen zu den bestehenden Daten hinzugefügt werden. The new information must be added to the existing data. <br> Der Direktor entschied über die Nachrüstung der bestenden Maschinen. The director decided on the retrofit of the existing machines.
