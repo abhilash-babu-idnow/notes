@@ -75,8 +75,9 @@ Reference:
 
 ##### Updating Weight
 ###### General Weight Update Equation 
-![[Pasted image 3.png]]
-![General Weight Update Equation](Attachments/Pasted image 3.png)
+> ![[general_weight_update.png.png]]
+
+![General Weight Update Equation](Attachments/general_weight_update.png.png)
 
 ###### Batch Training Weight Update Equation
 
