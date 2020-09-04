@@ -11,3 +11,6 @@
 
 ### Deep Learning
 [[aamlp]] Approaching any machine learning problem.
+
+### Software Engineering
+[[Refactoring]] Book on refactoring by Martin Fowler.

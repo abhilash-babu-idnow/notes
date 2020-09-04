@@ -68,7 +68,7 @@ There are two types of tags in git
 ### Cherry Picking. 
 Takes one or more commits and replays them on the top of the current commit. 
 
-![[Pasted image.png]]
+![[tvm-1.png]]
 becomes  
 
 ![[Pasted image 1.png]] when the following command is executed. 
