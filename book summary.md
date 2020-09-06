@@ -15,3 +15,6 @@
 
 ### Machine Learning
 [[hands_on_ml]] Hands on Machine Learning with Scikit-Learn, Keras and Tensorflow
+
+### Software Engineering
+[[Refactoring]] Book on refactoring by Martin Fowler.
