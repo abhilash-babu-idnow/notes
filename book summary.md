@@ -11,3 +11,7 @@
 
 ### Deep Learning
 [[aamlp]] Approaching any machine learning problem.
+[[Math of Neural Networks]] Math of neural networks.
+
+### Machine Learning
+[[hands_on_ml]] Hands on Machine Learning with Scikit-Learn, Keras and Tensorflow
