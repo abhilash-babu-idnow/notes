@@ -113,3 +113,5 @@ For batch training, the weights are updated after passing an entire training set
 
 > Weights are updated after a certain number of training elements have passed through the network. In the above equation mini batch size is 10. This is a hyperparameter. So if there are 1000 samples and the mini batch size is 10 then there will be 100 weight updates. 
 
+
+
