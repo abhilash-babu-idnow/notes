@@ -24,3 +24,10 @@
 
 ### Software Engineering
 [[Refactoring]] Book on refactoring by Martin Fowler.
+
+### Scripting
+[[power shell in action]] Power shell in action 2nd edition.
+
+### Productivity, Learning and Self help
+[[accelerated learning]]
+[[atomic habits]]
