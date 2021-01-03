@@ -42,3 +42,34 @@ Best approach is to craft specification first and then code to fit that spec. Do
 	* Hidden feedback loops e.g. predicitive policing.
 * LSP
 	> Ockhams Razor -> The simplest solution is the best one. 
+
+# Chapter 2 - A quick introduction to Machine learning. 
+
+> Machines making sense out of data. Extract patterns from data
+> Supervised, Unsupervised and Reinforcement learning. 
+
+## Supervised Learning. 
+Function approximation - fitting data to a function
+## Unsupervised Learning.
+Clustering 
+## Reinforcement Learning
+Learning throught rewards and payoffs. 
+
+# Chapter 3 - K Nearest Neighbors
+
+> Things are worth as much as someone is willing to pay.  - Old Saying. 
+
+## Hedonic Regression
+> Real life hedonic regression example - CPI index (index of inflation)
+
+**Instead of focussing on fitting a curve to a bag of attributes, it focuses on the components** For example hedonic method can be used to estimate how much a bedroom costs. 
+
+# Chapter 4 - Naive Bayesian Classification
+
+## Conditional Probability
+
+**P(A|B) = P(AB) / P(B)**
+
+## Bayes Theorem 
+
+**P(B | A) = P(A | B) * P(B) / P(A)**
