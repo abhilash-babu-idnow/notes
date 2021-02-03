@@ -15,9 +15,7 @@ Data Mining -
 
 Why ML?
 
->  Problems for which existing solutions require a lot of fine-tuning or
-    long lists of rules: one Machine Learning algorithm can often simplify
-    code and perform better than the traditional approach.
+>  Problems for which existing solutions require a lot of fine-tuning or long lists of rules: one Machine Learning algorithm can often simplify code and perform better than the traditional approach.
 
 > ML based approaches can be automated for adapting to change. eg. spam filtering. ML algo could be updated to flag spam emails based on the feedback data from the users. Thus when user flags an email as spam the ML algorithm could find the patterns and words in such emails and update itself.
 
