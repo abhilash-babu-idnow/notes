@@ -1,3 +1,18 @@
 - Python packing options like pipx, pex etc. [[python packaging]] #python
 - Explain how pyoxidizer works. [[pyoxidizer]] #python
+- Explain how pyinstaller works. [[pyinstaller]]
 - Blog about mobile net
+- How to do machine learning in C++
+	- Logistic regression in C++ (liblinear)
+	- Naive bayesian classifier in C++ 
+	- dlib
+	- libsvm
+	- shogun
+	- mlpack
+	- ml.net
+	- xgboost
+- Blog about libsodium
+- ~~Blog about libgit~~
+- Fischer vectors
+- VLAD
+- Dithering
