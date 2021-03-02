@@ -1,5 +1,6 @@
+#errordiffusion #dithering
 
-It is error diffusion based dithering algorithm. Quantization error is diffused to the neighboring pixels according to the following formula, where P is the current pixel and the fraction of the quantization error passed on to the neighboring cells is shown. 
+This algorithm is based on the concept of error diffusion. Quantization error is diffused to the neighboring pixels according to the following formula, where P is the current pixel and the fraction of the quantization error passed on to the neighboring cells is shown. 
 
 
 | *   | *   | *  |
