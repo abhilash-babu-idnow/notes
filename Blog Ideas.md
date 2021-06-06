@@ -15,4 +15,12 @@
 - ~~Blog about libgit~~
 - Fischer vectors
 - VLAD
-- Dithering
+- ~~Dithering~~
+- Chamfer distance
+- Template matching in Halcon
+- Hausdorff distance
+- Book summaries.
+- Circle fit methods
+	- Algebraic methods
+	- Geometric methods
+- NCC template matching. 
