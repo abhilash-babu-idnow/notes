@@ -3,3 +3,15 @@ image analysis. arXiv preprint arXiv:1610.07231, 2016.
 - http://cs231n.stanford.edu/GGTSPU-3c2eb0e00cb30692-34978-447758-Vgqb7NdkgQYGa95W-LOD/reports/2017/pdfs/817.pdf
 - https://arxiv.org/pdf/1602.04938.pdf
 - https://arxiv.org/pdf/2001.01215.pdf
+- Subpixel edge detection paper from MVTec
+- Algebraic Lens Distortion Model
+- Correction of image radial distortion based on division model
+- Fischer Vectors
+- Local Binary Pattern
+- GradCAM
+- Mixed Precision Training
+- Capsule Neural Networks
+- TextBoxes++ A single shot oriented scene text detector [arxiv link](https://arxiv.org/pdf/1801.02765.pdf)
+- SSD - Single shot detector [arxiv](https://arxiv.org/pdf/1512.02325.pdf)
+- ScanSSD [arxiv](https://arxiv.org/pdf/2003.08005.pdf)
+- TinySSD [arxiv](https://arxiv.org/pdf/1802.06488.pdf)
