@@ -31,3 +31,6 @@
 ### Productivity, Learning and Self help
 [[accelerated learning]]
 [[atomic habits]]
+
+### Misc
+[[Brilliant Answers to tough interview questions]]
