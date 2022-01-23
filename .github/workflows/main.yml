@@ -27,7 +27,7 @@ jobs:
 
       - name: generate html pages
         run: |
-          pandoc BookSummary/practices_of_agile_developer.md -o public/index.html -t reveal.js -s
+          pandoc BookSummary/practices_of_agile_developer.md -o public/index.html -t revealjs -s
 
       - name: publish
         uses: crazy-max/ghaction-github-pages@v2
