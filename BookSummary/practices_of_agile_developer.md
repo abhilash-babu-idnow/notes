@@ -1,3 +1,7 @@
+% Practices of Agile Developer
+% Abhilash's notes
+% 23.01.2022
+
 ## Agile Manifesto
 - Individuals and interactions over processes and tools
 - Working software over comprehensive documentation
