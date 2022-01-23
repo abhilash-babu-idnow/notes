@@ -1,0 +1,33 @@
+name: Github Pages
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu:18.04
+    steps:
+      -
+        name: Checkout
+        uses: actions/checkout@v1
+
+      -
+        name: Convert notes to html
+        uses: docker://pandoc/core:2.9
+        with:
+          args: >-
+            --standalone
+            --output=public/index.html
+            BookSummary/practices_of_agile_developer.md
+
+      -
+        name: Deploy to github pages
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: gh-pages
+          build_dir: public
+        env:
+          GITHUB_TOKEN: $${{ secrets.GITHUB_TOKEN }}
+
