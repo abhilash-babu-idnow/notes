@@ -1,6 +1,2 @@
 # Notes
-Notes
-
-* [pytest notes](https://github.com/abhilb/Notes/blob/master/pytest_notes.md)
-* [German sentences in anki format](https://github.com/abhilb/Notes/blob/master/deutsch_s%C3%A4tze.md)
-* [German words in anki format](https://github.com/abhilb/Notes/blob/master/deutsch_vocabulary.md)
+Notes on technical topics, programming, computer vision, machine learning and book summaries. Best way to view this is to use it with obsidian. 

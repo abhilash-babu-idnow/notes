@@ -22,6 +22,7 @@ avoids name collision - helps guess location of code - will help guide where to 
 
 ## Part 3 - Nailing down large systems
 ### Separation of concerns in practice
+Helps in _code reuse, improved maintainability and ease of extension and generalization_ - A typical way to achieve seperation of concern is to use a layered architecture - for example an application could be split up into having a presentation layer (UI), a business logic layer and a persistence layer (DB) - Example patterns MVC, MVVM etc
 ### Extensibility and flexibility
 ### The rules of inheritence
 ### Keeping things lightweight

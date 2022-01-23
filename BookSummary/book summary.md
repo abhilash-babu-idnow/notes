@@ -21,12 +21,14 @@
 ### Machine Learning
 [[hands_on_ml]] Hands on Machine Learning with Scikit-Learn, Keras and Tensorflow
 [[python_machine_learning]] Python machine learning by Sebastian Raschka
+[[statisical_rethinking]]
 
 ### Software Engineering
 [[Refactoring]] Book on refactoring by Martin Fowler.
 
 ### Scripting
 [[power shell in action]] Power shell in action 2nd edition.
+[[practices_of_agile_developer]] Practices of Agile Developer.
 
 ### Productivity, Learning and Self help
 [[accelerated learning]]
