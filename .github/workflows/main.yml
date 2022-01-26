@@ -23,11 +23,18 @@ jobs:
       - name: install deps
         run : |
           sudo apt-get update
-          sudo apt-get install -y pandoc
+          sudo apt-get install -y pandoc zip
 
       - name: generate html pages
         run: |
-          pandoc BookSummary/practices_of_agile_developer.md -o public/index.html -t revealjs -s
+          wget https://github.com/hakimel/reveal.js/archive/master.zip
+          unzip master.zip -d revealjs
+          mkdir -p revealjs/reveal.js-master/dist/css
+          mkdir -p revealjs/reveal.js-master/dist/js
+          mv -p revealjs/reveal.js-master/dist/*.js* revealjs/reveal.js-master/dist/js
+          mv -p revealjs/reveal.js-master/dist/*.css revealjs/reveal.js-master/dist/css
+          cp -R revealjs/reveal.js-master/dist/theme revealjs/reveal.js-master/dist/css
+          pandoc -s -V revealjs-url=./revealjs/reveal.js-master/dist -t revealjs -f markdown -o slides.html BookSummary/practices_of_agile_developer.md
 
       - name: publish
         uses: crazy-max/ghaction-github-pages@v2
@@ -36,3 +43,5 @@ jobs:
           build_dir: public
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
