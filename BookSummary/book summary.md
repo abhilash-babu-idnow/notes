@@ -25,6 +25,7 @@
 
 ### Software Engineering
 [[Refactoring]] Book on refactoring by Martin Fowler.
+[Practices of agile developer](https://blog.abhilashbabuj.com/practices_of_agile_developer.html)
 
 ### Scripting
 [[power shell in action]] Power shell in action 2nd edition.
