@@ -99,16 +99,16 @@
 
 ---
 ## Agile Coding
-
+		- blah blah
 ---
 ### Program intently and expressively
-
+		- add more content
 ---
 ### Communicate in Code
-
+		- todo
 ---
 ### Actively evaluate trade offs
-
+		- todo
 ---
 ### Code in increments
 		- Write code in short edit build test cycles
@@ -137,3 +137,4 @@
 ---
 
 ### Substitute by Contract
+		- todo
