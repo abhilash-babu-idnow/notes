@@ -34,7 +34,7 @@ jobs:
           mv public/revealjs/reveal.js-master/dist/*.js* public/revealjs/reveal.js-master/dist/js
           mv public/revealjs/reveal.js-master/dist/*.css public/revealjs/reveal.js-master/dist/css
           cp -R public/revealjs/reveal.js-master/dist/theme public/revealjs/reveal.js-master/dist/css
-          pandoc -s -V revealjs-url=./public/revealjs/reveal.js-master/dist -t revealjs -f markdown -o public/index.html BookSummary/practices_of_agile_developer.md
+          pandoc -s -V revealjs-url=revealjs/reveal.js-master/dist -t revealjs -f markdown -o public/index.html BookSummary/practices_of_agile_developer.md
 
       - name: publish
         uses: crazy-max/ghaction-github-pages@v2
