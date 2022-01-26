@@ -54,6 +54,7 @@
 ---
 
 ## Feeding agility
+
 ---
 
 ### Keeping up with change
@@ -122,4 +123,17 @@
 		- What is simple might not be simple for others. 
 ---
 ### Write Cohesive code
-		- 
+		- High cohesion and low coupling. Software architecture 101.
+		- A module should have only one reason to change.
+		- Don't take it too far with breaking down code into components just to satisfy the rule of each component doing just one thing. 
+---
+
+### Tell Don't Ask
+
+		- Command Query Separation
+		- Categorize the functions as either commands and queries. 
+		- Queries should be side effect free
+		- Command changes the state of the objet. 
+---
+
+### Substitute by Contract
