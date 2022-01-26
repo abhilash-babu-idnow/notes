@@ -19,9 +19,9 @@
 [[Math of Neural Networks]] Math of neural networks.
 
 ### Machine Learning
-[[hands_on_ml]] Hands on Machine Learning with Scikit-Learn, Keras and Tensorflow
-[[python_machine_learning]] Python machine learning by Sebastian Raschka
-[[statisical_rethinking]]
+*  [[hands_on_ml]] Hands on Machine Learning with Scikit-Learn, Keras and Tensorflow. [url](https://blog.abhilashbabuj.com/Notes/hands_on_ml.html)
+*  [[python_machine_learning]] Python machine learning by Sebastian Raschka
+*  [[statisical_rethinking]]
 
 ### Software Engineering
 [[Refactoring]] Book on refactoring by Martin Fowler.

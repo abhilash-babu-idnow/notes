@@ -1,4 +1,4 @@
-# Chapter 1 - Machine Learning Landscape
+# Machine Learning Landscape
 ML defenition - 
 > Programming computers to learn from data
 
