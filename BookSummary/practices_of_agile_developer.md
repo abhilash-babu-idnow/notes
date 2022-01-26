@@ -2,11 +2,13 @@
 % Abhilash's notes
 % 23.01.2022
 
+---
+
 ## Agile Manifesto
-- Individuals and interactions over processes and tools
-- Working software over comprehensive documentation
--  Customer collaboration over contract negotiation
--  Responding to change over following a plan
+		- Individuals and interactions over processes and tools
+		- Working software over comprehensive documentation
+		- Customer collaboration over contract negotiation
+		- Responding to change over following a plan
 
 ---
 
@@ -76,56 +78,77 @@
 		- Like learning new stuff it is equally important to let go old techniques which are not relevant. 
 		- Example compilers now are very efficient and smart and can do optimization way better. So no point in doing the optimization like loop unrolling etc by hand. One should just leave it to the compoiler to sort it out.
 ---
+
 ## Agile Feedback
+
 ### Put Angels on Your Shoulders
 		- Coding feedback through testing. 
 		- Automate the unit tests.
+
 ---
+
 ### Use it buid you build it
 		- Eat your own dog food
 		- Use TDD
 
 ---
+
 ### Different makes a difference
 
 ---
+
 ### Automate acceptance Testing
 
 ---
+
 ### Measure Real Progress
 
 ---
+
 ### Listen to Users
 
 ---
+
 ## Agile Coding
 		- blah blah
+
 ---
+
 ### Program intently and expressively
 		- add more content
+
 ---
+
 ### Communicate in Code
 		- todo
+
 ---
+
 ### Actively evaluate trade offs
 		- todo
 ---
+
 ### Code in increments
 		- Write code in short edit build test cycles
 		- Helps to refine and structure the code better.
 		- Refactor the code as well as the tests.
+
 ---
+
 ### Keep it simple
 		- Try to make the design as simple as possible.
 		- Don't try to use patterns and principle just for the sake of using them. 
 		- "A good design makes you feel comfortable"
 		- Terse is not simple. 
 		- What is simple might not be simple for others. 
+
 ---
+
 ### Write Cohesive code
 		- High cohesion and low coupling. Software architecture 101.
 		- A module should have only one reason to change.
 		- Don't take it too far with breaking down code into components just to satisfy the rule of each component doing just one thing. 
+
 ---
 
 ### Tell Don't Ask

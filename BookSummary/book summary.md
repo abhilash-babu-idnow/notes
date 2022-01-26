@@ -10,7 +10,7 @@
 [[C++ Crash course]]
 
 ### Python
-[[pytest_notes]] Python tesing using pytest.
+[[pytest_notes]] Python tesing using pytest. [url](https://blog.abhilashbabuj.com/Notes/pytest.html)
 [[practices_of_the_python_pro]] Practices of the Python Pro.
 [[python_machine_learning]] Python machine learning by Sebastian Raschka
 
@@ -25,11 +25,10 @@
 
 ### Software Engineering
 [[Refactoring]] Book on refactoring by Martin Fowler.
-[Practices of agile developer](https://blog.abhilashbabuj.com/practices_of_agile_developer.html)
+[Practices of agile developer](https://blog.abhilashbabuj.com/Notes/practices_of_agile_developer.html)
 
 ### Scripting
 [[power shell in action]] Power shell in action 2nd edition.
-[[practices_of_agile_developer]] Practices of Agile Developer.
 
 ### Productivity, Learning and Self help
 [[accelerated learning]]

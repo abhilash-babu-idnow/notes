@@ -1,7 +1,7 @@
-What are hyperparameters? 
+## What are hyperparameters? 
 They are fine tuning knobs that can be tweaked to help a network successfully train. 
 
-Required Hyperparameters: 
+### Required Hyperparameters: 
 * Total number of input nodes.
 * Total number of hidden layers.
 * Total number of hidden nodes in each hidden layer. 
@@ -10,7 +10,7 @@ Required Hyperparameters:
 * Bias values. 
 * Learning rate. 
 
-Optional Hyperparameters
+### Optional Hyperparameters
 * Learning rate schedule ( learning rate decay )
 * Momentum
 * Mini batch size. 
@@ -60,9 +60,11 @@ Total error is the difference between the networks actual output and target outp
 
 #### What is gradient descent?
 
-> Optimization method; Find combination of weights that will minimize the error in the output of the network; Metaphor -> "It is how we turn the dials to fine tune the network"
-> Learning rate -> Speeds up or slows down how quickly an algorithm learns. ~ 0.0001 to 1. ; Determines the size of the step an algorithm takes when moving towards the global minimum. 
-> Analogy -> Gradient descent is like a person hiking down a mountain.
+* Optimization method; Find combination of weights that will minimize the error in the output of the network; Metaphor -> "It is how we turn the dials to fine tune the network"
+
+* Learning rate -> Speeds up or slows down how quickly an algorithm learns. ~ 0.0001 to 1. ; Determines the size of the step an algorithm takes when moving towards the global minimum. 
+
+* Analogy -> Gradient descent is like a person hiking down a mountain.
 
 Reference: 
 >    ![[An overview of gradient descent optimization algorithms.pdf]]
