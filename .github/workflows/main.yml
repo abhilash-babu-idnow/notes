@@ -35,7 +35,7 @@ jobs:
           mv public/revealjs/reveal.js-master/dist/*.css public/revealjs/reveal.js-master/dist/css
           cp -R public/revealjs/reveal.js-master/dist/theme public/revealjs/reveal.js-master/dist/css
           pandoc -s -f markdown -o public/index.html "BookSummary/book summary.md" -c ./public/mvp.css
-          pandoc -s -f markdown -o public/pytest.html "BookSummary/pytest.md" -c ./public/mvp.css
+          pandoc -s -f markdown -o public/pytest.html "BookSummary/pytest_notes.md" -c ./public/mvp.css
           pandoc -s -V revealjs-url=revealjs/reveal.js-master/dist -t revealjs -f markdown -o public/practices_of_agile_developer.html BookSummary/practices_of_agile_developer.md --slide-level 2
           pandoc -s -V revealjs-url=revealjs/reveal.js-master/dist -t revealjs -f markdown -o public/domain_storytelling.html BookSummary/domain_storytelling.md --slide-level 2
 
