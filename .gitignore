@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 .obsidian
+.lsp/
+.clj-kondo/
 package-lock.json
+public/
