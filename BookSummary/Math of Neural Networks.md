@@ -1,6 +1,8 @@
 ## What are hyperparameters? 
 They are fine tuning knobs that can be tweaked to help a network successfully train. 
 
+---
+
 ### Required Hyperparameters: 
 * Total number of input nodes.
 * Total number of hidden layers.
@@ -9,6 +11,8 @@ They are fine tuning knobs that can be tweaked to help a network successfully tr
 * Weight values. 
 * Bias values. 
 * Learning rate. 
+
+--- 
 
 ### Optional Hyperparameters
 * Learning rate schedule ( learning rate decay )

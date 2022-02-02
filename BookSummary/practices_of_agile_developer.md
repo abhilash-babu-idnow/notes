@@ -161,3 +161,38 @@
 
 ### Substitute by Contract
 		- todo
+
+---
+
+## Agile Debugging 
+
+---
+
+## Agile Colaboration
+		- Team work, self organization and communication is essential for the success of the project. 
+		- Face to face communication 
+		- Collective ownership
+		- Architects must code too. 
+		- Code reviews.
+		- Share knowledge, be a mentor.
+
+---
+
+### Schedule regular face time
+		- Daily standup meeting and if its a small team may be every other day. 
+		- What did I achieve yesterday? What I am planning to do today? What is in my way? Neither too detailed and low lever nor too high level and abstract.
+		- Limit it to two to three minutes and take it offline if more discussion is needed.
+		- Helps to start the day in a focussed way, effecitve resource allocation and to actively seek help to fix problems.
+		- Helps team members know what everyone is working on, motivates one another, find redundancies and share ideas and knowledge.
+
+---
+
+### Architects must write code.
+		- Good design evolves from active programmers. 
+		- Encourage programmers to design. Or a senior developer should do it or pair up developers to do the design. 
+		- Powerpoint architects wouldn't help. Design in isloation won"t work. 
+
+---
+
+### Practices Collective Ownership
+		- 
