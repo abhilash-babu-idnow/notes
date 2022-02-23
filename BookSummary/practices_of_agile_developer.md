@@ -195,4 +195,12 @@
 ---
 
 ### Practices Collective Ownership
+		- Multiple people working on same piece of code => automatically gets reviewed. 
+		- Scheduling becomes easy as multiple people are comfortable with the code. 
+		- When a particular module needs expert knowledge then it doesn't make sense to rotate the developers for that modules. Too many cooks.
+		- Collective Ownership != Hack wildly.
+---
+
+### Be a Mentor
+		- Knowledge grows when given. 
 		- 
