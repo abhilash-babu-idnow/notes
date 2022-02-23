@@ -1,0 +1,11 @@
+# Chapter 1 - What is TDD
+- idea from Kent Beck.
+- Three rules of TDD
+	- *You shall not write any production code, unless required by a failing Unit test*
+	- *You shall not write more of a unit test, than is required to fail*
+	- *You shall not write more production code ,than is sufficient to make the one failing test pass*
+- Red Green Refactor
+	- Red - Write a failing test case
+	- Green - Make the test pass
+	- Refactor - Improve the design of the code without changing its behaviour
+	- 
