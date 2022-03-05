@@ -29,3 +29,13 @@ for i in range(len(seq)):
 	do_something(seq[i])
 ```
 
+- Pass it
+- Try it
+- Embrace comprehensions
+- Make code compact with conditional expression
+
+```python
+value = x if cond else y
+```
+
+- 
