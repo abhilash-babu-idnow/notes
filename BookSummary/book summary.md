@@ -17,7 +17,7 @@
 * [[robust python]]
 * [[python distilled]]
 * [[fluent python]]
-* [[python brain teasers]]
+* [[Python_Brain_Teasers]]
 
 ### Deep Learning
 *  [[aamlp]] Approaching any machine learning problem.
