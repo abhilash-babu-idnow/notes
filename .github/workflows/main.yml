@@ -39,6 +39,8 @@ jobs:
           pandoc -s -f markdown -o public/hands_on_ml.html "BookSummary/hands_on_ml.md" -c sakura-dark-solarized.css
           pandoc -s -V revealjs-url=revealjs/reveal.js-master/dist -t revealjs -f markdown -o public/practices_of_agile_developer.html BookSummary/practices_of_agile_developer.md --slide-level 2
           pandoc -s -V revealjs-url=revealjs/reveal.js-master/dist -t revealjs -f markdown -o public/domain_storytelling.html BookSummary/domain_storytelling.md --slide-level 2
+          pandoc -s -V revealjs-url=revealjs/reveal.js-master/dist -t revealjs -f markdown -o public/pandas_puzzles.html BookSummary/Pandas_Brain_Teasers.md --slide-level 2
+
 
       - name: publish
         uses: crazy-max/ghaction-github-pages@v2
