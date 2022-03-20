@@ -112,10 +112,116 @@ This behaviour is different from that of numpy. Numpy will not be able to broadc
 
 ---
 
-- Puzzle 10
+- Puzzle 10 - Free Range
 
 What is the answer?
 
 ```python
+import pandas as pd
+
+nums = pd.Series([1, 2, 3, 4, 5, 6])
+print(nums[(nums > 2) and  (nums < 5)])
+```
+
+---
+
+
+Answer : Value Error
+
+`and` is invoked on two Boolean series and that raises an error. So use 
+
+- `&`  instead of `and` 
+- `|` instead of `or`
+- `~` instead of `not`
+
+---
+
+- Puzzle 11 - Phil? Nah!?
+
+What is the answer?
+
+```python
+import pandas as pd
+import numpy as np
+
+s = pd.Series([1, 2, np.nan, 4, 5])
+s.fillna(3)
+print(s.sum())
+```
+
+---
+
+Answer: 12.0
+
+__fillna__ returns a new series unless the parameter __inplace__ is set to __True__
+
+
+---
+
+- Puzzle 12 - Multiplying
+
+What is the answer?
+
+```python
+import pandas as pd
+
+v = pd.Series([0.1, 1.0, 1.1])
+out = v * v
+expected = pd.Series([0.01, 1.0, 1.2])
+if (out == expected).all():
+	print("Math rocks")
+else:
+	print("Please reinstall universe and reboot")
+```
+
+---
+
+Aswer: Please reinstall universe and reboot.
+
+Floating point comparison!
+
+use `numpy.allclose` instead
+
+---
+
+- Puzzle 13 - 10% discout
+
+What is the answer
+
+```python
+import pandas as pd
+
+df = pd.DataFrame([
+	['Bugs', True, 72.1],
+	['Daffy', False, 30.7],
+	['Tweety', True, 23.5],
+	['Elmer', False, 103.9]
+], columns=['Customer', 'Member', 'Amount'])
+
+df[df['Member']]['Amount'] *= 0.9
+print(df)
+```
+
+---
+
+Answer:
+Warning and df is not updated 
+
+Reason: pandas tries to avoid copying of data. It is returning a view.
+
+Solution:
+
+```python
+df.loc[df['Member'], 'Amount'] *= 0.9
+```
+
+---
+
+- Puzzle 14 - A tale of one city
+
+What is the answer?
+
+```python
+import pandas as pd
 
 ```

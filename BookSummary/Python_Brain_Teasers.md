@@ -31,4 +31,6 @@ Puzzle 2:
 
 ``` python
 
+
+
 ```

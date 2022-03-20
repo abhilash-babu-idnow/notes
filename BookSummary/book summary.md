@@ -18,10 +18,15 @@
 * [[python distilled]]
 * [[fluent python]]
 * [[Python_Brain_Teasers]]
+* [[Pandas_Brain_Teasers]]
+* [[Effective_python]]
+* [[High_performance_python]]
+* [[Architectural_patterns_in_python]]
 
 ### Deep Learning
 *  [[aamlp]] Approaching any machine learning problem.
 *  [[Math of Neural Networks]] Math of neural networks.
+* [[deep_learning_interviews]] Deep learning interviews
 
 ### Machine Learning
 * [[hands_on_ml]] Hands on Machine Learning with Scikit-Learn, Keras and Tensorflow. [url](https://blog.abhilashbabuj.com/Notes/hands_on_ml.html)
