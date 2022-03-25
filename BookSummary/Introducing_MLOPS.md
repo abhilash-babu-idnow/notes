@@ -1,2 +1,18 @@
 # Part 1 - What and Why?
+
+> MLOps vs ModelOps vs AIOps
+> __MLOps__ and __ModelOps__ are the same, but some might argue that __ModelOps__ is bit more generic in the sense that it also includes rule based models in addition to the ML models. __AIOps__ is a different thing altogether and deals with using AI for operations like AI for Devops solviing problems like predictive maintenance, predicting newtork failures etc in advance. 
+
+### Definition and Challenges
 - It is the standardization and streamlining of the Machine learning life cycle management. 
+
+![[Simplistic_ML_Model_Life_Cycle.png]]
+
+![[Realistic_ML_Model_Life_Cycle.png]]
+
+Challenges 
+
+- Changing Business needs and Changing Data. It is important to make sure that the model represents the actual Business requirements. 
+- Different tools and language is used by Business Leaders, Data scientists, Analysts, Data Engineers, DevOps engineers etc. 
+- Data scientists have to often juggle between many roles and often end up with maintaining and deploying a lot of models and sometime models that they didn't even develop. The whole situation then become very complex and chaotic. 
+- 

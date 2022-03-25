@@ -224,4 +224,11 @@ What is the answer?
 ```python
 import pandas as pd
 
+cities = pd.DataFrame([
+	('Vienna', 'Austria', 1_899_055),
+	('Sofia', 'Bulgaria', 1_238_438),
+	('Tekirdag', 'Turkey', 1_055_412),
+	], columns=['City', 'Country', 'Population']
+)
+
 ```
