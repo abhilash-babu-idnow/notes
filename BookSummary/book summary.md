@@ -17,9 +17,9 @@
 * [[robust python]]
 * [[python distilled]]
 * [[fluent python]]
-* [[Python_Brain_Teasers]] [url](https://blog.abhilashbabuj.com/Notes/effective_python.html)
+* [[Python_Brain_Teasers]] [url](https://blog.abhilashbabuj.com/Notes/python_puzzles.html)
 * [[Pandas_Brain_Teasers]] [url]((https://blog.abhilashbabuj.com/Notes/pandas_puzzles.html))
-* [[Effective_python]] [url](https://blog.abhilashbabuj.com/Notes/hands_on_ml.html)
+* [[Effective_python]] [url](https://blog.abhilashbabuj.com/Notes/effective_python.html)
 * [[High_performance_python]]
 * [[Architectural_patterns_in_python]]
 
