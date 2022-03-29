@@ -26,3 +26,17 @@ Challenges
 - Define Business goals, questions and KPIs (Key performance Indidcators)
 - Without inputs from SMEs the models developed by Data Scientits might not bring a lot of value to the business
 - Which would lead to less business outcomes which would mean that there wouldn't be more budget for ML projects
+- SMEs close the feedback loop by making sure that the model is working as expected. The model metrics will only tell you if the model is working with respect to the data. But SMEs can provide feedback whether the model is answering the business questions and serving the business goals. 
+- MLOps should be designed in such a way that
+	- SMEs should be able to flag in a scalable way if the model performance drifts.
+	- It is transparent to SMEs how the model works, what data processes are being used. 
+	- It should be easy for the SMEs to make sure that ML models cater to the internal and external regulations audits etc. 
+	- It works as a medium of communication between SMEs and Data scientists.
+	- It helps the SMEs understand why the model arrived at a particular outcome (Responsible AI)
+
+### Data Scientists
+
+# Part 2 - MLOps How?
+## Developing Models
+![[Pasted image 20220329221757.png]]
+
