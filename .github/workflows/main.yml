@@ -40,6 +40,8 @@ jobs:
           pandoc -s -V revealjs-url=revealjs/reveal.js-master/dist -t revealjs -f markdown -o public/practices_of_agile_developer.html BookSummary/practices_of_agile_developer.md --slide-level 2
           pandoc -s -V revealjs-url=revealjs/reveal.js-master/dist -t revealjs -f markdown -o public/domain_storytelling.html BookSummary/domain_storytelling.md --slide-level 2
           pandoc -s -V revealjs-url=revealjs/reveal.js-master/dist -t revealjs -f markdown -o public/pandas_puzzles.html BookSummary/Pandas_Brain_Teasers.md --slide-level 2
+          pandoc -s -V revealjs-url=revealjs/reveal.js-master/dist -t revealjs -f markdown -o public/python_puzzles.html BookSummary/Python_Brain_Teasers.md --slide-level 2
+          pandoc -s -V revealjs-url=revealjs/reveal.js-master/dist -t revealjs -f markdown -o public/effective_python.html BookSummary/Effective_Python.md --slide-level 2
 
 
       - name: publish

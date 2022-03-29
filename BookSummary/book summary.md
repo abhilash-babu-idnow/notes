@@ -17,9 +17,9 @@
 * [[robust python]]
 * [[python distilled]]
 * [[fluent python]]
-* [[Python_Brain_Teasers]]
-* [[Pandas_Brain_Teasers]]
-* [[Effective_python]]
+* [[Python_Brain_Teasers]] [url](https://blog.abhilashbabuj.com/Notes/effective_python.html)
+* [[Pandas_Brain_Teasers]] [url]((https://blog.abhilashbabuj.com/Notes/pandas_puzzles.html))
+* [[Effective_python]] [url](https://blog.abhilashbabuj.com/Notes/hands_on_ml.html)
 * [[High_performance_python]]
 * [[Architectural_patterns_in_python]]
 
@@ -33,17 +33,19 @@
 * [[python_machine_learning]] Python machine learning by Sebastian Raschka
 * [[statisical_rethinking]]
 * [[Introducing_MLOPS]]  Introduction to MLOPs
+* [[Data_science_at_command_line]] Data science at command line
 
 ### Software Engineering
 *  [[Refactoring]] Book on refactoring by Martin Fowler.
 *  [[practices_of_agile_developer]] [Practices of agile developer](https://blog.abhilashbabuj.com/Notes/practices_of_agile_developer.html)
 
 ### Scripting
-*  [[power shell in action]] Power shell in action 2nd edition.
+* [[power shell in action]] Power shell in action 2nd edition.
+* [[Bash_Idioms]] Bash Idioms
 
 ### Productivity, Learning and Self help
-*  [[accelerated learning]]
-*  [[atomic habits]]
+* [[accelerated learning]]
+* [[atomic habits]]
 * [[Own your tech career abstract]]
 
 ### Misc
