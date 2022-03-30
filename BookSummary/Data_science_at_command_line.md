@@ -1,4 +1,4 @@
-![[Pasted image 20220320114514.png]]
+![[Datascience_process.png]]
 
 Data science is awesome (OSEMN) 
 - Obtain
@@ -29,4 +29,11 @@ Data science is awesome (OSEMN)
 	- Communicating your results
 
 ---
+
+__Five types of Command line tools__
+1. Binary executable
+2. Shell builtin
+3. Interpreted script
+4. Shell function
+5. Alias
 
