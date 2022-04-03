@@ -94,7 +94,7 @@ cat movies.txt 404.txt 2 > /dev/null
 
 
 ### Chapter 3 - Obtaining Data
-### Chapter 4 - Project Management with make
+### Chapter 6 - Project Management with make
 Why make?
 - formalize your data workflow steps in terms of input and output dependencies
 - run specific steps of your workflow
@@ -128,4 +128,19 @@ numbers:
 
 Willl write the sequence of numbers in to a file called numbers.
 
+
+![[makefile_example_2.png]]
+
+- Default shell is sh. SHELL := bash tells make to use bash shell
+- By default every line in a rule is sent seperately to shell. With special target .ONESHELL we can override this so the rule top10 works.
+- .SHELLFLAGS makes bash more strict. 
+- $< expands to the nae of the first prerequisite.
+
+### Chapter 7 - Exploring Data
+Three perspectives
+- Inspect data and its properties - number of features, number of observations etc
+- Descriptive stats - features stats, mean, std etc.
+- Visualizations of the data - plots
+
+### Chapter 8 - Parallel Pipelines
 
