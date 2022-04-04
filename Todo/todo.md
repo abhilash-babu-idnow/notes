@@ -1,0 +1,8 @@
+- [ ] Create a keras example for object count model
+- [ ] Create a Deep learning model using
+	- [ ] Julia
+	- [ ] Clojure
+	- [ ] Kotlin
+	- [ ] FastAI
+	- [ ] Pytorch Lightning
+- [ ] Checkout hydra

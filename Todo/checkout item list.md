@@ -1,0 +1,27 @@
+- [ ]  [Flower - Federated Learning Framework](https://flower.dev/)
+- [ ]  [Blog on federated AI](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
+- [ ]  https://layout-parser.readthedocs.io/en/latest/
+- [ ]  https://ocr-d.de/en/contact
+- [ ]  [Layout Parser Paper](https://arxiv.org/pdf/2103.15348.pdf)
+- [ ]  [Facial Landmarks - PFLD](https://github.com/polarisZhao/PFLD-pytorch)
+- [ ]  [OpenMMLab](https://github.com/open-mmlab)
+- [ ]  [Detecton2](https://detectron2.readthedocs.io/en/latest/index.html)
+- [ ]  [Class Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
+- [ ] [Google developers GAN Course](https://developers.google.com/machine-learning/gan)
+- [ ] [Blog on autoencoders](https://heartbeat.comet.ml/essential-guide-to-auto-encoders-in-data-science-part-2-431c3d069f90)
+- [ ] Hypothesis - python testing library
+- [ ] msgpack - [url](msgpack.org)  There are no julia bindings. How about writing one ;)
+- [ ] tensorboardx - tensorboard for pytorch
+- [ ]  [Hashicorp recorded webinars](https://www.hashicorp.com/events/webinars/recorded?type=all)
+- [ ] [Graph algorithms](https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513)
+- [ ] [KNIME self paced course](https://www.knime.com/knime-self-paced-courses?utm_source=pardot&utm_medium=email&utm_term=&utm_content=&utm_campaign=KNIME-Inside)
+- [ ]  [ray.io](https://www.ray.io/)
+- [ ] [pyfeat - Python facial expression analysis toolbox](https://github.com/cosanlab/py-feat)
+- [ ] [Light weight face landmarks model](https://github.com/deepinsight/insightface/tree/master/alignment/coordinate_reg)
+- [ ] [Pytorch face landmark detection](https://github.com/cunjian/pytorch_face_landmark)
+- [ ] [InsightFace: 2D and 3D Face Analysis Project](https://github.com/deepinsight/insightface)
+- [ ] [Retina face](https://github.com/deepinsight/insightface/tree/master/detection/retinaface)
+- [ ] [Pytorch implementation of Faceboxes](https://github.com/zisianw/FaceBoxes.PyTorch)
+- [ ] [RFBNet](https://github.com/GOATmessi7/RFBNet)
+- [ ] [Img2Pose](https://github.com/vitoralbiero/img2pose)
+- [ ] [Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
