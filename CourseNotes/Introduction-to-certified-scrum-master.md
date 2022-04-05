@@ -31,3 +31,11 @@
 ![[Agile_manifesto_values.png]]
 
 ![[Agile_manifesto_principles.png]]
+
+
+- Agile vs Waterfall
+
+
+![[agile_vs_waterfall.png]]
+
+![[Pasted image 20220405230855.png]]

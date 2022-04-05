@@ -36,13 +36,21 @@ Finished reading on :
 	- To read/write binary data from/to file use ```'rb' or 'wb'```
 
 ---
+- Item 4 - Prefer Interpolated F-strings over c - style format strings and str.format
 
-- Item 4 - Write helper functions instead of Complex Expressions.
+---
+
+- Item 5 - Write helper functions instead of Complex Expressions.
 	- it is tempting to use single line complex single line expressions but it makes it difficult to read. 
 	- Move complex expressions to helper functions
 	- Use if/else expression instead of _or_ and _and_ in expressions to make it more readable
 
 ---
 
-- Item 5 - Know how to slice sequences
-	- 
+- Item 6 - Prefer Multiple Assignment Unpacking Over Indexing.
+
+```python
+snacks = [('bacon', 350), ('donut', 240), ('muffin', 190)]
+for rank, (name, calories) in enumerate(snacks, 1):
+	print(f"#{rank} : {name} - {calories}")
+```
