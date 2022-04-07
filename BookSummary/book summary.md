@@ -1,31 +1,31 @@
-# List of book summaries. 
+# List of book summaries.
 
 ## Programming
 ### Version control
-*  [[git_notes]] Notes from the book, "A hackers guide to git"
-*  [[version_control_by_example]] Notes from the book "Version control by example"
+* [[git_notes]] Notes from the book, "A hackers guide to git"
+* [[version_control_by_example]] Notes from the book "Version control by example"
 
 ### C++
-*  [[Tour of C++]]
-*  [[C++ Crash course]]
+* [[Tour of C++]]
+* [[C++ Crash course]]
 
 ### Python
-*  [[pytest_notes]] Python tesing using pytest. [url](https://blog.abhilashbabuj.com/Notes/pytest.html)
-*  [[practices_of_the_python_pro]] Practices of the Python Pro.
-*  [[python_machine_learning]] Python machine learning by Sebastian Raschka
+* [[pytest_notes]] Python tesing using pytest. [url](https://blog.abhilashbabuj.com/Notes/pytest.html)
+* [[practices_of_the_python_pro]] Practices of the Python Pro.
+* [[python_machine_learning]] Python machine learning by Sebastian Raschka
 * [[cpython internals]]
 * [[robust python]]
 * [[python distilled]]
-* [[fluent python]]
+* [[Fluent_python]]
 * [[Python_Brain_Teasers]] [url](https://blog.abhilashbabuj.com/Notes/python_puzzles.html)
-* [[Pandas_Brain_Teasers]] [url]((https://blog.abhilashbabuj.com/Notes/pandas_puzzles.html))
+* [[Pandas_Brain_Teasers]] [url](https://blog.abhilashbabuj.com/Notes/pandas_puzzles.html)
 * [[Effective_python]] [url](https://blog.abhilashbabuj.com/Notes/effective_python.html)
 * [[High_performance_python]]
 * [[Architectural_patterns_in_python]]
 
 ### Deep Learning
-*  [[aamlp]] Approaching any machine learning problem.
-*  [[Math of Neural Networks]] Math of neural networks.
+* [[aamlp]] Approaching any machine learning problem.
+* [[Math of Neural Networks]] Math of neural networks.
 * [[deep_learning_interviews]] Deep learning interviews
 
 ### Machine Learning
@@ -34,6 +34,7 @@
 * [[statisical_rethinking]]
 * [[Introducing_MLOPS]]  Introduction to MLOPs
 * [[Data_science_at_command_line]] Data science at command line
+* [[Building_data_science_applications_with_fast_api]]  Building data science applications with FastAPI.
 
 ### Software Engineering
 *  [[Refactoring]] Book on refactoring by Martin Fowler.
@@ -41,7 +42,8 @@
 
 ### Scripting
 * [[power shell in action]] Power shell in action 2nd edition.
-* [[Bash_Idioms]] Bash Idioms
+* [[Bash_Idioms]] Bash Idioms [notes](https://blog.abhilashbabuj.com/Notes/bash_idioms.html)
+
 
 ### Productivity, Learning and Self help
 * [[accelerated learning]]
