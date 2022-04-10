@@ -6,8 +6,8 @@
 * [[version_control_by_example]] Notes from the book "Version control by example"
 
 ### C++
-* [[Tour of C++]]
-* [[C++ Crash course]]
+* [[Tour of C++]] Tour of C++
+* [[C++ Crash course]] C++ Crash Course
 
 ### Python
 * [[pytest_notes]] Python tesing using pytest. [url](https://blog.abhilashbabuj.com/Notes/pytest.html)
@@ -31,14 +31,14 @@
 ### Machine Learning
 * [[hands_on_ml]] Hands on Machine Learning with Scikit-Learn, Keras and Tensorflow. [url](https://blog.abhilashbabuj.com/Notes/hands_on_ml.html)
 * [[python_machine_learning]] Python machine learning by Sebastian Raschka
-* [[statisical_rethinking]]
+* [[statisical_rethinking]] Statistical Rethinking
 * [[Introducing_MLOPS]]  Introduction to MLOPs
 * [[Data_science_at_command_line]] Data science at command line
 * [[Building_data_science_applications_with_fast_api]]  Building data science applications with FastAPI.
 
 ### Software Engineering
-*  [[Refactoring]] Book on refactoring by Martin Fowler.
-*  [[practices_of_agile_developer]] [Practices of agile developer](https://blog.abhilashbabuj.com/Notes/practices_of_agile_developer.html)
+* [[Refactoring]] Book on refactoring by Martin Fowler.
+* [[practices_of_agile_developer]] [Practices of agile developer](https://blog.abhilashbabuj.com/Notes/practices_of_agile_developer.html)
 
 ### Scripting
 * [[power shell in action]] Power shell in action 2nd edition.
@@ -46,9 +46,9 @@
 
 
 ### Productivity, Learning and Self help
-* [[accelerated learning]]
-* [[atomic habits]]
-* [[Own your tech career abstract]]
+* [[accelerated learning]] Accelerated Learning
+* [[atomic habits]] Atomic Habits
+* [[Own your tech career abstract]] Own your tech career
 
 ### Misc
-*  [[Brilliant Answers to tough interview questions]]
+*  [[Brilliant Answers to tough interview questions]] Brilliant Anwers to tough interview questions
