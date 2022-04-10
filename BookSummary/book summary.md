@@ -13,15 +13,15 @@
 * [[pytest_notes]] Python tesing using pytest. [url](https://blog.abhilashbabuj.com/Notes/pytest.html)
 * [[practices_of_the_python_pro]] Practices of the Python Pro.
 * [[python_machine_learning]] Python machine learning by Sebastian Raschka
-* [[cpython internals]]
-* [[robust python]]
-* [[python distilled]]
-* [[Fluent_python]]
-* [[Python_Brain_Teasers]] [url](https://blog.abhilashbabuj.com/Notes/python_puzzles.html)
-* [[Pandas_Brain_Teasers]] [url](https://blog.abhilashbabuj.com/Notes/pandas_puzzles.html)
-* [[Effective_python]] [url](https://blog.abhilashbabuj.com/Notes/effective_python.html)
-* [[High_performance_python]]
-* [[Architectural_patterns_in_python]]
+* [[cpython internals]] CPython Internals
+* [[robust python]] Robust Python
+* [[python distilled]] Python Distilled
+* [[Fluent_python]] Fluent Python
+* [[Python_Brain_Teasers]] Python Brain Teasers [url](https://blog.abhilashbabuj.com/Notes/python_puzzles.html)
+* [[Pandas_Brain_Teasers]] Pandas Brain Teasers [url](https://blog.abhilashbabuj.com/Notes/pandas_puzzles.html)
+* [[Effective_python]] Effective Python[url](https://blog.abhilashbabuj.com/Notes/effective_python.html)
+* [[High_performance_python]] High Performance Python
+* [[Architectural_patterns_in_python]] Architectural Patterns in Python
 
 ### Deep Learning
 * [[aamlp]] Approaching any machine learning problem.
