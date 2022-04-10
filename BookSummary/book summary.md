@@ -15,20 +15,20 @@
 * [[python_machine_learning]] Python machine learning by Sebastian Raschka
 * [[cpython internals]] CPython Internals
 * [[robust python]] Robust Python
-* [[python distilled]] Python Distilled
-* [[Fluent_python]] Fluent Python
+* [[python distilled]] Python Distilled [url](https://blog.abhilashbabuj.com/Notes/python_distilled.html)
+* [[Fluent_python]] Fluent Python [url](https://blog.abhilashbabuj.com/Notes/fluent_python.html)
 * [[Python_Brain_Teasers]] Python Brain Teasers [url](https://blog.abhilashbabuj.com/Notes/python_puzzles.html)
 * [[Pandas_Brain_Teasers]] Pandas Brain Teasers [url](https://blog.abhilashbabuj.com/Notes/pandas_puzzles.html)
-* [[Effective_python]] Effective Python[url](https://blog.abhilashbabuj.com/Notes/effective_python.html)
-* [[High_performance_python]] High Performance Python
+* [[Effective_python]] Effective Python [url](https://blog.abhilashbabuj.com/Notes/effective_python.html)
+* [[High_performance_python]] High Performance Python [url](https://blog.abhilashbabuj.com/Notes/high_performance_python.html)
 * [[Architectural_patterns_in_python]] Architectural Patterns in Python
 
-### Deep Learning
+---
+
+### Machine Learning
 * [[aamlp]] Approaching any machine learning problem.
 * [[Math of Neural Networks]] Math of neural networks.
 * [[deep_learning_interviews]] Deep learning interviews
-
-### Machine Learning
 * [[hands_on_ml]] Hands on Machine Learning with Scikit-Learn, Keras and Tensorflow. [url](https://blog.abhilashbabuj.com/Notes/hands_on_ml.html)
 * [[python_machine_learning]] Python machine learning by Sebastian Raschka
 * [[statisical_rethinking]] Statistical Rethinking
@@ -36,19 +36,26 @@
 * [[Data_science_at_command_line]] Data science at command line
 * [[Building_data_science_applications_with_fast_api]]  Building data science applications with FastAPI.
 
+---
+
 ### Software Engineering
 * [[Refactoring]] Book on refactoring by Martin Fowler.
 * [[practices_of_agile_developer]] [Practices of agile developer](https://blog.abhilashbabuj.com/Notes/practices_of_agile_developer.html)
+
+---
 
 ### Scripting
 * [[power shell in action]] Power shell in action 2nd edition.
 * [[Bash_Idioms]] Bash Idioms [notes](https://blog.abhilashbabuj.com/Notes/bash_idioms.html)
 
+---
 
 ### Productivity, Learning and Self help
 * [[accelerated learning]] Accelerated Learning
 * [[atomic habits]] Atomic Habits
 * [[Own your tech career abstract]] Own your tech career
+
+---
 
 ### Misc
 *  [[Brilliant Answers to tough interview questions]] Brilliant Anwers to tough interview questions
