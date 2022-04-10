@@ -34,7 +34,8 @@ jobs:
           mv public/revealjs/reveal.js-master/dist/*.js* public/revealjs/reveal.js-master/dist/js
           mv public/revealjs/reveal.js-master/dist/*.css public/revealjs/reveal.js-master/dist/css
           cp -R public/revealjs/reveal.js-master/dist/theme public/revealjs/reveal.js-master/dist/css
-          pandoc -s -f markdown -o public/index.html "BookSummary/book summary.md" -c sakura-dark-solarized.css
+          python3 build.py
+          pandoc -s -f markdown -o public/index.html "BookSummary/index.md" -c sakura-dark-solarized.css
           pandoc -s -f markdown -o public/pytest.html "BookSummary/pytest_notes.md" -c sakura-dark-solarized.css
           pandoc -s -f markdown -o public/hands_on_ml.html "BookSummary/hands_on_ml.md" -c sakura-dark-solarized.css
           pandoc -s -f markdown -o public/bash_idioms.html "BookSummary/Bash_Idioms.md" -c sakura-dark-solarized.css
