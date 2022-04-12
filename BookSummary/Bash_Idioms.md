@@ -3,7 +3,7 @@ start date: 18-03-2022
 
 ---
 
-- If  -- This bash idiom provides the conditional execution of second command. The second command is run only if the first doesn't fail. 
+- If  -- This bash idiom provides the conditional execution of second command. The second command is run only if the first doesn't fail.
 
 ```bash
 [[ -n "$DIR" ]] && cd "$DIR"
@@ -60,7 +60,7 @@ cd /tmp || { echo "cd to /tmp failed" ; exit ; }
 
 - More than one again
 
-> `&&` and `||` operators have the same precedence and are left associative. 
+> `&&` and `||` operators have the same precedence and are left associative.
 
 ```bash
 $ echo 1 && echo 2 || echo 3
@@ -83,7 +83,7 @@ prints 1 and 3
 Instead of this
 
 ```bash
-if [ $VAR"X" = X ]; then 
+if [ $VAR"X" = X ]; then
 	echo empty
 fi;
 ```
@@ -91,7 +91,7 @@ fi;
 Use this
 
 ```bash
-if [[ -Z "$VAR" ]]; then 
+if [[ -Z "$VAR" ]]; then
 	echo empty
 fi;
 ```

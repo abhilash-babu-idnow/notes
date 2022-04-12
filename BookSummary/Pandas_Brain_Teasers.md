@@ -6,7 +6,7 @@ What is the output?
 import pandas as pd
 
 def relu(n):
-	if n < 0: 
+	if n < 0:
 		return 0
 	return n
 
@@ -16,16 +16,16 @@ print(relu(arr))
 
 ---
 
-Answer: Value Error. 
+Answer: Value Error.
 
-Pandas series / dataframe  - Truth value is ambiguous. Use ``` a.empty() a.bool() a.item() a.any() a.all()```  etc 
+Pandas series / dataframe  - Truth value is ambiguous. Use ``` a.empty() a.bool() a.item() a.any() a.all()```  etc
 
 ```python
 import numpy as np
 
 @np.vectorize
 def relu(n):
-	if n < 0: 
+	if n < 0:
 		return 0
 	return n
 
@@ -51,7 +51,7 @@ print('Bart' in simpsons)
 
 Answer: False
 
-Pandas series acts like a dict with index as the key and values as values of a dict. So inorder to make this work we will have to use 
+Pandas series acts like a dict with index as the key and values as values of a dict. So inorder to make this work we will have to use
 
 ```python
 print('Bart' in simpsons.values)
@@ -128,9 +128,9 @@ print(nums[(nums > 2) and  (nums < 5)])
 
 Answer : Value Error
 
-`and` is invoked on two Boolean series and that raises an error. So use 
+`and` is invoked on two Boolean series and that raises an error. So use
 
-- `&`  instead of `and` 
+- `&`  instead of `and`
 - `|` instead of `or`
 - `~` instead of `not`
 
@@ -205,7 +205,7 @@ print(df)
 ---
 
 Answer:
-Warning and df is not updated 
+Warning and df is not updated
 
 Reason: pandas tries to avoid copying of data. It is returning a view.
 
@@ -232,3 +232,95 @@ cities = pd.DataFrame([
 )
 
 ```
+
+@todo
+
+---
+
+- Puzzle 19 - Holding out for a Hero
+
+What is the answer?
+
+```python
+import pandas as pd
+
+heros = pd.Series(['Batman', 'Wonder Woman', 'Superman'])
+
+if heros.str.find('Iron Man').any():
+	print('Wrong Universe')
+else:
+	print('DC')
+```
+
+---
+
+Answer:  `Wrong Universe`
+
+Reasson: `str.find`  return -1 if find fails. So `any()`  returns true because all the values are `-1`
+
+Solution:  Instead of find use  `==`
+
+---
+
+- Puzzle 20 - It's a Date
+
+What is the answer?
+
+```python
+import pandas as pd
+
+start = pd.Timestamp.fromtimestamp(0).strftime('%Y-%m-%d')
+times = pd.date_range(start=start, freq='M', periods=2)
+
+```
+
+---
+
+Answer: DatetimeIndex['1970-01-31', '1970-02-28']
+
+Reason: Frequency M is end of Month Frequency
+
+---
+
+- Puzzle 21 -  What the points?
+
+```python
+
+import pandas as pd
+
+df = pd.DataFrame([[1,2], [3,4]], columns=['x', 'y'])
+print(df.to_csv())
+
+```
+
+---
+
+Answer: 
+
+```
+ , x, y
+0, 1, 2
+1, 3, 4
+```
+
+Reason: Prints the index value too. Pass index=False to omit the index.
+
+---
+
+- Puzzle 22 - Find me a Phone Booth
+
+```python
+import pandas as pd
+
+df1 = pd.DataFrame(['id' : [1, 2, 3]],
+				   name = {['Clark Kent', ' Diana Prince', 'Bruce Wayne']})
+
+df2 = pd.DataFrame(['id' : [2, 1, 4]], 
+				   name = {['Superman', 'Wonderwoman', 'Aquaman']})
+df = pd.merge(df1, df2, on='id')
+print(df)
+```
+
+---
+
+Answer: 
