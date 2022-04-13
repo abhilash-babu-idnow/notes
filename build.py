@@ -1,7 +1,7 @@
 from pathlib import Path
 import re
 
-summary = Path.cwd() / "BookSummary" / "book summary.md"
+summary = Path.cwd() / "BookSummary" / "Summary.md"
 
 lines = []
 with open(summary) as f:
