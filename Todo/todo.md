@@ -6,3 +6,12 @@
 	- [ ] FastAI
 	- [ ] Pytorch Lightning
 - [ ] Checkout hydra
+- [ ] Build Object detection model using 
+	- [ ] Detectron 2
+	- [ ] YOLOv5
+	- [ ] MMDetection
+	- [ ] Tensorflow Object Detection API
+- [ ] Checkout the tool fifteyone
+- [ ] Checkout wandb.ai
+- [ ] Checkout Falcon framework
+- [ ] Checkout FastAPI

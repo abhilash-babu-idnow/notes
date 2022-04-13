@@ -1,26 +1,30 @@
-- Python packing options like pipx, pex etc. [[python packaging]] #python
-- Explain how pyoxidizer works. [[pyoxidizer]] #python
-- Explain how pyinstaller works. [[pyinstaller]]
-- Blog about mobile net
-- How to do machine learning in C++
-	- Logistic regression in C++ (liblinear)
-	- Naive bayesian classifier in C++ 
-	- dlib
-	- libsvm
-	- shogun
-	- mlpack
-	- ml.net
-	- xgboost
-- Blog about libsodium
-- ~~Blog about libgit~~
-- Fischer vectors
-- VLAD
-- ~~Dithering~~
-- Chamfer distance
-- Template matching in Halcon
-- Hausdorff distance
-- Book summaries.
-- Circle fit methods
-	- Algebraic methods
-	- Geometric methods
-- NCC template matching. 
+- [ ] Python packing options like pipx, pex etc. [[python packaging]] #python 
+- [ ]  Explain how pyoxidizer works. [[pyoxidizer]] #python 
+- [ ]  Explain how pyinstaller works. [[pyinstaller]]
+- [ ]  Blog about mobile net
+- [ ]  How to do machine learning in C++
+	- [ ] Logistic regression in C++ (liblinear)
+	- [ ] Naive bayesian classifier in C++ 
+	- [ ] dlib
+	- [ ] libsvm
+	- [ ] shogun
+	- [ ] mlpack
+	- [ ] ml.net
+	- [ ] xgboost
+	- [ ] lightgbm
+	- [ ] catboost
+- [ ] Blog about libsodium
+- [x] Blog about libgit
+- [ ]  Fischer vectors
+- [ ] VLAD
+- [x]  Dithering
+- [ ] Chamfer distance
+- [ ] Hausdorff distance
+- [ ] Circle fit methods
+	- [ ] Algebraic methods
+	- [ ] Geometric methods
+- [ ] NCC template matching. 
+- [ ] Template Matching using DNN
+- [ ] Edge detection using DNN
+- [ ] Depthwise Convolutions
+- [ ] Packed Convolutions
