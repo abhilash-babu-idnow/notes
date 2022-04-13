@@ -5,7 +5,7 @@
 
 # Books
 [[Hands on Machine Learning]]
-[[aamlp]]
+[[Apporaching any Machine Learning Problem]]
 
 # Algorithms
 - [[svm]]
