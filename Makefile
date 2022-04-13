@@ -16,12 +16,12 @@ slide_flags = -s -V revealjs-url=revealjs/reveal.js-master/dist -t revealjs -f m
 
 out: index
 	pandoc $(flags) -o public/index.html "BookSummary/index.md" -c $(style)
-	pandoc $(flags) -o public/pytest.html "BookSummary/pytest_notes.md" -c $(style)
-	pandoc $(flags) -o public/hands_on_ml.html "BookSummary/hands_on_ml.md" -c $(style)
-	pandoc $(flags) -o public/bash_idioms.html "BookSummary/Bash_Idioms.md" -c $(style)
-	pandoc $(flags) -o public/ds_cmd_line.html "BookSummary/Data_science_at_command_line.md" -c $(style)
-	pandoc $(slide_flags) -o public/practices_of_agile_developer.html BookSummary/practices_of_agile_developer.md --slide-level 2
-	pandoc $(slide_flags) -o public/domain_storytelling.html BookSummary/domain_storytelling.md --slide-level 2
-	pandoc $(slide_flags) -o public/pandas_puzzles.html BookSummary/Pandas_Brain_Teasers.md --slide-level 2
-	pandoc $(slide_flags) -o public/python_puzzles.html BookSummary/Python_Brain_Teasers.md --slide-level 2
-	pandoc $(slide_flags) -o public/effective_python.html BookSummary/Effective_python.md --slide-level 2
+	pandoc $(flags) -o public/pytest.html "BookSummary/Pytest.md" -c $(style)
+	pandoc $(flags) -o public/hands_on_ml.html "BookSummary/Hands on Machine Learning.md" -c $(style)
+	pandoc $(flags) -o public/bash_idioms.html "BookSummary/Bash Idioms.md" -c $(style)
+	pandoc $(flags) -o public/ds_cmd_line.html "BookSummary/Data Science at Command Line.md" -c $(style)
+	pandoc $(slide_flags) -o public/practices_of_agile_developer.html "BookSummary/Practices of Agile Developers.md" --slide-level 2
+	pandoc $(slide_flags) -o public/domain_storytelling.html "BookSummary/Domain Storytelling.md" --slide-level 2
+	pandoc $(slide_flags) -o public/pandas_puzzles.html "BookSummary/Pandas Brain Teasers.md" --slide-level 2
+	pandoc $(slide_flags) -o public/python_puzzles.html "BookSummary/Python Brain Teasers.md" --slide-level 2
+	pandoc $(slide_flags) -o public/effective_python.html "BookSummary/Effective Python.md" --slide-level 2
