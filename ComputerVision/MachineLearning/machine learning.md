@@ -4,7 +4,8 @@
 [[scikit_learn]]
 
 # Books
-[[hands_on_ml]]
+[[Hands on Machine Learning]]
+[[aamlp]]
 
 # Algorithms
 - [[svm]]
