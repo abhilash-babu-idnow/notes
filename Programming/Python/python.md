@@ -1,4 +1,4 @@
-[[programming]]
+[[Programming]]
 
 [[Difference between NamedTuple and Data classes]]
 

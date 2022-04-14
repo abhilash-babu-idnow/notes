@@ -1,8 +1,13 @@
+---
+title: Notes
+author: Abhilash Babu
+date: <today>
+...
 
-[[deutsch|German Language]]
+# Notes
 
-[[Summary|Book Summary]]
-
-[[deeplearning|Deep Learning]]
-
-[[programming]]
+- [[Programming]]
+- [[ComputerVision]]
+- [[SoftwareEngineering]]
+- [[deutsch|Languages]]
+- [[Summary|BookSummary]]

@@ -1,4 +1,4 @@
-[[programming]]
+[[Programming]]
 
 Placeholder for all C++ related notes.
 

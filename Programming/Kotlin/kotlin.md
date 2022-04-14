@@ -1,4 +1,4 @@
-[[programming]]
+[[Programming]]
 
 ### Book summaries
 [[big_nerd_ranch_guide]]
