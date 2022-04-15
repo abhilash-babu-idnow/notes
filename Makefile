@@ -22,6 +22,6 @@ out: index
 	pandoc $(flags) -o public/ds_cmd_line.html "BookSummary/Data Science at Command Line.md" -c $(style) --metadata pagetitle="Data Science at Command Line"
 	pandoc $(slide_flags) -o public/practices_of_agile_developer.html "BookSummary/Practices of Agile Developer.md" --slide-level 2
 	pandoc $(slide_flags) -o public/domain_storytelling.html "BookSummary/Domain Storytelling.md" --slide-level 2
-	pandoc $(slide_flags) -o public/pandas_puzzles.html "BookSummary/Pandas Brain Teasers.md" --slide-level 2
-	pandoc $(slide_flags) -o public/python_puzzles.html "BookSummary/Python Brain Teasers.md" --slide-level 2
+	pandoc $(slide_flags) -o public/pandas_brain_teasers.html "BookSummary/Pandas Brain Teasers.md" --slide-level 2
+	pandoc $(slide_flags) -o public/python_brain_teasers.html "BookSummary/Python Brain Teasers.md" --slide-level 2
 	pandoc $(slide_flags) -o public/effective_python.html "BookSummary/Effective Python.md" --slide-level 2
