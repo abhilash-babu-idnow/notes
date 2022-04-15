@@ -11,7 +11,7 @@ with open(summary) as f:
             desc = match.groups()[0]
             html_name = desc.replace(' ', '_')
             html_name = html_name.lower()
-            lines.append(f"- [{desc}](https://blog.abhilashbabuj.com/Notes/{html_name}.html)\n")
+            lines.append(f"- [{desc}](https://blog.abhilashbabuj.com/notes/{html_name}.html)\n")
         else:
             lines.append(line)
 
