@@ -5,8 +5,6 @@ SHELL := bash
 
 .PHONY: all
 
-all: index out
-
 index:
 	python3 build.py
 
