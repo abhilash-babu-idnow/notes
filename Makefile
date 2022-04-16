@@ -5,6 +5,8 @@ SHELL := bash
 
 .PHONY: all
 
+all: out
+
 index:
 	python3 build.py
 
@@ -24,8 +26,12 @@ slide_flags = -s -V revealjs-url=revealjs/reveal.js-master/dist -t revealjs -f m
 # 	pandoc $(slide_flags) -o public/python_brain_teasers.html "BookSummary/Python Brain Teasers.md" --slide-level 2
 # 	pandoc $(slide_flags) -o public/effective_python.html "BookSummary/Effective Python.md" --slide-level 2
 
-out: index
-	pandoc $(flags) -o public/index.html "BookSummary/index.md" -c $(style) --metadata pagetitle="Book Summaries"
+
+MD_FILES=$(wildcard BookSummary/*.md)
+HTML_FILES=$(patsubst BookSummary/%.md, public/%.html, $(MD_FILES))
 
 public/%.html : BookSummary/%.md
 	pandoc $(flags) -o $@ $< -c $(style)
+
+out: index $(HTML_FILES)
+	pandoc $(flags) -o public/index.html "BookSummary/index.md" -c $(style) --metadata pagetitle="Book Summaries"
