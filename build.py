@@ -3,6 +3,7 @@
 from pathlib import Path
 import re
 from shutil import copyfile
+import subprocess
 import os
 
 summary = Path.cwd() / "BookSummary" / "Summary.md"
@@ -26,9 +27,14 @@ with open(Path.cwd() / "public" / "index.md", "w") as f:
 book_summary_path = Path.cwd() / "BookSummary"
 
 for md_file in book_summary_path.rglob("*.md"):
+    if md_file.stem.lower() == 'summary':
+        continue
     old_fname = md_file.name
     new_fname = old_fname.replace(" ", "_")
     new_fname = new_fname.lower()
     dest_path = Path.cwd() / "public" / new_fname
     copyfile(str(md_file), str(dest_path))
-    os.system(f"pandoc -o {dest_path.with_suffix('.html')} {dest_path} -c sakura-dark-solarized.css")
+    command = f"pandoc -s -f markdown -o {dest_path.with_suffix('.html')} {dest_path} -c sakura-dark-solarized.css"
+    print(command)
+    subprocess.run(command, capture_output=True)
+subprocess.run(f"pandoc -s -f -o public/index.html public/index.md -c sakura-dark-solarized.css", shell=True)
