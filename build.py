@@ -1,3 +1,5 @@
+#!/bin/python3
+
 from pathlib import Path
 import re
 from shutil import copyfile
@@ -29,4 +31,4 @@ for md_file in book_summary_path.rglob("*.md"):
     new_fname = new_fname.lower()
     dest_path = Path.cwd() / "public" / new_fname
     copyfile(str(md_file), str(dest_path))
-    os.system(f"pandoc -o {dest_path.with_suffix('.html')} {dest_path} -c style1.css")
+    os.system(f"pandoc -o {dest_path.with_suffix('.html')} {dest_path} -c sakura-dark-solarized.css")
