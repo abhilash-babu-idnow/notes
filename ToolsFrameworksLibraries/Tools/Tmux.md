@@ -1,10 +1,34 @@
-```
+```bash
+# Split window
 bind | split-window -h
 bind - split-window -v
 
+# Select pane
+bind h select-pane -L
+bind l select-pane -R
+bind j select-pane -D
+bind k select-pane -U
+
+# Select pane witout prefix
+bind -n M-h select-pane -L
+bind -n M-l select-pane -R
+bind -n M-j select-pane -D
+bind -n M-k select-pane -U
+
+# Close Pane without prompt
+bind x kill-pane
+bind X kill-session
+
+# swap windows with shift+arrow with prefix
+bind-key S-Left swap-window -t -1
+bind-key S-Right swap-window -t +1
+
+# Count windows from one instead of zero
 set -g base-index 1
+
 set -g mode-mouse on
 ```
+
 
 
 ## Useful commands
@@ -31,5 +55,28 @@ set -g mode-mouse on
 
 
 
+## Plugins
+1. Clone the github [repo](git clone https://github.com/tmux-plugins/tpm) to the folder  `~/.tmux/plugins/tpm)`  
+ 
+```
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
 
+2. Edit the tmux conf and add the following to the bottom 
 
+``` bash
+# List of plugins
+set -g @plugin 'tmux-plugins/tpm'
+set -g @plugin 'tmux-plugins/tmux-sensible'
+
+# Other examples:
+# set -g @plugin 'github_username/plugin_name'
+# set -g @plugin 'git@github.com:user/plugin'
+# set -g @plugin 'git@bitbucket.com:user/plugin'
+
+# Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
+run '~/.tmux/plugins/tpm/tpm'
+```
+
+3. Source the tmux conf or restart tmux
+4. Install plugins with the command `<prefix> I`
