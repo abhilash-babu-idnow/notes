@@ -34,6 +34,7 @@ jobs:
           mv public/revealjs/reveal.js-master/dist/*.js* public/revealjs/reveal.js-master/dist/js
           mv public/revealjs/reveal.js-master/dist/*.css public/revealjs/reveal.js-master/dist/css
           cp -R public/revealjs/reveal.js-master/dist/theme public/revealjs/reveal.js-master/dist/css
+          ls public/*.css
           echo "===="
           python3 build.py
           echo "===="
