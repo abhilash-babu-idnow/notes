@@ -66,6 +66,14 @@ set -g @continuum-restore 'on'
 
 ### Session
 
+| Command | What it does? |
+|---|---|
+| `<prefix> (` | Switch to previous session |
+|`<prefix> )`| Switch to next session |
+|`<prefix> s` | Choose from a list of sessions |
+|`<prefix> $`| Rename the session |
+|`<prefix> d`| Detach from the session |
+
 
 
 ## Plugins
