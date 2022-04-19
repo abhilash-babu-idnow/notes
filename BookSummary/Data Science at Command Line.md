@@ -94,6 +94,8 @@ cat movies.txt 404.txt 2 > /dev/null
 
 
 ### Chapter 3 - Obtaining Data
+### Chapter 4 - Create Command line tools
+
 ### Chapter 6 - Project Management with make
 Why make?
 - formalize your data workflow steps in terms of input and output dependencies
