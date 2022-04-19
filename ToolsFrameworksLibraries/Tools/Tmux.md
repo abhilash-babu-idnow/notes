@@ -27,7 +27,7 @@ bind-key S-Right swap-window -t +1
 set -g base-index 1
 
 # Enable mouse support
-set -g mode-mouse on
+set -g mouse on
 
 # -------------------------
 # Plugin configuration
