@@ -42,7 +42,8 @@ for md_file in book_summary_path.rglob("*.md"):
     copyfile(str(md_file), str(dest_path))
     if not dest_path.exists():
         logger.error(f"File {dest_path} doesn't exist")
-    command = f"pandoc -s -f markdown -o {dest_path.with_suffix('.html')} {dest_path} -c sakura-dark-solarized.css"
-    logger.info(command)
-    subprocess.run(command, capture_output=True)
+    else:
+        command = f"pandoc -s -f markdown -o {dest_path.with_suffix('.html')} {dest_path} -c sakura-dark-solarized.css"
+        logger.info(command)
+        subprocess.run(command, capture_output=True)
 subprocess.run(f"pandoc -s -f -o public/index.html public/index.md -c sakura-dark-solarized.css", shell=True)
