@@ -26,7 +26,20 @@ bind-key S-Right swap-window -t +1
 # Count windows from one instead of zero
 set -g base-index 1
 
+# Enable mouse support
 set -g mode-mouse on
+
+# -------------------------
+# Plugin configuration
+# -------------------------
+# restore vim sessions
+set -g @resurrect-strategy-vim 'session'
+# restore neovim sessions
+set -g @resurrect-strategy-nvim 'session'
+# restore panes
+set -g @resurrect-capture-pane-contents 'on'
+# restore last saved environment (automatically)
+set -g @continuum-restore 'on'
 ```
 
 

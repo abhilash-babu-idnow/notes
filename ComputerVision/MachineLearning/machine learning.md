@@ -2,6 +2,8 @@
 
 # Tools and Libraries
 [[scikit_learn]]
+[[PyTorch]]
+[[Tensorflow]]
 
 # Books
 [[Hands on Machine Learning]]

@@ -1,12 +1,6 @@
-[[frameworks]]
+## Frameworks and Tools
+[[Frameworks and Tools]]
 
-# Tools
-[[netron]]
-
-# Compiler Stack
-## Apache TVM
-[[tvm]]
-
-# Models
+##  Models
 * [[mobilenet]] Mobile Net #mobilenet
 * [[Inception]]
