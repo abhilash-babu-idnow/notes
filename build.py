@@ -5,8 +5,13 @@ import re
 from shutil import copyfile
 import subprocess
 import os
+import logging
+
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
 
 summary = Path.cwd() / "BookSummary" / "Summary.md"
+logger.info(summary)
 
 lines = []
 with open(summary) as f:
@@ -33,8 +38,11 @@ for md_file in book_summary_path.rglob("*.md"):
     new_fname = old_fname.replace(" ", "_")
     new_fname = new_fname.lower()
     dest_path = Path.cwd() / "public" / new_fname
+    logger.info(f"Copying {md_file} to {dest_path}")
     copyfile(str(md_file), str(dest_path))
+    if not dest_path.exists():
+        logger.error(f"File {dest_path} doesn't exist")
     command = f"pandoc -s -f markdown -o {dest_path.with_suffix('.html')} {dest_path} -c sakura-dark-solarized.css"
-    print(command)
+    logger.info(command)
     subprocess.run(command, capture_output=True)
 subprocess.run(f"pandoc -s -f -o public/index.html public/index.md -c sakura-dark-solarized.css", shell=True)
