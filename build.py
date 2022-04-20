@@ -30,10 +30,7 @@ with open(Path.cwd() / "public" / "index.md", "w") as f:
 
 book_summary_path = Path.cwd() / "BookSummary"
 
-ret = subprocess.run(f"pandoc -s -f -o public/index.html public/index.md", shell=True)
-logging.info(ret)
-ret = subprocess.run("ls -l public", capture_output=True)
-logging.info(ret)
+subprocess.run(f"pandoc -s -f -o public/index.html public/index.md", shell=True)
 for md_file in book_summary_path.rglob("*.md"):
     if md_file.stem.lower() == 'summary':
         continue
@@ -49,5 +46,4 @@ for md_file in book_summary_path.rglob("*.md"):
         logging.info(f"{dest_path} exists.")
         command = f"pandoc -s -f markdown -o {dest_path.with_suffix('.html')} {dest_path}"
         logging.info(command)
-        ret = subprocess.run(command, shell=True)
-        logging.info(ret)
+        subprocess.run(command, shell=True)
