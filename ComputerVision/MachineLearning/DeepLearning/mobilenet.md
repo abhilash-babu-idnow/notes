@@ -43,9 +43,9 @@ So the reduction in computational cost is
  
  * It has 28 layers
  
- ![[Pasted image 20201017053519.png]]
+ ![[Depthwise_seperable_convolutions.png]]
  
- ![[Pasted image 20201017053535.png]]
+ ![[mobile_net_architecture.png]]
  
  * Trained using Tensorflow
  * [[RMSProp]] was used in the original paper #todo
