@@ -3,4 +3,5 @@
 .lsp/
 .clj-kondo/
 package-lock.json
-public/
+public/*.md
+public/*.html
