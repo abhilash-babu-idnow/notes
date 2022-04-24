@@ -28,3 +28,51 @@ Notes from the book VIM 101 hacks and VIM
 	- `guG` current position to end of the file lower case
 	- `gUG` current position to end of the file upper case.
 
+-  Undo and Redo
+	- `u`
+	- `5u` undo last five changes. 
+	- `U` undo all changes
+	- `Ctrl - r`  redo changes
+
+- Add bullet point style to list of items
+	1. Select the text in Visual mode. 
+	2. Press `I`  and then press `Tab * Space`
+	3. Press `Esc Esc`
+
+- Scrolling 
+
+	| Key       |       Description|
+	|---          | ---|
+	| `Ctrl F`  | Scroll down the full page |
+	| `Ctrl B`  | Scroll up a full page |
+	| `Ctrl D`  | Scroll down half page |
+	| `Ctrl U`  | Scroll up half page |
+	| `Ctrl E`  | Scroll down one line |
+	| `Ctrl Y`  | Scroll up one line | 
+
+- Word Navigation 
+
+	|  Key | Description |
+	| --- | --- |
+	| `w`  / `W` | Beginning of next word/Word | 
+	| `e`  / `E` | End of next word / Word |
+	| `b`  / `B` | Beginning of previous word/Word |
+
+- Screen Navigation 
+
+	| Key | Description | 
+	| --- | --- |
+	| `H`  | Go to line 1 of the screen | 
+	| `M`  | Go to  middle of the screen | 
+	| `L`  | Go to tthe last line of the screen | 
+
+- Redraw screen with current line at top, bottom or middle
+
+	| Key | Description |
+	| --- | --- | 
+	| `z<Enter>` | top |
+	| `z-` | bottom |
+	| `z.` | middle | 
+	
+	
+	
