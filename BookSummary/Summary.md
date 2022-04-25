@@ -34,15 +34,20 @@
 
 ---
 
+
 ## DevOps
 ### Docker
-
 ### Kubernetes
 
+## Statistics
+- [[How to lie with Statistics]]
 
 ---
 
 ## Scripting
+### Bash
+- [[Bash Idioms]]
+
 ### Powershell
 - [[Powershell in Action]]
 - [[Powershell in a month of Lunches]]
