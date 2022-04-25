@@ -1,3 +1,5 @@
+% Book Summary
+
 # Book Summary
 ---
 
@@ -41,6 +43,7 @@
 
 ## Statistics
 - [[How to lie with Statistics]]
+- [[Statistical Rethinking]]
 
 ---
 
@@ -61,3 +64,7 @@
 
 ### Agile
 [[Practices of Agile Developer]]
+
+## Misc
+- [[Own your tech career abstract]]
+
