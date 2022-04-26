@@ -15,6 +15,7 @@ with open('result.pkl', 'rb') as f:
 	python_obj = pickle.load(f)
 ```
 
+
 - Avoid range() in Loops
 Use 
 ```python
@@ -37,5 +38,16 @@ for i in range(len(seq)):
 ```python
 value = x if cond else y
 ```
+
+
+
+### Data structure tips
+- Construct a single element tuple
+
+```python
+x = (0,)
+```
+
+Import thing is the __comma__ . Without the comma it will be an int
 
 - 
