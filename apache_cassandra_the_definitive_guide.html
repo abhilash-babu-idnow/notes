@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>apache_cassandra_the_definitive_guide</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="sakura-dark-solarized.css" />
+</head>
+<body>
+<p><strong>Chapter 1 - Beyond relational databases</strong></p>
+<blockquote>
+<p>If I had asked people what they wanted, they would have said faster horses - Henry Ford</p>
+</blockquote>
+<p><em>A Relational Model of Data for Large Shared Data Banks</em> , by Dr. Edgar F. Codd paper on Relational database.</p>
+<p>Problems with relational databases.</p>
+<ul>
+<li>Scalability problems.</li>
+<li>Joins can be slow</li>
+<li>Not suitable for high availability, particularly if the load is very high</li>
+</ul>
+<p><span class="citation" data-cites="todo">@todo</span> - read rest of the chapter which is mainly history of RDBMs and their disadvantages etc…</p>
+<p><strong>Chapter 2 - Introducing Cassandra</strong></p>
+<blockquote>
+<p>Distributed - Capable of running on multiple machines - You will need multiple machines to really realize any benefit from running Cassandra - It is designed and optimized for running on multiple data center racks or even geographically dispersed data centers.</p>
+</blockquote>
+<blockquote>
+<p>Decentralized - Every node is identical. There are no primary and secondary nodes. - Peer to peer architecture with a gossip protocol to sync the nodes. - So there is no single point failure, hence the high availability</p>
+</blockquote>
+<blockquote>
+<p>Elastic Scalability</p>
+</blockquote>
+<blockquote>
+<p>Row Oriented Partitioned Row Store Data in Cassandra is stored in sparse multidimensional hash tables. ie. for any given row there can be one or more columns, but each row doesn’t need to have the same columns Though Cassandra started of as a schema less database, but since version 3, option to dynamically adding columns was deprecated. One can still add columns but as a new variable to collections like sets and lists in CQL. So the best way to describe would be that Cassandra supports “flexible schema”</p>
+</blockquote>
+<blockquote>
+<p>High Performance.</p>
+</blockquote>
+</body>
+</html>

@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>pandas_puzzles</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <style type="text/css">
+a.sourceLine { display: inline-block; line-height: 1.25; }
+a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
+a.sourceLine:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode { white-space: pre; position: relative; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+code.sourceCode { white-space: pre-wrap; }
+a.sourceLine { text-indent: -1em; padding-left: 1em; }
+}
+pre.numberSource a.sourceLine
+  { position: relative; left: -4em; }
+pre.numberSource a.sourceLine::before
+  { content: attr(title);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; pointer-events: all; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {  }
+@media screen {
+a.sourceLine::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+  </style>
+  <link rel="stylesheet" href="sakura-dark-solarized.css" />
+</head>
+<body>
+<ul>
+<li>Puzzle 1</li>
+</ul>
+<p>What is the output?</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb1-1" title="1"><span class="im">import</span> pandas <span class="im">as</span> pd</a>
+<a class="sourceLine" id="cb1-2" title="2"></a>
+<a class="sourceLine" id="cb1-3" title="3"><span class="kw">def</span> relu(n):</a>
+<a class="sourceLine" id="cb1-4" title="4">    <span class="cf">if</span> n <span class="op">&lt;</span> <span class="dv">0</span>:</a>
+<a class="sourceLine" id="cb1-5" title="5">        <span class="cf">return</span> <span class="dv">0</span></a>
+<a class="sourceLine" id="cb1-6" title="6">    <span class="cf">return</span> n</a>
+<a class="sourceLine" id="cb1-7" title="7"></a>
+<a class="sourceLine" id="cb1-8" title="8">arr <span class="op">=</span> pd.Series([<span class="op">-</span><span class="dv">1</span>, <span class="dv">0</span>, <span class="dv">1</span>])</a>
+<a class="sourceLine" id="cb1-9" title="9"><span class="bu">print</span>(relu(arr))</a></code></pre></div>
+<hr />
+<p>Answer: Value Error.</p>
+<p>Pandas series / dataframe - Truth value is ambiguous. Use <code>a.empty() a.bool() a.item() a.any() a.all()</code> etc</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb2-1" title="1"><span class="im">import</span> numpy <span class="im">as</span> np</a>
+<a class="sourceLine" id="cb2-2" title="2"></a>
+<a class="sourceLine" id="cb2-3" title="3"><span class="at">@np.vectorize</span></a>
+<a class="sourceLine" id="cb2-4" title="4"><span class="kw">def</span> relu(n):</a>
+<a class="sourceLine" id="cb2-5" title="5">    <span class="cf">if</span> n <span class="op">&lt;</span> <span class="dv">0</span>:</a>
+<a class="sourceLine" id="cb2-6" title="6">        <span class="cf">return</span> <span class="dv">0</span></a>
+<a class="sourceLine" id="cb2-7" title="7">    <span class="cf">return</span> n</a></code></pre></div>
+<blockquote>
+<p>A <em>ufunc</em> (Universal function) works with both scalars, numpy arrays and pandas</p>
+</blockquote>
+<hr />
+<ul>
+<li>Puzzle 2</li>
+</ul>
+<p>What is the output?</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb3-1" title="1"><span class="im">import</span> pandas <span class="im">as</span> pd</a>
+<a class="sourceLine" id="cb3-2" title="2"></a>
+<a class="sourceLine" id="cb3-3" title="3">simpsons <span class="op">=</span> pd.Series([<span class="st">&#39;Homer&#39;</span>, <span class="st">&#39;Marge&#39;</span>, <span class="st">&#39;Lisa&#39;</span>, <span class="st">&#39;Maggie&#39;</span>])</a>
+<a class="sourceLine" id="cb3-4" title="4"></a>
+<a class="sourceLine" id="cb3-5" title="5"><span class="bu">print</span>(<span class="st">&#39;Bart&#39;</span> <span class="kw">in</span> simpsons)</a></code></pre></div>
+<hr />
+<p>Answer: False</p>
+<p>Pandas series acts like a dict with index as the key and values as values of a dict. So inorder to make this work we will have to use</p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb4-1" title="1"><span class="bu">print</span>(<span class="st">&#39;Bart&#39;</span> <span class="kw">in</span> simpsons.values)</a></code></pre></div>
+<hr />
+<ul>
+<li>Puzzle 3</li>
+</ul>
+<p>What is the output?</p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb5-1" title="1"><span class="im">from</span> io <span class="im">import</span> StringIO</a>
+<a class="sourceLine" id="cb5-2" title="2"><span class="im">import</span> pandas <span class="im">as</span> pd</a>
+<a class="sourceLine" id="cb5-3" title="3"></a>
+<a class="sourceLine" id="cb5-4" title="4">csv_data <span class="op">=</span> <span class="st">&#39;&#39;&#39;\</span></a>
+<a class="sourceLine" id="cb5-5" title="5"><span class="st">day, hits</span></a>
+<a class="sourceLine" id="cb5-6" title="6"><span class="st">2020-01-01, 400</span></a>
+<a class="sourceLine" id="cb5-7" title="7"><span class="st">2020-02-02, 600</span></a>
+<a class="sourceLine" id="cb5-8" title="8"><span class="st">2020-02-03, 500</span></a>
+<a class="sourceLine" id="cb5-9" title="9"><span class="st">&#39;&#39;&#39;</span></a>
+<a class="sourceLine" id="cb5-10" title="10"></a>
+<a class="sourceLine" id="cb5-11" title="11">df <span class="op">=</span> pd.read_csv(StringIO(csv_data))</a>
+<a class="sourceLine" id="cb5-12" title="12"><span class="bu">print</span>(df.day.dt.month.unique())</a></code></pre></div>
+<hr />
+<p>Answer: Attribute Error.</p>
+<p>pandas doesn’t know that the column has a date type. We will have to convert the type manually or use the parameter parse_dates in read_csv function</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb6-1" title="1">df <span class="op">=</span> pd.read_csv(StringIO(csv_data), parse_dates<span class="op">=</span>[<span class="st">&#39;day&#39;</span>])</a></code></pre></div>
+<hr />
+<ul>
+<li>Puzzle 9</li>
+</ul>
+<p>What is the answer?</p>
+<div class="sourceCode" id="cb7"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb7-1" title="1"><span class="im">import</span> pandas <span class="im">as</span> pd</a>
+<a class="sourceLine" id="cb7-2" title="2"></a>
+<a class="sourceLine" id="cb7-3" title="3">grades <span class="op">=</span> pd.Series([<span class="dv">61</span>, <span class="dv">82</span>, <span class="dv">57</span>])</a>
+<a class="sourceLine" id="cb7-4" title="4">bonuses <span class="op">=</span> pd.Series([<span class="dv">10</span>, <span class="dv">5</span>, <span class="dv">10</span>, <span class="dv">10</span>])</a>
+<a class="sourceLine" id="cb7-5" title="5">out <span class="op">=</span> grades <span class="op">+</span> bonuses</a>
+<a class="sourceLine" id="cb7-6" title="6"></a>
+<a class="sourceLine" id="cb7-7" title="7"><span class="bu">print</span>(out)</a></code></pre></div>
+<hr />
+<p>Answer: 71, 87, 67, NaN This behaviour is different from that of numpy. Numpy will not be able to broadcast and throw and Value Error. On the otherhand when pandas can’t find a maching index it will use <strong>nan</strong> for a value.</p>
+<hr />
+<ul>
+<li>Puzzle 10 - Free Range</li>
+</ul>
+<p>What is the answer?</p>
+<div class="sourceCode" id="cb8"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb8-1" title="1"><span class="im">import</span> pandas <span class="im">as</span> pd</a>
+<a class="sourceLine" id="cb8-2" title="2"></a>
+<a class="sourceLine" id="cb8-3" title="3">nums <span class="op">=</span> pd.Series([<span class="dv">1</span>, <span class="dv">2</span>, <span class="dv">3</span>, <span class="dv">4</span>, <span class="dv">5</span>, <span class="dv">6</span>])</a>
+<a class="sourceLine" id="cb8-4" title="4"><span class="bu">print</span>(nums[(nums <span class="op">&gt;</span> <span class="dv">2</span>) <span class="kw">and</span>  (nums <span class="op">&lt;</span> <span class="dv">5</span>)])</a></code></pre></div>
+<hr />
+<p>Answer : Value Error</p>
+<p><code>and</code> is invoked on two Boolean series and that raises an error. So use</p>
+<ul>
+<li><code>&amp;</code> instead of <code>and</code></li>
+<li><code>|</code> instead of <code>or</code></li>
+<li><code>~</code> instead of <code>not</code></li>
+</ul>
+<hr />
+<ul>
+<li>Puzzle 11 - Phil? Nah!?</li>
+</ul>
+<p>What is the answer?</p>
+<div class="sourceCode" id="cb9"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb9-1" title="1"><span class="im">import</span> pandas <span class="im">as</span> pd</a>
+<a class="sourceLine" id="cb9-2" title="2"><span class="im">import</span> numpy <span class="im">as</span> np</a>
+<a class="sourceLine" id="cb9-3" title="3"></a>
+<a class="sourceLine" id="cb9-4" title="4">s <span class="op">=</span> pd.Series([<span class="dv">1</span>, <span class="dv">2</span>, np.nan, <span class="dv">4</span>, <span class="dv">5</span>])</a>
+<a class="sourceLine" id="cb9-5" title="5">s.fillna(<span class="dv">3</span>)</a>
+<a class="sourceLine" id="cb9-6" title="6"><span class="bu">print</span>(s.<span class="bu">sum</span>())</a></code></pre></div>
+<hr />
+<p>Answer: 12.0</p>
+<p><strong>fillna</strong> returns a new series unless the parameter <strong>inplace</strong> is set to <strong>True</strong></p>
+<hr />
+<ul>
+<li>Puzzle 12 - Multiplying</li>
+</ul>
+<p>What is the answer?</p>
+<div class="sourceCode" id="cb10"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb10-1" title="1"><span class="im">import</span> pandas <span class="im">as</span> pd</a>
+<a class="sourceLine" id="cb10-2" title="2"></a>
+<a class="sourceLine" id="cb10-3" title="3">v <span class="op">=</span> pd.Series([<span class="fl">0.1</span>, <span class="fl">1.0</span>, <span class="fl">1.1</span>])</a>
+<a class="sourceLine" id="cb10-4" title="4">out <span class="op">=</span> v <span class="op">*</span> v</a>
+<a class="sourceLine" id="cb10-5" title="5">expected <span class="op">=</span> pd.Series([<span class="fl">0.01</span>, <span class="fl">1.0</span>, <span class="fl">1.2</span>])</a>
+<a class="sourceLine" id="cb10-6" title="6"><span class="cf">if</span> (out <span class="op">==</span> expected).<span class="bu">all</span>():</a>
+<a class="sourceLine" id="cb10-7" title="7">    <span class="bu">print</span>(<span class="st">&quot;Math rocks&quot;</span>)</a>
+<a class="sourceLine" id="cb10-8" title="8"><span class="cf">else</span>:</a>
+<a class="sourceLine" id="cb10-9" title="9">    <span class="bu">print</span>(<span class="st">&quot;Please reinstall universe and reboot&quot;</span>)</a></code></pre></div>
+<hr />
+<p>Aswer: Please reinstall universe and reboot.</p>
+<p>Floating point comparison!</p>
+<p>use <code>numpy.allclose</code> instead</p>
+<hr />
+<ul>
+<li>Puzzle 13 - 10% discout</li>
+</ul>
+<p>What is the answer</p>
+<div class="sourceCode" id="cb11"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb11-1" title="1"><span class="im">import</span> pandas <span class="im">as</span> pd</a>
+<a class="sourceLine" id="cb11-2" title="2"></a>
+<a class="sourceLine" id="cb11-3" title="3">df <span class="op">=</span> pd.DataFrame([</a>
+<a class="sourceLine" id="cb11-4" title="4">    [<span class="st">&#39;Bugs&#39;</span>, <span class="va">True</span>, <span class="fl">72.1</span>],</a>
+<a class="sourceLine" id="cb11-5" title="5">    [<span class="st">&#39;Daffy&#39;</span>, <span class="va">False</span>, <span class="fl">30.7</span>],</a>
+<a class="sourceLine" id="cb11-6" title="6">    [<span class="st">&#39;Tweety&#39;</span>, <span class="va">True</span>, <span class="fl">23.5</span>],</a>
+<a class="sourceLine" id="cb11-7" title="7">    [<span class="st">&#39;Elmer&#39;</span>, <span class="va">False</span>, <span class="fl">103.9</span>]</a>
+<a class="sourceLine" id="cb11-8" title="8">], columns<span class="op">=</span>[<span class="st">&#39;Customer&#39;</span>, <span class="st">&#39;Member&#39;</span>, <span class="st">&#39;Amount&#39;</span>])</a>
+<a class="sourceLine" id="cb11-9" title="9"></a>
+<a class="sourceLine" id="cb11-10" title="10">df[df[<span class="st">&#39;Member&#39;</span>]][<span class="st">&#39;Amount&#39;</span>] <span class="op">*=</span> <span class="fl">0.9</span></a>
+<a class="sourceLine" id="cb11-11" title="11"><span class="bu">print</span>(df)</a></code></pre></div>
+<hr />
+<p>Answer: Warning and df is not updated</p>
+<p>Reason: pandas tries to avoid copying of data. It is returning a view.</p>
+<p>Solution:</p>
+<div class="sourceCode" id="cb12"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb12-1" title="1">df.loc[df[<span class="st">&#39;Member&#39;</span>], <span class="st">&#39;Amount&#39;</span>] <span class="op">*=</span> <span class="fl">0.9</span></a></code></pre></div>
+<hr />
+<ul>
+<li>Puzzle 14 - A tale of one city</li>
+</ul>
+<p>What is the answer?</p>
+<div class="sourceCode" id="cb13"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb13-1" title="1"><span class="im">import</span> pandas <span class="im">as</span> pd</a>
+<a class="sourceLine" id="cb13-2" title="2"></a>
+<a class="sourceLine" id="cb13-3" title="3">cities <span class="op">=</span> pd.DataFrame([</a>
+<a class="sourceLine" id="cb13-4" title="4">    (<span class="st">&#39;Vienna&#39;</span>, <span class="st">&#39;Austria&#39;</span>, <span class="dv">1</span>_899_055),</a>
+<a class="sourceLine" id="cb13-5" title="5">    (<span class="st">&#39;Sofia&#39;</span>, <span class="st">&#39;Bulgaria&#39;</span>, <span class="dv">1</span>_238_438),</a>
+<a class="sourceLine" id="cb13-6" title="6">    (<span class="st">&#39;Tekirdag&#39;</span>, <span class="st">&#39;Turkey&#39;</span>, <span class="dv">1</span>_055_412),</a>
+<a class="sourceLine" id="cb13-7" title="7">    ], columns<span class="op">=</span>[<span class="st">&#39;City&#39;</span>, <span class="st">&#39;Country&#39;</span>, <span class="st">&#39;Population&#39;</span>]</a>
+<a class="sourceLine" id="cb13-8" title="8">)</a></code></pre></div>
+<p><span class="citation" data-cites="todo">@todo</span></p>
+<hr />
+<ul>
+<li>Puzzle 19 - Holding out for a Hero</li>
+</ul>
+<p>What is the answer?</p>
+<div class="sourceCode" id="cb14"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb14-1" title="1"><span class="im">import</span> pandas <span class="im">as</span> pd</a>
+<a class="sourceLine" id="cb14-2" title="2"></a>
+<a class="sourceLine" id="cb14-3" title="3">heros <span class="op">=</span> pd.Series([<span class="st">&#39;Batman&#39;</span>, <span class="st">&#39;Wonder Woman&#39;</span>, <span class="st">&#39;Superman&#39;</span>])</a>
+<a class="sourceLine" id="cb14-4" title="4"></a>
+<a class="sourceLine" id="cb14-5" title="5"><span class="cf">if</span> heros.<span class="bu">str</span>.find(<span class="st">&#39;Iron Man&#39;</span>).<span class="bu">any</span>():</a>
+<a class="sourceLine" id="cb14-6" title="6">    <span class="bu">print</span>(<span class="st">&#39;Wrong Universe&#39;</span>)</a>
+<a class="sourceLine" id="cb14-7" title="7"><span class="cf">else</span>:</a>
+<a class="sourceLine" id="cb14-8" title="8">    <span class="bu">print</span>(<span class="st">&#39;DC&#39;</span>)</a></code></pre></div>
+<hr />
+<p>Answer: <code>Wrong Universe</code></p>
+<p>Reasson: <code>str.find</code> return -1 if find fails. So <code>any()</code> returns true because all the values are <code>-1</code></p>
+<p>Solution: Instead of find use <code>==</code></p>
+<hr />
+<ul>
+<li>Puzzle 20 - It’s a Date</li>
+</ul>
+<p>What is the answer?</p>
+<div class="sourceCode" id="cb15"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb15-1" title="1"><span class="im">import</span> pandas <span class="im">as</span> pd</a>
+<a class="sourceLine" id="cb15-2" title="2"></a>
+<a class="sourceLine" id="cb15-3" title="3">start <span class="op">=</span> pd.Timestamp.fromtimestamp(<span class="dv">0</span>).strftime(<span class="st">&#39;%Y-%m-</span><span class="sc">%d</span><span class="st">&#39;</span>)</a>
+<a class="sourceLine" id="cb15-4" title="4">times <span class="op">=</span> pd.date_range(start<span class="op">=</span>start, freq<span class="op">=</span><span class="st">&#39;M&#39;</span>, periods<span class="op">=</span><span class="dv">2</span>)</a></code></pre></div>
+<hr />
+<p>Answer: DatetimeIndex[‘1970-01-31’, ‘1970-02-28’]</p>
+<p>Reason: Frequency M is end of Month Frequency</p>
+<hr />
+<ul>
+<li>Puzzle 21 - What the points?</li>
+</ul>
+<div class="sourceCode" id="cb16"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb16-1" title="1"></a>
+<a class="sourceLine" id="cb16-2" title="2"><span class="im">import</span> pandas <span class="im">as</span> pd</a>
+<a class="sourceLine" id="cb16-3" title="3"></a>
+<a class="sourceLine" id="cb16-4" title="4">df <span class="op">=</span> pd.DataFrame([[<span class="dv">1</span>,<span class="dv">2</span>], [<span class="dv">3</span>,<span class="dv">4</span>]], columns<span class="op">=</span>[<span class="st">&#39;x&#39;</span>, <span class="st">&#39;y&#39;</span>])</a>
+<a class="sourceLine" id="cb16-5" title="5"><span class="bu">print</span>(df.to_csv())</a></code></pre></div>
+<hr />
+<p>Answer:</p>
+<pre><code> , x, y
+0, 1, 2
+1, 3, 4</code></pre>
+<p>Reason: Prints the index value too. Pass index=False to omit the index.</p>
+<hr />
+<ul>
+<li>Puzzle 22 - Find me a Phone Booth</li>
+</ul>
+<div class="sourceCode" id="cb18"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb18-1" title="1"><span class="im">import</span> pandas <span class="im">as</span> pd</a>
+<a class="sourceLine" id="cb18-2" title="2"></a>
+<a class="sourceLine" id="cb18-3" title="3">df1 <span class="op">=</span> pd.DataFrame([<span class="st">&#39;id&#39;</span> : [<span class="dv">1</span>, <span class="dv">2</span>, <span class="dv">3</span>]],</a>
+<a class="sourceLine" id="cb18-4" title="4">                   name <span class="op">=</span> {[<span class="st">&#39;Clark Kent&#39;</span>, <span class="st">&#39; Diana Prince&#39;</span>, <span class="st">&#39;Bruce Wayne&#39;</span>]})</a>
+<a class="sourceLine" id="cb18-5" title="5"></a>
+<a class="sourceLine" id="cb18-6" title="6">df2 <span class="op">=</span> pd.DataFrame([<span class="st">&#39;id&#39;</span> : [<span class="dv">2</span>, <span class="dv">1</span>, <span class="dv">4</span>]], </a>
+<a class="sourceLine" id="cb18-7" title="7">                   name <span class="op">=</span> {[<span class="st">&#39;Superman&#39;</span>, <span class="st">&#39;Wonderwoman&#39;</span>, <span class="st">&#39;Aquaman&#39;</span>]})</a>
+<a class="sourceLine" id="cb18-8" title="8">df <span class="op">=</span> pd.merge(df1, df2, on<span class="op">=</span><span class="st">&#39;id&#39;</span>)</a>
+<a class="sourceLine" id="cb18-9" title="9"><span class="bu">print</span>(df)</a></code></pre></div>
+<hr />
+<p>Answer:</p>
+</body>
+</html>

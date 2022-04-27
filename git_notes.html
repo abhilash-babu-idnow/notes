@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>git_notes</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="sakura-dark-solarized.css" />
+</head>
+<body>
+<h2 id="notes-from-the-book---a-hackers-guide-to-git.">Notes from the book - A Hackers guide to git.</h2>
+<blockquote>
+<p>Git doesn’t work like Subversion. Intention of the book is to look under the hood and see how git works internally.</p>
+</blockquote>
+<h3 id="repositories.">Repositories.</h3>
+<ul>
+<li>A git repo is just a key-value store and it stores
+<ul>
+<li>Blobs - usually a binary representation of the file</li>
+<li>Tree - like dictionaries - contains pointers to blobs and other tree objects</li>
+<li>Commits - points to a single tree and also contains some meta data like commit author, comments and parent commit etc</li>
+<li>Tag - points to a single commit and contains meta data</li>
+<li>References - pointers to single object (commit or tag object)</li>
+</ul></li>
+</ul>
+<blockquote>
+<p>exists entirely in single <strong>.git</strong> directory no central repository ( hence distributed version control system )</p>
+</blockquote>
+<blockquote>
+<p>initialize a git repo with the command <strong>git init</strong></p>
+</blockquote>
+<p>Important directories in .git</p>
+<ul>
+<li>.git/objects - where objects are stored :smirk:</li>
+<li>.git/refs - where references are stored :bowtie:</li>
+</ul>
+<h3 id="tree-objects">Tree Objects</h3>
+<ul>
+<li>Like a directory
+<ul>
+<li>with a list of directories (read blobs)</li>
+<li>subdirectories (read other tree objects)</li>
+</ul></li>
+</ul>
+<h3 id="commits">Commits</h3>
+<blockquote>
+<p>git show –format=raw partial_hash Above command will show the commit’s metadata</p>
+</blockquote>
+<h3 id="references">References</h3>
+<p>A <strong>reference</strong> is just a file in .git/refs that contains the hash of a commit object.</p>
+<blockquote>
+<p>branches are just references HEAD is the reference to the current branch.</p>
+</blockquote>
+<p>Switching to a new branch</p>
+<blockquote>
+<p>cat .git/HEAD ref: refs/heads/master git checkout test-branch Switched to branch ‘test-branch’ cat .git/HEAD ref: refs/heads/test-branch</p>
+</blockquote>
+<h3 id="tags">Tags</h3>
+<p>There are two types of tags in git * lightweight tags * Default type of tag created. * Just a reference to the commit object. * annotated tags * created with the command <code>git tag -a -m "Tagged 1.0" 1.0</code> * tag object, a reference to a commit obj. * contains other meta infomation like author of the tag. * timestamp of the tag creation etc.</p>
+<h3 id="merging.">Merging.</h3>
+<blockquote>
+<p>Joining of two histories (branches) together.</p>
+</blockquote>
+<h3 id="cherry-picking.">Cherry Picking.</h3>
+<p>Takes one or more commits and replays them on the top of the current commit.</p>
+<p>[[tvm-1.png]] becomes</p>
+<p>[[Pasted image 1.png]] when the following command is executed.</p>
+<p><code>git cherry-pick F</code></p>
+<h3 id="rebasing.">Rebasing.</h3>
+<blockquote>
+<p>Hey, I want to pretend that <target> was actually branched from <base> . Take all the commits from <target> and pretend that they happened after <base>.</p>
+</blockquote>
+</body>
+</html>

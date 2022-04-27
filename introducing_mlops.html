@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>introducing_mlops</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="sakura-dark-solarized.css" />
+</head>
+<body>
+<h1 id="part-1---what-and-why">Part 1 - What and Why?</h1>
+<blockquote>
+<p>MLOps vs ModelOps vs AIOps <strong>MLOps</strong> and <strong>ModelOps</strong> are the same, but some might argue that <strong>ModelOps</strong> is bit more generic in the sense that it also includes rule based models in addition to the ML models. <strong>AIOps</strong> is a different thing altogether and deals with using AI for operations like AI for Devops solviing problems like predictive maintenance, predicting newtork failures etc in advance.</p>
+</blockquote>
+<h3 id="definition-and-challenges">Definition and Challenges</h3>
+<ul>
+<li>It is the standardization and streamlining of the Machine learning life cycle management.</li>
+</ul>
+<p>[[Simplistic_ML_Model_Life_Cycle.png]]</p>
+<p>[[Realistic_ML_Model_Life_Cycle.png]]</p>
+<p>Challenges</p>
+<ul>
+<li>Changing Business needs and Changing Data. It is important to make sure that the model represents the actual Business requirements.</li>
+<li>Different tools and language is used by Business Leaders, Data scientists, Analysts, Data Engineers, DevOps engineers etc.</li>
+<li>Data scientists have to often juggle between many roles and often end up with maintaining and deploying a lot of models and sometime models that they didn’t even develop. The whole situation then become very complex and chaotic.</li>
+</ul>
+<h2 id="people-of-mlops">People of MLOps</h2>
+<p>[[People_of_MLOps.png]]</p>
+<h3 id="subject-matter-experts">Subject Matter Experts</h3>
+<ul>
+<li>ML Model life cycle starts and ends with Subject Matter Experts</li>
+<li>Define Business goals, questions and KPIs (Key performance Indidcators)</li>
+<li>Without inputs from SMEs the models developed by Data Scientits might not bring a lot of value to the business</li>
+<li>Which would lead to less business outcomes which would mean that there wouldn’t be more budget for ML projects</li>
+<li>SMEs close the feedback loop by making sure that the model is working as expected. The model metrics will only tell you if the model is working with respect to the data. But SMEs can provide feedback whether the model is answering the business questions and serving the business goals.</li>
+<li>MLOps should be designed in such a way that
+<ul>
+<li>SMEs should be able to flag in a scalable way if the model performance drifts.</li>
+<li>It is transparent to SMEs how the model works, what data processes are being used.</li>
+<li>It should be easy for the SMEs to make sure that ML models cater to the internal and external regulations audits etc.</li>
+<li>It works as a medium of communication between SMEs and Data scientists.</li>
+<li>It helps the SMEs understand why the model arrived at a particular outcome (Responsible AI)</li>
+</ul></li>
+</ul>
+<h3 id="data-scientists">Data Scientists</h3>
+<h1 id="part-2---mlops-how">Part 2 - MLOps How?</h1>
+<h2 id="developing-models">Developing Models</h2>
+<p>[[Pasted image 20220329221757.png]]</p>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>practices_of_a_python_pro</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="sakura-dark-solarized.css" />
+</head>
+<body>
+<h1 id="practices-of-the-python-pro-notes">Practices of the Python Pro (Notes)</h1>
+<blockquote>
+<p>Provides a set of principles for producing shareable, reusable software.</p>
+</blockquote>
+<h2 id="part-1---why-it-all-matters">Part 1 - Why it all matters</h2>
+<h3 id="the-bigger-picture">The bigger picture</h3>
+<h2 id="part-2---foundations-of-design">Part 2 - Foundations of design</h2>
+<h3 id="separation-of-concerns">Separation of concerns</h3>
+<p>clear code - segregate distinct behaviours (concerns) - simpler to reason</p>
+<h4 id="namespacing">Namespacing</h4>
+<p>avoids name collision - helps guess location of code - will help guide where to add new code - part of <strong>zen of python</strong> - <em>Namespaces are one honking great idea - let’s do that more of those!</em> - built-in namespace contains all that is built into python - no need to explicitly create namespaces</p>
+<blockquote>
+<p>built-in namespace -&gt; module namespace -&gt; local namespace (classes, functions etc)</p>
+</blockquote>
+<p><span class="citation" data-cites="todo">@todo</span> - lookup difference between namespace and scope in the context of python. both sounds the same from the above explanation.</p>
+<h3 id="abstraction-and-encapsulation">Abstraction and Encapsulation</h3>
+<h3 id="designing-for-high-performance">Designing for high performance</h3>
+<h3 id="testing-your-software">Testing your software</h3>
+<h2 id="part-3---nailing-down-large-systems">Part 3 - Nailing down large systems</h2>
+<h3 id="separation-of-concerns-in-practice">Separation of concerns in practice</h3>
+<p>Helps in <em>code reuse, improved maintainability and ease of extension and generalization</em> - A typical way to achieve seperation of concern is to use a layered architecture - for example an application could be split up into having a presentation layer (UI), a business logic layer and a persistence layer (DB) - Example patterns MVC, MVVM etc ### Extensibility and flexibility ### The rules of inheritence ### Keeping things lightweight ### Achieving loose coupling</p>
+<h2 id="part-4---whats-next">Part 4 - What’s next?</h2>
+</body>
+</html>

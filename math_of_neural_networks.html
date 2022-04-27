@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>math_of_neural_networks</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="sakura-dark-solarized.css" />
+</head>
+<body>
+<h2 id="what-are-hyperparameters">What are hyperparameters?</h2>
+<p>They are fine tuning knobs that can be tweaked to help a network successfully train.</p>
+<hr />
+<h3 id="required-hyperparameters">Required Hyperparameters:</h3>
+<ul>
+<li>Total number of input nodes.</li>
+<li>Total number of hidden layers.</li>
+<li>Total number of hidden nodes in each hidden layer.</li>
+<li>Total number of output nodes.</li>
+<li>Weight values.</li>
+<li>Bias values.</li>
+<li>Learning rate.</li>
+</ul>
+<hr />
+<h3 id="optional-hyperparameters">Optional Hyperparameters</h3>
+<ul>
+<li>Learning rate schedule ( learning rate decay )</li>
+<li>Momentum</li>
+<li>Mini batch size.</li>
+<li>Weight decay</li>
+<li>Dropout.</li>
+</ul>
+<blockquote>
+<p>Input Node Input to the network Numerical Each node =&gt; A feature Each node =&gt; One dimension</p>
+</blockquote>
+<blockquote>
+<p>Hidden Layer Layer b/w Input and Output layer Can be single or multiple. How many? (out of scope) refer [[Practical_way_to_train_rbm]]</p>
+</blockquote>
+<blockquote>
+<p>Hidden Node Node in a hidden layer General rules of thumb and trial error to choose the number of hidden nodes. More info refer [[Practical_recom_gradient_based_training|Practical Recommendations for Gradient based training of deep architectures]]</p>
+</blockquote>
+<blockquote>
+<p>Output Node Node in output layer. Single or multiple depending upon the objective of the network.</p>
+</blockquote>
+<blockquote>
+<p>Weight Value …. …. ….</p>
+</blockquote>
+<h3 id="calculating-the-total-error.">Calculating the total error.</h3>
+<p>Total error is the difference between the networks actual output and target output. #### Forward #### Mathematical Functions &gt; What is a cost function? &gt; Measure of how wrong a network is.</p>
+<blockquote>
+<p>Types of cost functions? MSE, SE, RMS, SSE, Cross Entropy, Exponential, KL Divergence etc.</p>
+</blockquote>
+<h3 id="updating-the-weights.">Updating the weights.</h3>
+<h4 id="what-is-gradient-descent">What is gradient descent?</h4>
+<ul>
+<li><p>Optimization method; Find combination of weights that will minimize the error in the output of the network; Metaphor -&gt; “It is how we turn the dials to fine tune the network”</p></li>
+<li><p>Learning rate -&gt; Speeds up or slows down how quickly an algorithm learns. ~ 0.0001 to 1. ; Determines the size of the step an algorithm takes when moving towards the global minimum.</p></li>
+<li><p>Analogy -&gt; Gradient descent is like a person hiking down a mountain.</p></li>
+</ul>
+<p>Reference: &gt; [[An overview of gradient descent optimization algorithms.pdf]]</p>
+<h5 id="gradient-descent-methods">Gradient Descent Methods</h5>
+<h6 id="batch-gradient-descent-full-batch">Batch Gradient Descent (Full Batch)</h6>
+<ul>
+<li>Summing the gradients for <em>every</em> training set element and then updating the weights.</li>
+<li>eg. if there are 10000 images, then update of the weights will not occur until after the gradients of all 10000 images have been calculated and combined.</li>
+</ul>
+<h6 id="stochastic-gradient-descent-sgd-online">Stochastic Gradient Descent (SGD / Online)</h6>
+<ul>
+<li>Weights in the network are modified after every training set element.</li>
+<li>Shuffle the inputs to avoid the network getting biased either after the every epoch or once before the training.</li>
+<li>Can bounce around the global minimum</li>
+</ul>
+<h6 id="mini-batch-gradient-descent">Mini Batch Gradient Descent</h6>
+<ul>
+<li>Summing the gradients for multiple training set inputs and then updating the weights.</li>
+<li>Size of the mini batch is a hyperparameter.</li>
+<li>Most popular</li>
+</ul>
+<h5 id="updating-weight">Updating Weight</h5>
+<h6 id="general-weight-update-equation">General Weight Update Equation</h6>
+<p>[[general_weight_update.png]]</p>
+<h6 id="batch-training-weight-update-equation">Batch Training Weight Update Equation</h6>
+<p>For batch training, the weights are updated after passing an entire training set through the network (one epoch).</p>
+<blockquote>
+<p>Purpose of a weight update is to minimize the error of a weight and help move the network towards minimizing the total error.</p>
+</blockquote>
+<p>[[batch_training_weight_update_1.png]]</p>
+<p>[[batch_training_weight_update_2.png]]</p>
+<p>[[batch_training_weight_update_3.png]]</p>
+<h6 id="sgd-training-weight-update-equation">SGD Training Weight update equation</h6>
+<p>[[sgd_weight_update.png]]</p>
+<blockquote>
+<p>Weights are updated after each single training example is passed through the network.</p>
+</blockquote>
+<blockquote>
+<p>Multiplying the error of a weight by the learning rate and subtracting that from the current weight.</p>
+</blockquote>
+<h6 id="mini-batch-training-weight-update-equation">Mini Batch Training Weight update equation</h6>
+<p>[[mini_batch_training_weight_update.png]]</p>
+<blockquote>
+<p>Weights are updated after a certain number of training elements have passed through the network. In the above equation mini batch size is 10. This is a hyperparameter. So if there are 1000 samples and the mini batch size is 10 then there will be 100 weight updates.</p>
+</blockquote>
+</body>
+</html>

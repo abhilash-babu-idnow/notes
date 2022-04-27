@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>thoughtful_machine_learning_in_python</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="sakura-dark-solarized.css" />
+</head>
+<body>
+<h1 id="chapter-1---probably-approximately-correct-software.">Chapter 1 - Probably approximately correct software.</h1>
+<h2 id="writing-software-right">Writing software right</h2>
+<p>Write the software right by following the SOLID, TDD and Refactoring principles. ### SOLID &gt; Single Responsibility Principle Have a piece of software do one thing and only one thing.</p>
+<blockquote>
+<p>Open Closed Principle Open for extending but closed for modification. (Encapsulation of objects)</p>
+</blockquote>
+<blockquote>
+<p>Liskov Substitution Principle Any subtype should be easily substituted out from underneath a object tree without side effect</p>
+</blockquote>
+<blockquote>
+<p>Interface Segregation Principle Having many client specific interfaces is better than a general interface for all clients</p>
+</blockquote>
+<blockquote>
+<p>Dependency Inversion Principle Depend on abstractions and not concretions. We should build a layer or inheritance tree of objects.</p>
+</blockquote>
+<h3 id="tdd">TDD</h3>
+<blockquote>
+<p>Write a test to record what you want to achive -&gt; Test to make sure that the test fails first -&gt; Write the code to fix the test -&gt; Refactor -&gt; Test</p>
+</blockquote>
+<h3 id="refactoring">Refactoring</h3>
+<p>Should be followed to reduce the <em>technical debt</em> &gt; Technical debt is a metaphor for poor system design that happens over time with software projects. It accrues interest and eventually blocks future feature development.</p>
+<h2 id="writing-the-right-software">Writing the Right Software</h2>
+<blockquote>
+<p>In theory, theory and practice are the same. In practice they are not. – <em>Albert Einstein</em></p>
+</blockquote>
+<p>Best approach is to craft specification first and then code to fit that spec. Downfall is the our assumtions made during the modelling can be wrong.</p>
+<h2 id="writing-the-right-software-with-machine-learning.">Writing the Right Software with Machine Learning.</h2>
+<blockquote>
+<p>Deduction = complex logic models -&gt; conclusion Induction = collect ground truth data -&gt; fit a model to the data</p>
+</blockquote>
+<h3 id="solid-applied-to-machine-learning.">SOLID applied to Machine Learning.</h3>
+<ul>
+<li>SRP
+<ul>
+<li>Data and code are dependent on each other. CACE (Chaning Anything Changes Everything) also called <em>Entaglement</em></li>
+<li>Glue code overtime tends to solve all problems instead of just one.</li>
+</ul></li>
+<li>OCP
+<ul>
+<li>Hidden feedback loops e.g. predicitive policing.</li>
+</ul></li>
+<li>LSP &gt; Ockhams Razor -&gt; The simplest solution is the best one.</li>
+</ul>
+<h1 id="chapter-2---a-quick-introduction-to-machine-learning.">Chapter 2 - A quick introduction to Machine learning.</h1>
+<blockquote>
+<p>Machines making sense out of data. Extract patterns from data Supervised, Unsupervised and Reinforcement learning.</p>
+</blockquote>
+<h2 id="supervised-learning.">Supervised Learning.</h2>
+<p>Function approximation - fitting data to a function ## Unsupervised Learning. Clustering ## Reinforcement Learning Learning throught rewards and payoffs.</p>
+<h1 id="chapter-3---k-nearest-neighbors">Chapter 3 - K Nearest Neighbors</h1>
+<blockquote>
+<p>Things are worth as much as someone is willing to pay. - Old Saying.</p>
+</blockquote>
+<h2 id="hedonic-regression">Hedonic Regression</h2>
+<blockquote>
+<p>Real life hedonic regression example - CPI index (index of inflation)</p>
+</blockquote>
+<p><strong>Instead of focussing on fitting a curve to a bag of attributes, it focuses on the components</strong> For example hedonic method can be used to estimate how much a bedroom costs.</p>
+<h1 id="chapter-4---naive-bayesian-classification">Chapter 4 - Naive Bayesian Classification</h1>
+<h2 id="conditional-probability">Conditional Probability</h2>
+<p><strong>P(A|B) = P(AB) / P(B)</strong></p>
+<h2 id="bayes-theorem">Bayes Theorem</h2>
+<p><strong>P(B | A) = P(A | B) * P(B) / P(A)</strong></p>
+</body>
+</html>
