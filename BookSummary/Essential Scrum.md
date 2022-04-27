@@ -12,9 +12,16 @@ Srum is an agile approach for developing innovative products and services.
 - At the end of the iteration the team and Product Owner review the Sprint and based on the feedback from the review the next iteration / sprint is planned.
 - At the end of the iteration there should be potentially a shippable product. It is also possible to group the outcome of a couple of sprints into a release.
 
+<p style="color:red; background-color:yellow">@todo : Read rest of the chapter</p>
+
 --- 
+
 ### Scrum Framework
 Comprises of
 - Values
 - Principles
 - Practices
+
+Practices
+
+![[scrum_practices.png]]
