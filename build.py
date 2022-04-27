@@ -47,3 +47,5 @@ for md_file in book_summary_path.rglob("*.md"):
         command = f"pandoc -s -f markdown -o {dest_path.with_suffix('.html')} {dest_path} -c sakura-dark-solarized.css"
         logging.info(command)
         subprocess.run(command, shell=True)
+
+subprocess.run(f"pandoc -s -f markdown -o public/yaml.html Programming/Yaml/learn_yaml.md -c sakura-dark-solarized.css", shell=True)
