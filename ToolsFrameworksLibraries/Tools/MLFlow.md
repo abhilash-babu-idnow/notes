@@ -7,6 +7,11 @@
 |MLflow Models | Mechanism that deploys to different types of envs |
 | MLflow Model Registry | Handles management of models in MLflow, life cycle including state |
 
-> Installation from pypi
-> ` pip install mlflow `
+---
+
+### Installation 
+` pip install mlflow `
+
+---
+
 
