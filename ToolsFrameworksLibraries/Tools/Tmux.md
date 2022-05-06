@@ -101,3 +101,18 @@ run '~/.tmux/plugins/tpm/tpm'
 
 3. Source the tmux conf or restart tmux
 4. Install plugins with the command `<prefix> I`
+
+
+## Copy Mode
+* Command to enter Copy mode is `<prefix> [` 
+* Press `<enter>` to exit the copy mode.
+* Select text from buffer in copy mode using the `space` key. Press `<enter>` to exit copy mode. Now if you press `<prefix> ]` , the selected text will be pasted to tmux session.
+* `<leader> : show-buffer<enter>`  Willl show the text copied in the copy mode buffer.
+* `<leader> : choose-buffer<enter>`  Will show list of all the current buffers, navigate select by presseing `<enter>` to select one of the buffers. Or use `<prefix> =`
+* Set the following the `.tmux.conf` to enable vim keys for navigating in copy mode: `setw -g mode-keys vi`
+* To capture the contents of the pane to a text file do the following
+	* Enter command mode `<prefix>:`
+	* Type `caputer-pane; save-buffer ~/buffer.txt<enter>`
+* Or may be add a short cut 
+	* `bind C-s run "tmux capture-pane && save-buffer ~/buffer.txt"
+
