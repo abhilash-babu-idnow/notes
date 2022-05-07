@@ -75,4 +75,21 @@ Notes from the book VIM 101 hacks and VIM
 	| `z.` | middle | 
 	
 	
-	
+- Source code navigation
+
+	| Key | Description |
+	|---| ---|
+	| `%` | Jump to matching pair |
+	| `[(` | Go to previous unmatched ( |
+	| `[)` | Go to previous unmatched ) |
+	| `[{` | Go to previous unmatched { |
+	| `[}` | Go to previous unmatched } |
+
+- Insert mode navigaion 
+
+	| Key | Description |
+	| --- | --- |
+	| `Shift ->`  | Go right word by word |
+	| `Shift <-`  | Go left word by word |
+
+- 
