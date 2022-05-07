@@ -74,6 +74,15 @@ set -g @continuum-restore 'on'
 |`<prefix> $`| Rename the session |
 |`<prefix> d`| Detach from the session |
 
+### Copy Mode
+
+|Command | What it does? |
+|---|---|
+| `<prefix> [`  | Enter Copy mode |
+| `<prefix> ]` | Paste Current Buffer |
+| `<prefix> =`  | List all buffers and choose one from which to paste |
+| `<space>` | Start selection in copy mode |
+| `<enter>` | Exit copy mode and copy selection to buffer |
 
 
 ## Plugins
@@ -89,6 +98,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 # List of plugins
 set -g @plugin 'tmux-plugins/tpm'
 set -g @plugin 'tmux-plugins/tmux-sensible'
+set -g @plugin 'tmux-plugins/tmux-yank'
 
 # Other examples:
 # set -g @plugin 'github_username/plugin_name'
