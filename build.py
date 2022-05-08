@@ -49,3 +49,19 @@ for md_file in book_summary_path.rglob("*.md"):
         subprocess.run(command, shell=True)
 
 subprocess.run(f"pandoc -s -f markdown -o public/yaml.html Programming/Yaml/learn_yaml.md -c sakura-dark-solarized.css", shell=True)
+
+tool_path =  Path.cwd() / "ToolsFrameworksLibraries"
+for md_file in tool_path.rglob("*.md"):
+    old_fname = md_file.name
+    new_fname = old_fname.replace(" ", "_")
+    new_fname = new_fname.lower()
+    dest_path = Path.cwd() / "public" / new_fname
+    logging.info(f"Copying {md_file} to {dest_path}")
+    copyfile(str(md_file), str(dest_path))
+    if not dest_path.exists():
+        logging.error(f"File {dest_path} doesn't exist")
+    else:
+        logging.info(f"{dest_path} exists.")
+        command = f"pandoc -s -f markdown -o {dest_path.with_suffix('.html')} {dest_path} -c sakura-dark-solarized.css"
+        logging.info(command)
+        subprocess.run(command, shell=True)
