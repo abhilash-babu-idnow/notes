@@ -41,3 +41,4 @@ A[Model trained in FP32] --Quanized--> B[Model in INT8]
 - [PyTorch Documentation](https://pytorch.org/docs/stable/quantization.html)
 - [PyTorch Dynamic Quantization Tutorial](https://pytorch.org/tutorials/recipes/recipes/dynamic_quantization.html)
 - [PyTorch Static Quantization Tutorial](https://pytorch.org/tutorials/advanced/static_quantization_tutorial.html)
+- [PyTorch Practical Quantization](https://pytorch.org/blog/quantization-in-practice/)
