@@ -1,4 +1,4 @@
-% YOLO
+% YOLOX
 
 [[YOLOX annotations |Paper Annotation]]
 
