@@ -4,7 +4,8 @@
 	- [ ] Clojure
 	- [ ] Kotlin
 	- [ ] FastAI
-	- [ ] Pytorch Lightning
+	- [ ] PyTorch Lightning
+	- [ ] PyTorch
 - [ ] Checkout hydra
 - [ ] Build Object detection model using 
 	- [ ] Detectron 2
@@ -15,3 +16,5 @@
 - [ ] Checkout wandb.ai
 - [ ] Checkout Falcon framework
 - [ ] Checkout FastAPI
+- [ ] Read and take notes from the blog post http://karpathy.github.io/2019/04/25/recipe/
+- [ ] 

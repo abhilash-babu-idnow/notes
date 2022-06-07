@@ -1,7 +1,5 @@
-[[deeplearning]]
-
 # Tools and Libraries
-[[scikit_learn]]
+[[scikit-learn]]
 [[PyTorch]]
 [[Tensorflow]]
 
@@ -12,3 +10,11 @@
 # Algorithms
 - [[svm]]
 - [[xgboost]]
+
+# Deep Learning 
+## Models
+- [mobilenet](app://obsidian.md/mobilenet) Mobile Net [#mobilenet](app://obsidian.md/index.html#mobilenet)
+- [Inception](app://obsidian.md/Inception)
+- [[YOLOX]]
+- [[YOLOv5]]
+- 

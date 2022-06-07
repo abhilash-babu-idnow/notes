@@ -8,6 +8,7 @@ Notes on
  - Machine learning
  - Book summaries
 
+[url](https://blog.abhilashbabuj.com/notes/)
  
  Best way to view this is to use it with the tool [Obsidian](https://obsidian.md/).
 
