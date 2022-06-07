@@ -4,7 +4,8 @@
 	- [ ] Clojure
 	- [ ] Kotlin
 	- [ ] FastAI
-	- [ ] Pytorch Lightning
+	- [ ] PyTorch Lightning
+	- [ ] PyTorch
 - [ ] Checkout hydra
 - [ ] Build Object detection model using 
 	- [ ] Detectron 2

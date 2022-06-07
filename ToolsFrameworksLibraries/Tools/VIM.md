@@ -41,38 +41,117 @@ Notes from the book VIM 101 hacks and VIM
 
 - Scrolling 
 
-	| Key       |       Description|
-	|---          | ---|
-	| `Ctrl F`  | Scroll down the full page |
-	| `Ctrl B`  | Scroll up a full page |
-	| `Ctrl D`  | Scroll down half page |
-	| `Ctrl U`  | Scroll up half page |
-	| `Ctrl E`  | Scroll down one line |
-	| `Ctrl Y`  | Scroll up one line | 
+| Key       |       Description|
+|---          | ---|
+| `Ctrl F`  | Scroll down the full page |
+| `Ctrl B`  | Scroll up a full page |
+| `Ctrl D`  | Scroll down half page |
+| `Ctrl U`  | Scroll up half page |
+| `Ctrl E`  | Scroll down one line |
+| `Ctrl Y`  | Scroll up one line | 
 
 - Word Navigation 
 
-	|  Key | Description |
-	| --- | --- |
-	| `w`  / `W` | Beginning of next word/Word | 
-	| `e`  / `E` | End of next word / Word |
-	| `b`  / `B` | Beginning of previous word/Word |
+|  Key | Description |
+| --- | --- |
+| `w`  / `W` | Beginning of next word/Word | 
+| `e`  / `E` | End of next word / Word |
+| `b`  / `B` | Beginning of previous word/Word |
 
 - Screen Navigation 
 
-	| Key | Description | 
-	| --- | --- |
-	| `H`  | Go to line 1 of the screen | 
-	| `M`  | Go to  middle of the screen | 
-	| `L`  | Go to tthe last line of the screen | 
+| Key | Description | 
+| --- | --- |
+| `H`  | Go to line 1 of the screen | 
+| `M`  | Go to  middle of the screen | 
+| `L`  | Go to tthe last line of the screen | 
 
 - Redraw screen with current line at top, bottom or middle
 
-	| Key | Description |
-	| --- | --- | 
-	| `z<Enter>` | top |
-	| `z-` | bottom |
-	| `z.` | middle | 
-	
-	
-	
+| Key | Description |
+| --- | --- | 
+| `z<Enter>` | top |
+| `z-` | bottom |
+| `z.` | middle | 
+
+- Source code navigation
+
+| Key | Description |
+|---| ---|
+| `%` | Jump to matching pair |
+| `[(` | Go to previous unmatched ( |
+| `[)` | Go to previous unmatched ) |
+| `[{` | Go to previous unmatched { |
+| `[}` | Go to previous unmatched } |
+
+- Insert mode navigaion 
+
+| Key | Description |
+| --- | --- |
+| `Shift ->`  | Go right word by word |
+| `Shift <-`  | Go left word by word |
+
+- Jumps
+
+| Key | Description |
+| --- | --- |
+| `Ctrl O` | Jump to previous spot | 
+| `Ctrl i` | Jump to next sport |
+
+- Visual line navigation
+
+| Key | Description |
+| --- | --- |
+| `gj` | down a visual line | 
+| `gk` | up a visual line | 
+| `g^` | starting of a visual line |
+| `g$` | end of a visual line |
+
+- Bookmarks 
+
+| Key | Description |
+| --- | --- |
+| `ma` | Bookmark current location with name a |
+| `backtick a`  | Jump to the bookmark | 
+	| `'a` | Jump to the beginning of the line with the bookmark a | 
+
+> Use upper case letter for the bookmark name to make it available globally across files.
+
+`:marks`   will display all the bookmarks.
+
+Special bookmarks
+
+| Bookmark | Description |
+|--- | --- |
+| `backtick .` | Jump to the location where the last change was made |
+| `'.`  | Jump to the beginning of the line where the last change was made. |
+
+
+- Clipboard
+
+| Key | Description |
+| --- | --- |
+|`:%y+` | Copy the whole file to clipboard |
+| `:y+` | Copy the current line to clipboard |
+| `:N,My+` | Copy specific range from file to clipboard |
+| `"*p` | Paste clipboard content to editor in normal mode |
+| `SHIFT Insert` | Paste clipboard content to editor in insert mode |
+| `"*y`  | Copy to clipboard |
+
+- Copy to another file 
+
+> `:5,10w nefilename` will copy the lines 5 to 10 into a new file
+
+- Increment and Decrement number
+
+| Key | Description |
+| --- | --- |
+| `Ctrl A`  | Increments the number under cursor |
+| `Ctrl X`  | Decrements the number under cursor |
+
+- Execute one vim command in insert mode
+
+| Key | Description |
+| --- | --- |
+| `Ctrl O` | Takes temporarily to the command mode | 
+
